@@ -14190,6 +14190,102 @@
           "category_ar": "مشروبات طاقة"
         },
         {
+          "id": "red_bull_red_watermelon",
+          "name_ar": "ريد بُل ريد إديشن (بطيخ)",
+          "name_en": "Red Bull Red Edition Watermelon",
+          "serving_g": 250.0,
+          "nutrition": {
+            "calories": 117,
+            "protein_g": 0.0,
+            "carbs_g": 28.0,
+            "fat_g": 0.0,
+            "sugar_g": 28.0,
+            "sodium_mg": 100,
+            "caffeine_mg": 80
+          },
+          "category_ar": "مشروبات طاقة"
+        },
+        {
+          "id": "red_bull_yellow_tropical",
+          "name_ar": "ريد بُل إصدار استوائي (أصفر)",
+          "name_en": "Red Bull Yellow Edition Tropical",
+          "serving_g": 250.0,
+          "nutrition": {
+            "calories": 115,
+            "protein_g": 0.0,
+            "carbs_g": 28.0,
+            "fat_g": 0.0,
+            "sugar_g": 27.0,
+            "sodium_mg": 100,
+            "caffeine_mg": 80
+          },
+          "category_ar": "مشروبات طاقة"
+        },
+        {
+          "id": "red_bull_blue_blueberry",
+          "name_ar": "ريد بُل إصدار التوت الأزرق",
+          "name_en": "Red Bull Blue Edition Blueberry",
+          "serving_g": 250.0,
+          "nutrition": {
+            "calories": 115,
+            "protein_g": 0.0,
+            "carbs_g": 28.0,
+            "fat_g": 0.0,
+            "sugar_g": 27.0,
+            "sodium_mg": 100,
+            "caffeine_mg": 80
+          },
+          "category_ar": "مشروبات طاقة"
+        },
+        {
+          "id": "red_bull_green_dragonfruit",
+          "name_ar": "ريد بُل إصدار الدراغون فروت (أخضر)",
+          "name_en": "Red Bull Green Edition Dragon Fruit",
+          "serving_g": 250.0,
+          "nutrition": {
+            "calories": 115,
+            "protein_g": 0.0,
+            "carbs_g": 27.0,
+            "fat_g": 0.0,
+            "sugar_g": 26.0,
+            "sodium_mg": 100,
+            "caffeine_mg": 80
+          },
+          "category_ar": "مشروبات طاقة"
+        },
+        {
+          "id": "red_bull_apricot_strawberry",
+          "name_ar": "ريد بُل إصدار المشمش والفراولة",
+          "name_en": "Red Bull Apricot-Strawberry Edition",
+          "serving_g": 250.0,
+          "nutrition": {
+            "calories": 114,
+            "protein_g": 0.0,
+            "carbs_g": 27.0,
+            "fat_g": 0.0,
+            "sugar_g": 26.0,
+            "sodium_mg": 100,
+            "caffeine_mg": 80
+          },
+          "category_ar": "مشروبات طاقة"
+        },
+        {
+          "id": "red_bull_red_sugarfree",
+          "name_ar": "ريد بُل ريد إديشن خالي السكر (بطيخ)",
+          "name_en": "Red Bull Red Edition Sugarfree",
+          "serving_g": 250.0,
+          "nutrition": {
+            "calories": 6,
+            "protein_g": 0.0,
+            "carbs_g": 1.5,
+            "fat_g": 0.0,
+            "sugar_g": 0.0,
+            "sodium_mg": 100,
+            "caffeine_mg": 80
+          },
+          "category_ar": "مشروبات طاقة"
+        },
+        {
           "id": "monster_green_500",
           "name_ar": "مونستر أخضر (علبة 500مل)",
           "name_en": "Monster Energy 500ml",
