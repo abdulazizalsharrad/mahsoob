@@ -1415,7 +1415,7 @@
         {
           "id": "marag_bamya",
           "name_ar": "مرق بامية",
-          "default_portion_g": 450,
+          "default_portion_g": 470,
           "components": [
             {
               "name_ar": "عيش أبيض",
@@ -1438,25 +1438,51 @@
               }
             },
             {
-              "name_ar": "مرق بامية باللحم",
+              "name_ar": "مرق بامية (بدون لحم)",
               "role": "sauce",
-              "grams": 200,
+              "grams": 150,
               "per100g": {
-                "calories": 95,
-                "protein_g": 5.0,
-                "carbs_g": 7.0,
-                "fat_g": 5.0,
-                "fiber_g": 2.5,
-                "sugar_g": 3.0,
-                "sodium_mg": 350,
-                "potassium_mg": 250,
-                "iron_mg": 1.0,
-                "thiamin_mg": 0.019,
-                "riboflavin_mg": 0.058,
-                "niacin_mg": 1.154,
-                "vitamin_b6_mg": 0.027,
-                "vitamin_b12_mcg": 0.52,
-                "vitamin_d_mcg": 0.02
+                "calories": 65,
+                "protein_g": 2.0,
+                "carbs_g": 8.0,
+                "fat_g": 3.0,
+                "fiber_g": 3.0,
+                "sugar_g": 3.5,
+                "sodium_mg": 300,
+                "potassium_mg": 260,
+                "iron_mg": 0.8,
+                "vitamin_c_mg": 12,
+                "vitamin_a_mcg": 30,
+                "thiamin_mg": 0.05,
+                "riboflavin_mg": 0.05,
+                "niacin_mg": 0.5,
+                "vitamin_b6_mg": 0.1
+              }
+            },
+            {
+              "name_ar": "لحم غنم",
+              "role": "protein",
+              "grams": 70,
+              "selector": "lamb",
+              "per100g": {
+                "calories": 250,
+                "protein_g": 26.0,
+                "carbs_g": 0.0,
+                "fat_g": 16.0,
+                "fiber_g": 0.0,
+                "sugar_g": 0.0,
+                "potassium_mg": 310,
+                "magnesium_mg": 24,
+                "calcium_mg": 14,
+                "iron_mg": 2.0,
+                "zinc_mg": 4.5,
+                "sodium_mg": 300,
+                "thiamin_mg": 0.1,
+                "riboflavin_mg": 0.3,
+                "niacin_mg": 6.0,
+                "vitamin_b6_mg": 0.14,
+                "vitamin_b12_mcg": 2.7,
+                "vitamin_d_mcg": 0.1
               }
             }
           ]
@@ -1535,25 +1561,23 @@
               }
             },
             {
-              "name_ar": "مرق عدس باللحم",
+              "name_ar": "مرق عدس",
               "role": "sauce",
               "grams": 200,
               "per100g": {
-                "calories": 110,
-                "protein_g": 6.0,
-                "carbs_g": 11.0,
-                "fat_g": 4.5,
-                "fiber_g": 3.0,
-                "sugar_g": 2.0,
-                "sodium_mg": 340,
-                "potassium_mg": 240,
+                "calories": 90,
+                "protein_g": 5.0,
+                "carbs_g": 13.0,
+                "fat_g": 1.5,
+                "fiber_g": 3.5,
+                "sugar_g": 1.5,
+                "sodium_mg": 320,
+                "potassium_mg": 230,
                 "iron_mg": 1.8,
                 "thiamin_mg": 0.169,
                 "riboflavin_mg": 0.073,
                 "niacin_mg": 1.06,
-                "vitamin_b6_mg": 0.178,
-                "vitamin_b12_mcg": 0.62,
-                "vitamin_d_mcg": 0.02
+                "vitamin_b6_mg": 0.178
               }
             }
           ]
