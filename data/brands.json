@@ -4,7 +4,7 @@
     {
       "id": "mills",
       "name_ar": "المطاحن",
-      "name_en": "Kuwait Flour Mills",
+      "name_en": "Kuwait Flour Mills & Bakeries",
       "emoji": "🌾",
       "kind": "productCompany",
       "logo": "assets/images/brands/mills_logo.png",
@@ -31,6 +31,7 @@
           },
           "name_en": "Pizza Mix",
           "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling",
           "image": "assets/images/brands/mills_pizza_mix.jpg"
         },
         {
@@ -55,6 +56,7 @@
           },
           "name_en": "Hareese (Peeled Wheat)",
           "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling",
           "image": "assets/images/brands/mills_hareese.jpg"
         },
         {
@@ -78,6 +80,7 @@
           },
           "name_en": "Whole Wheat Flour",
           "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling",
           "image": "assets/images/brands/mills_whole_wheat_flour.jpg"
         },
         {
@@ -102,6 +105,7 @@
           },
           "name_en": "White Flour",
           "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling",
           "image": "assets/images/brands/mills_white_flour.jpg"
         },
         {
@@ -126,6 +130,7 @@
           },
           "name_en": "Brown Flour",
           "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling",
           "image": "assets/images/brands/mills_brown_flour.jpg"
         },
         {
@@ -148,8 +153,9 @@
             "zinc_mg": 0.7,
             "folate_mcg": 183
           },
-          "name_en": "Patent (Excellent) Flour",
+          "name_en": "Patent Flour",
           "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling",
           "image": "assets/images/brands/mills_patent_flour.jpg"
         },
         {
@@ -174,6 +180,7 @@
           },
           "name_en": "Jareesh (Crushed Wheat)",
           "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling",
           "image": "assets/images/brands/mills_jareesh.jpg"
         },
         {
@@ -197,6 +204,7 @@
           },
           "name_en": "Pastries & Logaimat Mix",
           "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling",
           "image": "assets/images/brands/mills_pastries_logaimat_mix.jpg"
         },
         {
@@ -221,6 +229,7 @@
           },
           "name_en": "Chappati Flour",
           "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling",
           "image": "assets/images/brands/mills_chapati_flour.jpg"
         },
         {
@@ -244,7 +253,8 @@
             "folate_mcg": 43
           },
           "name_en": "Mill Wheat",
-          "category_ar": "طحين ومطاحن"
+          "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling"
         },
         {
           "id": "mills_mill_bran",
@@ -267,7 +277,8 @@
             "folate_mcg": 79
           },
           "name_en": "Mill Bran",
-          "category_ar": "طحين ومطاحن"
+          "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling"
         },
         {
           "id": "mills_fine_bran",
@@ -290,7 +301,8 @@
             "folate_mcg": 79
           },
           "name_en": "Fine Bran",
-          "category_ar": "طحين ومطاحن"
+          "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling"
         },
         {
           "id": "mills_semolina",
@@ -313,7 +325,8 @@
             "folate_mcg": 223
           },
           "name_en": "Semolina",
-          "category_ar": "طحين ومطاحن"
+          "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling"
         },
         {
           "id": "mills_flour_grade_00",
@@ -336,7 +349,8 @@
             "folate_mcg": 44
           },
           "name_en": "Flour Grade 00",
-          "category_ar": "طحين ومطاحن"
+          "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling"
         },
         {
           "id": "mills_flour_grade_000",
@@ -359,7 +373,8 @@
             "folate_mcg": 90
           },
           "name_en": "Flour Grade 000",
-          "category_ar": "طحين ومطاحن"
+          "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling"
         },
         {
           "id": "mills_flour_grade_0000",
@@ -382,7 +397,8 @@
             "folate_mcg": 183
           },
           "name_en": "Flour Grade 0000",
-          "category_ar": "طحين ومطاحن"
+          "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling"
         },
         {
           "id": "mills_european_bread_flour",
@@ -404,7 +420,8 @@
             "folate_mcg": 183
           },
           "name_en": "European Bread Flour",
-          "category_ar": "طحين ومطاحن"
+          "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling"
         },
         {
           "id": "mills_vegetable_biscuit_flour",
@@ -427,7 +444,8 @@
             "folate_mcg": 183
           },
           "name_en": "Vegetable Biscuit Flour",
-          "category_ar": "طحين ومطاحن"
+          "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling"
         },
         {
           "id": "mills_tandoor_flour",
@@ -450,7 +468,8 @@
             "folate_mcg": 90
           },
           "name_en": "Tandoor Flour",
-          "category_ar": "طحين ومطاحن"
+          "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling"
         },
         {
           "id": "mills_barley_bread_flour",
@@ -473,7 +492,8 @@
             "folate_mcg": 8.0
           },
           "name_en": "Barley Bread Flour",
-          "category_ar": "طحين ومطاحن"
+          "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling"
         },
         {
           "id": "mills_high_protein_flour",
@@ -495,7 +515,8 @@
             "folate_mcg": 183
           },
           "name_en": "High Protein / High Gluten Flour",
-          "category_ar": "طحين ومطاحن"
+          "category_ar": "طحين ومطاحن",
+          "category_en": "Flour & Milling"
         },
         {
           "id": "mills_lasagna",
@@ -516,7 +537,8 @@
             "folate_mcg": 145
           },
           "name_en": "Lasagna",
-          "category_ar": "معكرونة"
+          "category_ar": "معكرونة",
+          "category_en": "Pasta"
         },
         {
           "id": "mills_macaroni_20",
@@ -540,6 +562,7 @@
           },
           "name_en": "Macaroni No. 20",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_macaroni_20.jpg"
         },
         {
@@ -564,6 +587,7 @@
           },
           "name_en": "Macaroni No. 21",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_macaroni_21.jpg"
         },
         {
@@ -588,6 +612,7 @@
           },
           "name_en": "Macaroni No. 22",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_macaroni_22.jpg"
         },
         {
@@ -612,6 +637,7 @@
           },
           "name_en": "Macaroni No. 23",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_macaroni_23.jpg"
         },
         {
@@ -636,6 +662,7 @@
           },
           "name_en": "Macaroni No. 24",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_macaroni_24.jpg"
         },
         {
@@ -660,6 +687,7 @@
           },
           "name_en": "Macaroni No. 25",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_macaroni_25.jpg"
         },
         {
@@ -684,6 +712,7 @@
           },
           "name_en": "Macaroni No. 26",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_macaroni_26.jpg"
         },
         {
@@ -708,6 +737,7 @@
           },
           "name_en": "Macaroni No. 27",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_macaroni_27.jpg"
         },
         {
@@ -732,6 +762,7 @@
           },
           "name_en": "Macaroni No. 28",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_macaroni_28.jpg"
         },
         {
@@ -756,6 +787,7 @@
           },
           "name_en": "Macaroni No. 35",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_macaroni_35.jpg"
         },
         {
@@ -780,6 +812,7 @@
           },
           "name_en": "Macaroni No. 36",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_macaroni_36.jpg"
         },
         {
@@ -804,6 +837,7 @@
           },
           "name_en": "Macaroni No. 38",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_macaroni_38.jpg"
         },
         {
@@ -828,6 +862,7 @@
           },
           "name_en": "Macaroni No. 39",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_macaroni_39.jpg"
         },
         {
@@ -852,6 +887,7 @@
           },
           "name_en": "Macaroni No. 40",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_macaroni_40.jpg"
         },
         {
@@ -876,6 +912,7 @@
           },
           "name_en": "Macaroni No. 41",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_macaroni_41.jpg"
         },
         {
@@ -898,6 +935,7 @@
           },
           "name_en": "Vermicelli",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_vermicelli.jpg"
         },
         {
@@ -920,6 +958,7 @@
           },
           "name_en": "Spaghetti",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_spaghetti.jpg"
         },
         {
@@ -942,6 +981,7 @@
           },
           "name_en": "Fettuccine",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_fettuccine.jpg"
         },
         {
@@ -965,7 +1005,8 @@
             "folate_mcg": 145
           },
           "name_en": "Capellini",
-          "category_ar": "معكرونة"
+          "category_ar": "معكرونة",
+          "category_en": "Pasta"
         },
         {
           "id": "mills_durum_macaroni_20",
@@ -989,6 +1030,7 @@
           },
           "name_en": "Durum Macaroni No. 20",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_durum_macaroni_20.jpg"
         },
         {
@@ -1013,6 +1055,7 @@
           },
           "name_en": "Durum Nests No. 1",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_durum_nests_1.jpg"
         },
         {
@@ -1037,6 +1080,7 @@
           },
           "name_en": "Durum Macaroni No. 23",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_durum_macaroni_23.jpg"
         },
         {
@@ -1061,6 +1105,7 @@
           },
           "name_en": "Durum Macaroni No. 22",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_durum_macaroni_22.jpg"
         },
         {
@@ -1085,6 +1130,7 @@
           },
           "name_en": "Durum Spaghetti",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_durum_spaghetti.jpg"
         },
         {
@@ -1107,6 +1153,7 @@
           },
           "name_en": "Al-Joud Macaroni No. 20",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_aljoud_macaroni_20.jpg"
         },
         {
@@ -1129,6 +1176,7 @@
           },
           "name_en": "Al-Joud Macaroni No. 21",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_aljoud_macaroni_21.jpg"
         },
         {
@@ -1151,6 +1199,7 @@
           },
           "name_en": "Al-Joud Macaroni No. 22",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_aljoud_macaroni_22.jpg"
         },
         {
@@ -1173,6 +1222,7 @@
           },
           "name_en": "Al-Joud Macaroni No. 23",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_aljoud_macaroni_23.jpg"
         },
         {
@@ -1195,6 +1245,7 @@
           },
           "name_en": "Al-Joud Macaroni No. 24",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_aljoud_macaroni_24.jpg"
         },
         {
@@ -1217,6 +1268,7 @@
           },
           "name_en": "Al-Joud Macaroni No. 26",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_aljoud_macaroni_26.jpg"
         },
         {
@@ -1239,6 +1291,7 @@
           },
           "name_en": "Al-Joud Macaroni No. 38",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_aljoud_macaroni_38.jpg"
         },
         {
@@ -1261,6 +1314,7 @@
           },
           "name_en": "Al-Joud Macaroni No. 39",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_aljoud_macaroni_39.jpg"
         },
         {
@@ -1283,6 +1337,7 @@
           },
           "name_en": "Al-Joud Macaroni No. 40",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_aljoud_macaroni_40.jpg"
         },
         {
@@ -1305,6 +1360,7 @@
           },
           "name_en": "Al-Joud Macaroni No. 41",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_aljoud_macaroni_41.jpg"
         },
         {
@@ -1327,6 +1383,7 @@
           },
           "name_en": "Al-Joud Spaghetti",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_aljoud_spaghetti.jpg"
         },
         {
@@ -1349,6 +1406,7 @@
           },
           "name_en": "Al-Joud Vermicelli No. 2",
           "category_ar": "معكرونة",
+          "category_en": "Pasta",
           "image": "assets/images/brands/mills_aljoud_vermicelli_2.jpg"
         },
         {
@@ -1370,7 +1428,8 @@
             "folate_mcg": 2.0
           },
           "name_en": "Lemon Cream Filled Biscuits",
-          "category_ar": "بسكويت"
+          "category_ar": "بسكويت",
+          "category_en": "Biscuits"
         },
         {
           "id": "mills_choco",
@@ -1394,6 +1453,7 @@
           },
           "name_en": "Choco",
           "category_ar": "بسكويت",
+          "category_en": "Biscuits",
           "image": "assets/images/brands/mills_choco.jpg"
         },
         {
@@ -1416,6 +1476,7 @@
           },
           "name_en": "Petit Beurre",
           "category_ar": "بسكويت",
+          "category_en": "Biscuits",
           "image": "assets/images/brands/mills_petit_beurre.jpg"
         },
         {
@@ -1438,6 +1499,7 @@
           },
           "name_en": "Marie",
           "category_ar": "بسكويت",
+          "category_en": "Biscuits",
           "image": "assets/images/brands/mills_marie.jpg"
         },
         {
@@ -1460,6 +1522,7 @@
           },
           "name_en": "Tik",
           "category_ar": "بسكويت",
+          "category_en": "Biscuits",
           "image": "assets/images/brands/mills_tik.jpg"
         },
         {
@@ -1482,6 +1545,7 @@
           },
           "name_en": "Nice",
           "category_ar": "بسكويت",
+          "category_en": "Biscuits",
           "image": "assets/images/brands/mills_nice.jpg"
         },
         {
@@ -1505,6 +1569,7 @@
           },
           "name_en": "Totally Bran",
           "category_ar": "بسكويت",
+          "category_en": "Biscuits",
           "image": "assets/images/brands/mills_totally_bran.jpg"
         },
         {
@@ -1528,6 +1593,7 @@
           },
           "name_en": "Digestive",
           "category_ar": "بسكويت",
+          "category_en": "Biscuits",
           "image": "assets/images/brands/mills_digestive.jpg"
         },
         {
@@ -1550,7 +1616,8 @@
             "folate_mcg": 2.0
           },
           "name_en": "Digestive No Added Sugar",
-          "category_ar": "بسكويت"
+          "category_ar": "بسكويت",
+          "category_en": "Biscuits"
         },
         {
           "id": "mills_crushed_digestive_biscuit",
@@ -1572,7 +1639,8 @@
             "folate_mcg": 35
           },
           "name_en": "Crushed Digestive Biscuits",
-          "category_ar": "بسكويت"
+          "category_ar": "بسكويت",
+          "category_en": "Biscuits"
         },
         {
           "id": "mills_bakery_arabic_white",
@@ -1596,6 +1664,7 @@
           },
           "name_en": "Arabic White Bread",
           "category_ar": "مخبوزات عربية",
+          "category_en": "Arabic Bakery",
           "image": "assets/images/brands/mills_bakery_arabic_white.jpg"
         },
         {
@@ -1620,6 +1689,7 @@
           },
           "name_en": "Arabic Brown (Bran) Bread",
           "category_ar": "مخبوزات عربية",
+          "category_en": "Arabic Bakery",
           "image": "assets/images/brands/mills_bakery_arabic_brown.jpg"
         },
         {
@@ -1644,6 +1714,7 @@
           },
           "name_en": "Light Arabic White Bread",
           "category_ar": "مخبوزات عربية",
+          "category_en": "Arabic Bakery",
           "image": "assets/images/brands/mills_bakery_arabic_light_white.jpg"
         },
         {
@@ -1668,6 +1739,7 @@
           },
           "name_en": "Light Arabic Bran Bread",
           "category_ar": "مخبوزات عربية",
+          "category_en": "Arabic Bakery",
           "image": "assets/images/brands/mills_bakery_arabic_light_bran.jpg"
         },
         {
@@ -1692,6 +1764,7 @@
           },
           "name_en": "Barley Bread",
           "category_ar": "مخبوزات عربية",
+          "category_en": "Arabic Bakery",
           "image": "assets/images/brands/mills_bakery_barley.jpg"
         },
         {
@@ -1716,6 +1789,7 @@
           },
           "name_en": "Samouli Bread",
           "category_ar": "مخبوزات عربية",
+          "category_en": "Arabic Bakery",
           "image": "assets/images/brands/mills_bakery_samouli.jpg"
         },
         {
@@ -1740,6 +1814,7 @@
           },
           "name_en": "Iranian Tannour Bread",
           "category_ar": "مخبوزات عربية",
+          "category_en": "Arabic Bakery",
           "image": "assets/images/brands/mills_bakery_irani_tannour.jpg"
         },
         {
@@ -1765,6 +1840,7 @@
           },
           "name_en": "Saffron Bread",
           "category_ar": "مخبوزات عربية",
+          "category_en": "Arabic Bakery",
           "image": "assets/images/brands/mills_bakery_saffron.jpg"
         },
         {
@@ -1789,6 +1865,7 @@
           },
           "name_en": "White Rqaq Bread",
           "category_ar": "مخبوزات عربية",
+          "category_en": "Arabic Bakery",
           "image": "assets/images/brands/mills_bakery_rqaq_white.jpg"
         },
         {
@@ -1813,6 +1890,7 @@
           },
           "name_en": "Brown Rqaq Bread",
           "category_ar": "مخبوزات عربية",
+          "category_en": "Arabic Bakery",
           "image": "assets/images/brands/mills_bakery_rqaq_brown.jpg"
         },
         {
@@ -1837,6 +1915,7 @@
           },
           "name_en": "Barley Rqaq Bread",
           "category_ar": "مخبوزات عربية",
+          "category_en": "Arabic Bakery",
           "image": "assets/images/brands/mills_bakery_rqaq_barley.jpg"
         },
         {
@@ -1861,6 +1940,7 @@
           },
           "name_en": "Small Arabic Bread",
           "category_ar": "مخبوزات عربية",
+          "category_en": "Arabic Bakery",
           "image": "assets/images/brands/mills_bakery_arabic_small.jpg"
         },
         {
@@ -1885,6 +1965,7 @@
           },
           "name_en": "Saj Bread (Markook)",
           "category_ar": "مخبوزات عربية",
+          "category_en": "Arabic Bakery",
           "image": "assets/images/brands/mills_bakery_saj.jpg"
         },
         {
@@ -1909,6 +1990,7 @@
           },
           "name_en": "White Toast",
           "category_ar": "مخبوزات أوروبية",
+          "category_en": "European Bakery",
           "image": "assets/images/brands/mills_bakery_white_toast.jpg"
         },
         {
@@ -1933,6 +2015,7 @@
           },
           "name_en": "Brown (Whole Wheat) Toast",
           "category_ar": "مخبوزات أوروبية",
+          "category_en": "European Bakery",
           "image": "assets/images/brands/mills_bakery_brown_toast.jpg"
         },
         {
@@ -1957,6 +2040,7 @@
           },
           "name_en": "Grain Toast",
           "category_ar": "مخبوزات أوروبية",
+          "category_en": "European Bakery",
           "image": "assets/images/brands/mills_bakery_grain_toast.jpg"
         },
         {
@@ -1981,6 +2065,7 @@
           },
           "name_en": "Protein Bread",
           "category_ar": "مخبوزات أوروبية",
+          "category_en": "European Bakery",
           "image": "assets/images/brands/mills_bakery_protein_bread.jpg"
         },
         {
@@ -2005,6 +2090,7 @@
           },
           "name_en": "French Bread (Baguette)",
           "category_ar": "مخبوزات أوروبية",
+          "category_en": "European Bakery",
           "image": "assets/images/brands/mills_bakery_french_bread.jpg"
         },
         {
@@ -2029,6 +2115,7 @@
           },
           "name_en": "Grain French Bread",
           "category_ar": "مخبوزات أوروبية",
+          "category_en": "European Bakery",
           "image": "assets/images/brands/mills_bakery_french_grain.jpg"
         },
         {
@@ -2053,6 +2140,7 @@
           },
           "name_en": "Sourdough Bread",
           "category_ar": "مخبوزات أوروبية",
+          "category_en": "European Bakery",
           "image": "assets/images/brands/mills_bakery_sourdough.jpg"
         },
         {
@@ -2077,6 +2165,7 @@
           },
           "name_en": "Hamburger Bun",
           "category_ar": "مخبوزات أوروبية",
+          "category_en": "European Bakery",
           "image": "assets/images/brands/mills_bakery_hamburger_bun.jpg"
         },
         {
@@ -2101,6 +2190,7 @@
           },
           "name_en": "Hot Dog Bun",
           "category_ar": "مخبوزات أوروبية",
+          "category_en": "European Bakery",
           "image": "assets/images/brands/mills_bakery_hotdog_bun.jpg"
         },
         {
@@ -2125,6 +2215,7 @@
           },
           "name_en": "Soft Roll",
           "category_ar": "مخبوزات أوروبية",
+          "category_en": "European Bakery",
           "image": "assets/images/brands/mills_bakery_soft_roll.jpg"
         },
         {
@@ -2149,6 +2240,7 @@
           },
           "name_en": "Mini Bread",
           "category_ar": "مخبوزات أوروبية",
+          "category_en": "European Bakery",
           "image": "assets/images/brands/mills_bakery_mini_bread.jpg"
         },
         {
@@ -2173,6 +2265,7 @@
           },
           "name_en": "Ciabatta",
           "category_ar": "مخبوزات أوروبية",
+          "category_en": "European Bakery",
           "image": "assets/images/brands/mills_bakery_ciabatta.jpg"
         },
         {
@@ -2197,6 +2290,7 @@
           },
           "name_en": "Rusk",
           "category_ar": "مخبوزات أوروبية",
+          "category_en": "European Bakery",
           "image": "assets/images/brands/mills_bakery_rusk.jpg"
         },
         {
@@ -2224,6 +2318,7 @@
           },
           "name_en": "Croissant",
           "category_ar": "مخبوزات أوروبية",
+          "category_en": "European Bakery",
           "image": "assets/images/brands/mills_bakery_croissant.jpg"
         },
         {
@@ -2251,6 +2346,7 @@
           },
           "name_en": "Mini Croissant",
           "category_ar": "مخبوزات أوروبية",
+          "category_en": "European Bakery",
           "image": "assets/images/brands/mills_bakery_mini_croissant.jpg"
         },
         {
@@ -2278,6 +2374,7 @@
           },
           "name_en": "Cake",
           "category_ar": "مخبوزات أوروبية",
+          "category_en": "European Bakery",
           "image": "assets/images/brands/mills_bakery_cake.jpg"
         },
         {
@@ -2302,6 +2399,7 @@
           },
           "name_en": "Gluten-Free Toast",
           "category_ar": "خالي من الجلوتين",
+          "category_en": "Gluten-Free",
           "image": "assets/images/brands/mills_bakery_gf_toast.jpg"
         },
         {
@@ -2326,6 +2424,7 @@
           },
           "name_en": "Gluten-Free Hamburger Bun",
           "category_ar": "خالي من الجلوتين",
+          "category_en": "Gluten-Free",
           "image": "assets/images/brands/mills_bakery_gf_hamburger_bun.jpg"
         },
         {
@@ -2350,6 +2449,7 @@
           },
           "name_en": "Gluten-Free Roll",
           "category_ar": "خالي من الجلوتين",
+          "category_en": "Gluten-Free",
           "image": "assets/images/brands/mills_bakery_gf_roll.jpg"
         },
         {
@@ -2377,6 +2477,7 @@
           },
           "name_en": "Gluten-Free Cupcake",
           "category_ar": "خالي من الجلوتين",
+          "category_en": "Gluten-Free",
           "image": "assets/images/brands/mills_bakery_gf_cupcake.jpg"
         },
         {
@@ -2401,6 +2502,7 @@
           },
           "name_en": "Gluten-Free White Bread",
           "category_ar": "خالي من الجلوتين",
+          "category_en": "Gluten-Free",
           "image": "assets/images/brands/mills_bakery_gf_white.jpg"
         },
         {
@@ -2428,6 +2530,7 @@
           },
           "name_en": "Butter Croissant",
           "category_ar": "المخبز الحرفي",
+          "category_en": "Artisan Bakery",
           "image": "assets/images/brands/mills_bakery_artisan_butter_croissant.jpg"
         },
         {
@@ -2455,6 +2558,7 @@
           },
           "name_en": "Cheese Croissant with Seeds",
           "category_ar": "المخبز الحرفي",
+          "category_en": "Artisan Bakery",
           "image": "assets/images/brands/mills_bakery_artisan_cheese_seed_croissant.jpg"
         },
         {
@@ -2482,6 +2586,7 @@
           },
           "name_en": "Zaatar Croissant",
           "category_ar": "المخبز الحرفي",
+          "category_en": "Artisan Bakery",
           "image": "assets/images/brands/mills_bakery_artisan_zaatar_croissant.jpg"
         },
         {
@@ -2509,6 +2614,7 @@
           },
           "name_en": "Brown Multigrain Croissant",
           "category_ar": "المخبز الحرفي",
+          "category_en": "Artisan Bakery",
           "image": "assets/images/brands/mills_bakery_artisan_brown_multigrain_croissant.jpg"
         },
         {
@@ -2536,6 +2642,7 @@
           },
           "name_en": "Zaatar Cruffin with Labneh",
           "category_ar": "المخبز الحرفي",
+          "category_en": "Artisan Bakery",
           "image": "assets/images/brands/mills_bakery_artisan_zaatar_labneh_cruffin.jpg"
         },
         {
@@ -2563,6 +2670,7 @@
           },
           "name_en": "Muffin (Assorted Flavors)",
           "category_ar": "المخبز الحرفي",
+          "category_en": "Artisan Bakery",
           "image": "assets/images/brands/mills_bakery_artisan_muffin.jpg"
         },
         {
@@ -2591,6 +2699,7 @@
           },
           "name_en": "Chocolate Babka",
           "category_ar": "المخبز الحرفي",
+          "category_en": "Artisan Bakery",
           "image": "assets/images/brands/mills_bakery_artisan_chocolate_babka.jpg"
         },
         {
@@ -2618,6 +2727,7 @@
           },
           "name_en": "Zaatar Babka",
           "category_ar": "المخبز الحرفي",
+          "category_en": "Artisan Bakery",
           "image": "assets/images/brands/mills_bakery_artisan_zaatar_babka.jpg"
         },
         {
@@ -2640,8 +2750,9 @@
             "zinc_mg": 0.9,
             "folate_mcg": 39
           },
-          "name_en": "Multigrain Ciabatta Bread",
+          "name_en": "Multigrain Ciabatta",
           "category_ar": "المخبز الحرفي",
+          "category_en": "Artisan Bakery",
           "image": "assets/images/brands/mills_bakery_artisan_multigrain_ciabatta.jpg"
         },
         {
@@ -2666,6 +2777,7 @@
           },
           "name_en": "Artisan Sourdough Loaf",
           "category_ar": "المخبز الحرفي",
+          "category_en": "Artisan Bakery",
           "image": "assets/images/brands/mills_bakery_artisan_sourdough_loaf.jpg"
         }
       ]
@@ -2700,8 +2812,9 @@
             "vitamin_b12_mcg": 1.1,
             "folate_mcg": 12
           },
-          "name_en": "Fresh Full Fat Milk",
+          "name_en": "Fresh Full Cream Milk",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/kdd_full_fat_fresh_milk.jpg"
         },
         {
@@ -2728,6 +2841,7 @@
           },
           "name_en": "Fresh Low Fat Milk",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/kdd_low_fat_fresh_milk.jpg"
         },
         {
@@ -2753,7 +2867,8 @@
             "folate_mcg": 12
           },
           "name_en": "Skimmed Milk",
-          "category_ar": "حليب"
+          "category_ar": "حليب",
+          "category_en": "Milk"
         },
         {
           "id": "kdd_full_cream_long_life_milk",
@@ -2779,6 +2894,7 @@
           },
           "name_en": "Long Life Full Cream Milk",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/kdd_full_cream_long_life_milk.jpg"
         },
         {
@@ -2804,7 +2920,8 @@
             "folate_mcg": 12
           },
           "name_en": "Long Life Low Fat Milk",
-          "category_ar": "حليب"
+          "category_ar": "حليب",
+          "category_en": "Milk"
         },
         {
           "id": "kdd_fortified_low_fat_milk",
@@ -2830,6 +2947,7 @@
           },
           "name_en": "Fortified Low Fat Milk with Calcium & Vitamin D 250ml",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/kdd_fortified_low_fat_milk.jpg"
         },
         {
@@ -2856,6 +2974,7 @@
           },
           "name_en": "Lactose Free Full Cream Milk 250ml",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/kdd_lactose_free_full_cream_milk.jpg"
         },
         {
@@ -2879,8 +2998,9 @@
             "vitamin_b12_mcg": 0.3,
             "folate_mcg": 3.8
           },
-          "name_en": "1.2.3 Kids Full Cream Milk 125ml",
+          "name_en": "1.2.3 Full Cream Milk (Kids) 125ml",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/kdd_kids_full_cream_milk_125.jpg"
         },
         {
@@ -2906,8 +3026,9 @@
             "folate_mcg": 12,
             "caffeine_mg": 5.0
           },
-          "name_en": "Chocolate Flavored Milk 250ml",
+          "name_en": "Chocolate Milk 250ml",
           "category_ar": "حليب بنكهة",
+          "category_en": "Flavored Milk",
           "image": "assets/images/brands/kdd_chocolate_milk_250.jpg"
         },
         {
@@ -2935,6 +3056,7 @@
           },
           "name_en": "Premium Chocolate Milk 250ml",
           "category_ar": "حليب بنكهة",
+          "category_en": "Flavored Milk",
           "image": "assets/images/brands/kdd_premium_chocolate_milk_250.jpg"
         },
         {
@@ -2959,8 +3081,9 @@
             "vitamin_b12_mcg": 1.1,
             "folate_mcg": 12
           },
-          "name_en": "Strawberry Flavored Milk 250ml",
+          "name_en": "Strawberry Milk 250ml",
           "category_ar": "حليب بنكهة",
+          "category_en": "Flavored Milk",
           "image": "assets/images/brands/kdd_strawberry_milk_250.jpg"
         },
         {
@@ -2985,8 +3108,9 @@
             "vitamin_b12_mcg": 1.1,
             "folate_mcg": 12
           },
-          "name_en": "Banana Flavored Milk 250ml",
+          "name_en": "Banana Milk 250ml",
           "category_ar": "حليب بنكهة",
+          "category_en": "Flavored Milk",
           "image": "assets/images/brands/kdd_banana_milk_250.jpg"
         },
         {
@@ -3011,8 +3135,9 @@
             "vitamin_b12_mcg": 1.1,
             "folate_mcg": 12
           },
-          "name_en": "Vanilla Flavored Milk 250ml",
-          "category_ar": "حليب بنكهة"
+          "name_en": "Vanilla Milk 250ml",
+          "category_ar": "حليب بنكهة",
+          "category_en": "Flavored Milk"
         },
         {
           "id": "kdd_coffee_latte_milk_250",
@@ -3036,8 +3161,9 @@
             "vitamin_b12_mcg": 1.1,
             "folate_mcg": 12
           },
-          "name_en": "Coffee Latte Milk Drink 250ml",
+          "name_en": "Caffe Latte 250ml",
           "category_ar": "حليب بنكهة",
+          "category_en": "Flavored Milk",
           "image": "assets/images/brands/kdd_coffee_latte_milk_250.jpg"
         },
         {
@@ -3063,8 +3189,9 @@
             "folate_mcg": 6.2,
             "caffeine_mg": 2.5
           },
-          "name_en": "1.2.3 Kids Chocolate Milk 125ml",
+          "name_en": "1.2.3 Chocolate Milk (Kids) 125ml",
           "category_ar": "حليب بنكهة",
+          "category_en": "Flavored Milk",
           "image": "assets/images/brands/kdd_kids_chocolate_milk_125.jpg"
         },
         {
@@ -3089,7 +3216,8 @@
             "folate_mcg": 10
           },
           "name_en": "Fresh Laban",
-          "category_ar": "لبن"
+          "category_ar": "لبن",
+          "category_en": "Laban & Yogurt"
         },
         {
           "id": "kdd_low_fat_laban",
@@ -3113,7 +3241,8 @@
             "folate_mcg": 10
           },
           "name_en": "Low Fat Laban",
-          "category_ar": "لبن"
+          "category_ar": "لبن",
+          "category_en": "Laban & Yogurt"
         },
         {
           "id": "kdd_long_life_laban",
@@ -3137,7 +3266,8 @@
             "folate_mcg": 10
           },
           "name_en": "Long Life Laban",
-          "category_ar": "لبن"
+          "category_ar": "لبن",
+          "category_en": "Laban & Yogurt"
         },
         {
           "id": "kdd_plain_yogurt",
@@ -3163,6 +3293,7 @@
           },
           "name_en": "Plain Full Cream Yoghurt 170g",
           "category_ar": "لبن",
+          "category_en": "Laban & Yogurt",
           "image": "assets/images/brands/kdd_plain_yogurt.jpg"
         },
         {
@@ -3186,7 +3317,8 @@
             "folate_mcg": 2.4
           },
           "name_en": "Labneh",
-          "category_ar": "لبن"
+          "category_ar": "لبن",
+          "category_en": "Laban & Yogurt"
         },
         {
           "id": "kdd_orange_juice_250",
@@ -3210,6 +3342,7 @@
           },
           "name_en": "Orange Juice 250ml",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/kdd_orange_juice_250.jpg"
         },
         {
@@ -3234,6 +3367,7 @@
           },
           "name_en": "Mango Nectar 250ml",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/kdd_mango_nectar_250.jpg"
         },
         {
@@ -3256,6 +3390,7 @@
           },
           "name_en": "Apple Juice 250ml",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/kdd_apple_juice_250.jpg"
         },
         {
@@ -3278,6 +3413,7 @@
           },
           "name_en": "Pineapple Nectar 250ml",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/kdd_pineapple_nectar_250.jpg"
         },
         {
@@ -3300,8 +3436,9 @@
             "vitamin_c_mg": 75,
             "folate_mcg": 25
           },
-          "name_en": "Fruit Cocktail Drink 250ml",
+          "name_en": "Cocktail Drink 250ml",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/kdd_fruit_cocktail_drink_250.jpg"
         },
         {
@@ -3325,7 +3462,8 @@
             "folate_mcg": 25
           },
           "name_en": "Guava Nectar 250ml",
-          "category_ar": "عصير"
+          "category_ar": "عصير",
+          "category_en": "Juice"
         },
         {
           "id": "kdd_pomegranate_juice_250",
@@ -3348,7 +3486,8 @@
             "folate_mcg": 25
           },
           "name_en": "Pomegranate Juice 250ml",
-          "category_ar": "عصير"
+          "category_ar": "عصير",
+          "category_en": "Juice"
         },
         {
           "id": "kdd_mango_nectar_no_sugar_125",
@@ -3372,6 +3511,7 @@
           },
           "name_en": "Mango Nectar (No Added Sugar) 125ml",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/kdd_mango_nectar_no_sugar_125.jpg"
         },
         {
@@ -3394,8 +3534,9 @@
             "vitamin_c_mg": 22,
             "folate_mcg": 18
           },
-          "name_en": "1.2.3 Kids Mango Nectar 125ml",
+          "name_en": "1.2.3 Mango Nectar (Kids) 125ml",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/kdd_kids_mango_nectar_125.jpg"
         },
         {
@@ -3421,8 +3562,9 @@
             "vitamin_b12_mcg": 0.4,
             "folate_mcg": 5.0
           },
-          "name_en": "Vanilla Ice Cream Cup",
-          "category_ar": "آيس كريم"
+          "name_en": "Vanilla Cup Ice Cream",
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "kdd_chocolate_ice_cream_500",
@@ -3450,6 +3592,7 @@
           },
           "name_en": "Chocolate Ice Cream 500ml",
           "category_ar": "آيس كريم",
+          "category_en": "Ice Cream",
           "image": "assets/images/brands/kdd_chocolate_ice_cream_500.jpg"
         },
         {
@@ -3478,6 +3621,7 @@
           },
           "name_en": "Chocolate Cup (No Added Sugar)",
           "category_ar": "آيس كريم",
+          "category_en": "Ice Cream",
           "image": "assets/images/brands/kdd_chocolate_cup.jpg"
         },
         {
@@ -3503,8 +3647,9 @@
             "vitamin_b12_mcg": 0.4,
             "folate_mcg": 5.0
           },
-          "name_en": "Vanilla Almond Good For Me Ice Cream Cup 183ml",
+          "name_en": "Vanilla Almond Cup Ice Cream 183ml",
           "category_ar": "آيس كريم",
+          "category_en": "Ice Cream",
           "image": "assets/images/brands/kdd_vanilla_almond_gfm_cup.jpg"
         },
         {
@@ -3530,8 +3675,9 @@
             "vitamin_b12_mcg": 0.4,
             "folate_mcg": 5.5
           },
-          "name_en": "Gold Cone Ice Cream",
+          "name_en": "Gold Cone",
           "category_ar": "آيس كريم",
+          "category_en": "Ice Cream",
           "image": "assets/images/brands/kdd_gold_cone.jpg"
         },
         {
@@ -3558,8 +3704,9 @@
             "folate_mcg": 7.7,
             "caffeine_mg": 1.8
           },
-          "name_en": "Chocolate Lulu Stick Ice Cream",
+          "name_en": "Chocolate Lulu Stick",
           "category_ar": "آيس كريم",
+          "category_en": "Ice Cream",
           "image": "assets/images/brands/kdd_chocolate_lulu_stick.jpg"
         },
         {
@@ -3584,8 +3731,9 @@
             "vitamin_b12_mcg": 0.1,
             "folate_mcg": 1.8
           },
-          "name_en": "Vanilla Ice Cream Biscuit Sandwich 35g",
+          "name_en": "Vanilla Ice Cream Sandwich 35g",
           "category_ar": "آيس كريم",
+          "category_en": "Ice Cream",
           "image": "assets/images/brands/kdd_vanilla_ice_cream_sandwich.jpg"
         },
         {
@@ -3612,6 +3760,7 @@
           },
           "name_en": "Orange Lolly Stick",
           "category_ar": "آيس كريم",
+          "category_en": "Ice Cream",
           "image": "assets/images/brands/kdd_orange_lolly_stick.jpg"
         },
         {
@@ -3638,7 +3787,8 @@
             "folate_mcg": 3.2
           },
           "name_en": "Vanilla Ice Cream Family Tub 2L",
-          "category_ar": "آيس كريم"
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "kdd_vanilla_custard",
@@ -3663,7 +3813,8 @@
             "folate_mcg": 10
           },
           "name_en": "Vanilla Custard",
-          "category_ar": "كاسترد وحلويات"
+          "category_ar": "كاسترد وحلويات",
+          "category_en": "Custard & Desserts"
         },
         {
           "id": "kdd_chocolate_custard",
@@ -3688,7 +3839,8 @@
             "folate_mcg": 10
           },
           "name_en": "Chocolate Custard",
-          "category_ar": "كاسترد وحلويات"
+          "category_ar": "كاسترد وحلويات",
+          "category_en": "Custard & Desserts"
         },
         {
           "id": "kdd_creme_caramel",
@@ -3713,7 +3865,8 @@
             "folate_mcg": 10
           },
           "name_en": "Creme Caramel",
-          "category_ar": "كاسترد وحلويات"
+          "category_ar": "كاسترد وحلويات",
+          "category_en": "Custard & Desserts"
         },
         {
           "id": "kdd_rice_pudding",
@@ -3738,7 +3891,8 @@
             "folate_mcg": 10
           },
           "name_en": "Rice Pudding",
-          "category_ar": "كاسترد وحلويات"
+          "category_ar": "كاسترد وحلويات",
+          "category_en": "Custard & Desserts"
         },
         {
           "id": "kdd_processed_cheese_portions",
@@ -3760,7 +3914,8 @@
             "folate_mcg": 3.6
           },
           "name_en": "Processed Cheese Triangles",
-          "category_ar": "أجبان"
+          "category_ar": "أجبان",
+          "category_en": "Cheese"
         },
         {
           "id": "kdd_feta_cheese",
@@ -3783,7 +3938,8 @@
             "folate_mcg": 5.4
           },
           "name_en": "Feta Cheese",
-          "category_ar": "أجبان"
+          "category_ar": "أجبان",
+          "category_en": "Cheese"
         },
         {
           "id": "kdd_cooking_cream_1l",
@@ -3808,6 +3964,7 @@
           },
           "name_en": "Liquid Cooking Cream 1L",
           "category_ar": "قشطة وزبدة",
+          "category_en": "Cream & Butter",
           "image": "assets/images/brands/kdd_cooking_cream_1l.jpg"
         },
         {
@@ -3833,6 +3990,7 @@
           },
           "name_en": "Liquid Cream 1L",
           "category_ar": "قشطة وزبدة",
+          "category_en": "Cream & Butter",
           "image": "assets/images/brands/kdd_liquid_cream_1l.jpg"
         },
         {
@@ -3858,6 +4016,7 @@
           },
           "name_en": "Thick Cream (Gemar) 250ml",
           "category_ar": "قشطة وزبدة",
+          "category_en": "Cream & Butter",
           "image": "assets/images/brands/kdd_thick_cream_gemar.jpg"
         },
         {
@@ -3881,6 +4040,7 @@
           },
           "name_en": "Unsalted Butter",
           "category_ar": "قشطة وزبدة",
+          "category_en": "Cream & Butter",
           "image": "assets/images/brands/kdd_butter_unsalted.jpg"
         },
         {
@@ -3906,6 +4066,7 @@
           },
           "name_en": "Evaporated Milk 200ml",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/kdd_evaporated_milk.jpg"
         },
         {
@@ -3931,8 +4092,9 @@
             "folate_mcg": 12,
             "caffeine_mg": 4.0
           },
-          "name_en": "KDD Chocolate Protein Milk 20g (No Added Sugar) 250ml",
+          "name_en": "Chocolate Protein Milk 20g (No Added Sugar) 250ml",
           "category_ar": "مشروبات بروتين",
+          "category_en": "Protein Drinks",
           "image": "assets/images/brands/kdd_protein_milk_chocolate.jpg"
         },
         {
@@ -3956,8 +4118,9 @@
             "vitamin_b12_mcg": 1.1,
             "folate_mcg": 12
           },
-          "name_en": "KDD Vanilla Protein Milk 20g (No Added Sugar) 250ml",
+          "name_en": "Vanilla Protein Milk 20g (No Added Sugar) 250ml",
           "category_ar": "مشروبات بروتين",
+          "category_en": "Protein Drinks",
           "image": "assets/images/brands/kdd_protein_milk_vanilla.jpg"
         }
       ]
@@ -3993,7 +4156,8 @@
             "folate_mcg": 12
           },
           "name_en": "Fresh Full Cream Milk 250ml",
-          "category_ar": "حليب طازج"
+          "category_ar": "حليب طازج",
+          "category_en": "Fresh Milk"
         },
         {
           "id": "kdcow_fresh_milk_full_1l",
@@ -4018,7 +4182,8 @@
             "folate_mcg": 5.0
           },
           "name_en": "Fresh Full Cream Milk 1L",
-          "category_ar": "حليب طازج"
+          "category_ar": "حليب طازج",
+          "category_en": "Fresh Milk"
         },
         {
           "id": "kdcow_fresh_milk_lowfat_250",
@@ -4043,7 +4208,8 @@
             "folate_mcg": 12
           },
           "name_en": "Fresh Low Fat Milk 250ml",
-          "category_ar": "حليب طازج"
+          "category_ar": "حليب طازج",
+          "category_en": "Fresh Milk"
         },
         {
           "id": "kdcow_fresh_milk_lowfat_100",
@@ -4068,7 +4234,8 @@
             "folate_mcg": 5.0
           },
           "name_en": "Fresh Low Fat Milk (per 100ml)",
-          "category_ar": "حليب طازج"
+          "category_ar": "حليب طازج",
+          "category_en": "Fresh Milk"
         },
         {
           "id": "kdcow_fresh_milk_skimmed_250",
@@ -4093,7 +4260,8 @@
             "folate_mcg": 12
           },
           "name_en": "Fresh Skimmed Milk 250ml",
-          "category_ar": "حليب طازج"
+          "category_ar": "حليب طازج",
+          "category_en": "Fresh Milk"
         },
         {
           "id": "kdcow_milk_longlife_full_1l",
@@ -4118,7 +4286,8 @@
             "folate_mcg": 12
           },
           "name_en": "Long Life Full Cream Milk 1L",
-          "category_ar": "حليب طويل الأمد"
+          "category_ar": "حليب طويل الأمد",
+          "category_en": "Long Life Milk"
         },
         {
           "id": "kdcow_milk_longlife_lowfat_1l",
@@ -4143,7 +4312,8 @@
             "folate_mcg": 12
           },
           "name_en": "Long Life Low Fat Milk 1L",
-          "category_ar": "حليب طويل الأمد"
+          "category_ar": "حليب طويل الأمد",
+          "category_en": "Long Life Milk"
         },
         {
           "id": "kdcow_laban_full_250",
@@ -4167,7 +4337,8 @@
             "folate_mcg": 10
           },
           "name_en": "Fresh Full Cream Laban 250ml",
-          "category_ar": "لبن"
+          "category_ar": "لبن",
+          "category_en": "Laban"
         },
         {
           "id": "kdcow_laban_full_100",
@@ -4191,7 +4362,8 @@
             "folate_mcg": 4.0
           },
           "name_en": "Fresh Laban (per 100ml)",
-          "category_ar": "لبن"
+          "category_ar": "لبن",
+          "category_en": "Laban"
         },
         {
           "id": "kdcow_laban_lowfat_250",
@@ -4215,7 +4387,8 @@
             "folate_mcg": 10
           },
           "name_en": "Fresh Low Fat Laban 250ml",
-          "category_ar": "لبن"
+          "category_ar": "لبن",
+          "category_en": "Laban"
         },
         {
           "id": "kdcow_laban_prolite_250",
@@ -4239,7 +4412,8 @@
             "folate_mcg": 10
           },
           "name_en": "Fresh Low Fat Prolite Laban 250ml",
-          "category_ar": "لبن"
+          "category_ar": "لبن",
+          "category_en": "Laban"
         },
         {
           "id": "kdcow_laban_mint_200",
@@ -4262,8 +4436,9 @@
             "vitamin_b12_mcg": 0.4,
             "folate_mcg": 8.0
           },
-          "name_en": "Fresh Mint Laban 200ml",
-          "category_ar": "لبن"
+          "name_en": "Fresh Mint Laban Drink 200ml",
+          "category_ar": "لبن",
+          "category_en": "Laban"
         },
         {
           "id": "kdcow_butter_laban_2l",
@@ -4287,7 +4462,8 @@
             "folate_mcg": 10
           },
           "name_en": "Butter Laban 2L",
-          "category_ar": "لبن"
+          "category_ar": "لبن",
+          "category_en": "Laban"
         },
         {
           "id": "kdcow_yogurt_full_170",
@@ -4312,7 +4488,8 @@
             "folate_mcg": 12
           },
           "name_en": "Full Cream Yoghurt 170g",
-          "category_ar": "زبادي"
+          "category_ar": "زبادي",
+          "category_en": "Yoghurt"
         },
         {
           "id": "kdcow_yogurt_full_1kg",
@@ -4337,7 +4514,8 @@
             "folate_mcg": 7.0
           },
           "name_en": "Full Cream Yoghurt 1kg",
-          "category_ar": "زبادي"
+          "category_ar": "زبادي",
+          "category_en": "Yoghurt"
         },
         {
           "id": "kdcow_yogurt_lowfat_170",
@@ -4361,7 +4539,8 @@
             "folate_mcg": 19
           },
           "name_en": "Low Fat Yoghurt 170g",
-          "category_ar": "زبادي"
+          "category_ar": "زبادي",
+          "category_en": "Yoghurt"
         },
         {
           "id": "kdcow_yogurt_lowfat_100",
@@ -4385,7 +4564,8 @@
             "folate_mcg": 11
           },
           "name_en": "Low Fat Yoghurt (per 100g)",
-          "category_ar": "زبادي"
+          "category_ar": "زبادي",
+          "category_en": "Yoghurt"
         },
         {
           "id": "kdcow_labneh_full_100",
@@ -4409,7 +4589,8 @@
             "folate_mcg": 7.0
           },
           "name_en": "Fresh Full Cream Labneh (per 100g)",
-          "category_ar": "لبنة"
+          "category_ar": "لبنة",
+          "category_en": "Labneh"
         },
         {
           "id": "kdcow_labneh_full_30",
@@ -4433,7 +4614,8 @@
             "folate_mcg": 2.1
           },
           "name_en": "Fresh Full Cream Labneh (30g serving)",
-          "category_ar": "لبنة"
+          "category_ar": "لبنة",
+          "category_en": "Labneh"
         },
         {
           "id": "kdcow_qishta_100",
@@ -4457,8 +4639,9 @@
             "vitamin_b12_mcg": 0.3,
             "folate_mcg": 3.0
           },
-          "name_en": "Fresh Thick Cream / Gaimar (per 100g)",
-          "category_ar": "قشطة"
+          "name_en": "Fresh Qishta / Gaimar (per 100g)",
+          "category_ar": "قشطة",
+          "category_en": "Cream"
         },
         {
           "id": "kdcow_qishta_30",
@@ -4482,8 +4665,9 @@
             "vitamin_b12_mcg": 0.1,
             "folate_mcg": 0.9
           },
-          "name_en": "Fresh Thick Cream / Gaimar (30g serving)",
-          "category_ar": "قشطة"
+          "name_en": "Fresh Qishta / Gaimar (30g serving)",
+          "category_ar": "قشطة",
+          "category_en": "Cream"
         },
         {
           "id": "kdcow_cream_thick_100",
@@ -4507,8 +4691,9 @@
             "vitamin_b12_mcg": 0.3,
             "folate_mcg": 3.0
           },
-          "name_en": "Fresh Cream (per 100g)",
-          "category_ar": "قشطة"
+          "name_en": "Fresh Thick Cream (per 100g)",
+          "category_ar": "قشطة",
+          "category_en": "Cream"
         },
         {
           "id": "kdcow_flavored_milk_chocolate_200",
@@ -4533,7 +4718,8 @@
             "folate_mcg": 10
           },
           "name_en": "Chocolate Flavored Milk 200ml",
-          "category_ar": "حليب بنكهة"
+          "category_ar": "حليب بنكهة",
+          "category_en": "Flavored Milk"
         },
         {
           "id": "kdcow_flavored_milk_strawberry_200",
@@ -4558,7 +4744,8 @@
             "folate_mcg": 10
           },
           "name_en": "Strawberry Flavored Milk 200ml",
-          "category_ar": "حليب بنكهة"
+          "category_ar": "حليب بنكهة",
+          "category_en": "Flavored Milk"
         },
         {
           "id": "kdcow_flavored_milk_banana_200",
@@ -4583,7 +4770,8 @@
             "folate_mcg": 10
           },
           "name_en": "Banana Flavored Milk 200ml",
-          "category_ar": "حليب بنكهة"
+          "category_ar": "حليب بنكهة",
+          "category_en": "Flavored Milk"
         },
         {
           "id": "kdcow_juice_orange_250",
@@ -4605,8 +4793,9 @@
             "vitamin_c_mg": 100,
             "folate_mcg": 50
           },
-          "name_en": "Orange Juice Nectar 250ml",
-          "category_ar": "عصير طازج"
+          "name_en": "Orange Nectar Juice 250ml",
+          "category_ar": "عصير طازج",
+          "category_en": "Fresh Juice"
         },
         {
           "id": "kdcow_juice_mango_250",
@@ -4628,8 +4817,9 @@
             "vitamin_c_mg": 45,
             "folate_mcg": 20
           },
-          "name_en": "Mango Juice Nectar 250ml",
-          "category_ar": "عصير طازج"
+          "name_en": "Mango Nectar Juice 250ml",
+          "category_ar": "عصير طازج",
+          "category_en": "Fresh Juice"
         },
         {
           "id": "kdcow_juice_guava_250",
@@ -4651,8 +4841,9 @@
             "vitamin_c_mg": 175,
             "folate_mcg": 62
           },
-          "name_en": "Guava Juice Nectar 250ml",
-          "category_ar": "عصير طازج"
+          "name_en": "Guava Nectar Juice 250ml",
+          "category_ar": "عصير طازج",
+          "category_en": "Fresh Juice"
         },
         {
           "id": "kdcow_juice_cocktail_250",
@@ -4674,8 +4865,9 @@
             "vitamin_c_mg": 88,
             "folate_mcg": 45
           },
-          "name_en": "Cocktail Juice Nectar 250ml",
-          "category_ar": "عصير طازج"
+          "name_en": "Cocktail Nectar Juice 250ml",
+          "category_ar": "عصير طازج",
+          "category_en": "Fresh Juice"
         },
         {
           "id": "kdcow_rawan_orange_250",
@@ -4698,7 +4890,8 @@
             "folate_mcg": 50
           },
           "name_en": "Rawan Orange Drink 250ml",
-          "category_ar": "عصير طازج"
+          "category_ar": "عصير طازج",
+          "category_en": "Fresh Juice"
         },
         {
           "id": "kdcow_rawan_mango_250",
@@ -4721,7 +4914,8 @@
             "folate_mcg": 20
           },
           "name_en": "Rawan Mango Drink 250ml",
-          "category_ar": "عصير طازج"
+          "category_ar": "عصير طازج",
+          "category_en": "Fresh Juice"
         },
         {
           "id": "kdcow_rawan_guava_250",
@@ -4744,7 +4938,8 @@
             "folate_mcg": 62
           },
           "name_en": "Rawan Guava Drink 250ml",
-          "category_ar": "عصير طازج"
+          "category_ar": "عصير طازج",
+          "category_en": "Fresh Juice"
         },
         {
           "id": "kdcow_greek_yoghurt_non_fat_protein_170",
@@ -4766,8 +4961,9 @@
             "vitamin_b12_mcg": 1.3,
             "folate_mcg": 12
           },
-          "name_en": "KDCOW High Protein Non Fat Greek Yoghurt 170g",
-          "category_ar": "مشروبات بروتين"
+          "name_en": "High Protein Non Fat Greek Yoghurt 170g",
+          "category_ar": "مشروبات بروتين",
+          "category_en": "Protein Products"
         },
         {
           "id": "kdcow_greek_yoghurt_full_fat_protein_170",
@@ -4791,8 +4987,9 @@
             "vitamin_b12_mcg": 0.8,
             "folate_mcg": 12
           },
-          "name_en": "KDCOW High Protein Full Fat Greek Yoghurt 170g",
-          "category_ar": "مشروبات بروتين"
+          "name_en": "High Protein Full Fat Greek Yoghurt 170g",
+          "category_ar": "مشروبات بروتين",
+          "category_en": "Protein Products"
         },
         {
           "id": "kdcow_cottage_cheese_180",
@@ -4814,8 +5011,9 @@
             "vitamin_b12_mcg": 0.8,
             "folate_mcg": 20
           },
-          "name_en": "KDCOW Cottage Cheese 180g",
-          "category_ar": "مشروبات بروتين"
+          "name_en": "Cottage Cheese 180g",
+          "category_ar": "مشروبات بروتين",
+          "category_en": "Protein Products"
         },
         {
           "id": "kdcow_fresh_labneh_200",
@@ -4839,8 +5037,9 @@
             "vitamin_b12_mcg": 1.0,
             "folate_mcg": 16
           },
-          "name_en": "KDCOW Fresh Labneh 200g",
-          "category_ar": "مشروبات بروتين"
+          "name_en": "Fresh Labneh 200g",
+          "category_ar": "مشروبات بروتين",
+          "category_en": "Protein Products"
         }
       ]
     },
@@ -4876,6 +5075,7 @@
           },
           "name_en": "Fresh Milk Full Cream",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/nada_fresh_milk_full.jpg"
         },
         {
@@ -4902,6 +5102,7 @@
           },
           "name_en": "Fresh Milk Low Fat",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/nada_fresh_milk_low.jpg"
         },
         {
@@ -4928,6 +5129,7 @@
           },
           "name_en": "Fresh Milk Skimmed",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/nada_fresh_milk_skim.jpg"
         },
         {
@@ -4953,6 +5155,7 @@
           },
           "name_en": "Lacto Free Milk Low Fat",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/nada_lacto_free_milk_low.jpg"
         },
         {
@@ -4977,8 +5180,9 @@
             "vitamin_b12_mcg": 0.5,
             "folate_mcg": 5.0
           },
-          "name_en": "Long Life Full Cream Milk",
+          "name_en": "Long Life Milk Full Cream",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/nada_longlife_milk_full.jpg"
         },
         {
@@ -5004,6 +5208,7 @@
           },
           "name_en": "Long Life Milk Low Fat",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/nada_longlife_milk_low.jpg"
         },
         {
@@ -5028,8 +5233,9 @@
             "vitamin_b12_mcg": 0.5,
             "folate_mcg": 5.0
           },
-          "name_en": "Long Life Skimmed Milk",
+          "name_en": "Long Life Milk Skimmed",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/nada_longlife_milk_skim.jpg"
         },
         {
@@ -5055,6 +5261,7 @@
           },
           "name_en": "Basma Junior Full Cream Milk 115ml",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/nada_basma_junior_milk.jpg"
         },
         {
@@ -5081,6 +5288,7 @@
           },
           "name_en": "Fresh Laban Full Cream",
           "category_ar": "لبن",
+          "category_en": "Laban",
           "image": "assets/images/brands/nada_fresh_laban_full.jpg"
         },
         {
@@ -5107,6 +5315,7 @@
           },
           "name_en": "Fresh Laban Low Fat",
           "category_ar": "لبن",
+          "category_en": "Laban",
           "image": "assets/images/brands/nada_fresh_laban_low.jpg"
         },
         {
@@ -5133,6 +5342,7 @@
           },
           "name_en": "Ayran Fresh Laban Drink",
           "category_ar": "لبن",
+          "category_en": "Laban",
           "image": "assets/images/brands/nada_ayran_laban.jpg"
         },
         {
@@ -5160,6 +5370,7 @@
           },
           "name_en": "Fresh Yoghurt Full Cream",
           "category_ar": "زبادي",
+          "category_en": "Yogurt",
           "image": "assets/images/brands/nada_fresh_yoghurt_full.jpg"
         },
         {
@@ -5187,6 +5398,7 @@
           },
           "name_en": "Fresh Yoghurt Low Fat",
           "category_ar": "زبادي",
+          "category_en": "Yogurt",
           "image": "assets/images/brands/nada_fresh_yoghurt_low.jpg"
         },
         {
@@ -5212,6 +5424,7 @@
           },
           "name_en": "Greek Yoghurt Plain Full Fat",
           "category_ar": "زبادي",
+          "category_en": "Yogurt",
           "image": "assets/images/brands/nada_greek_yoghurt_plain_full.jpg"
         },
         {
@@ -5237,6 +5450,7 @@
           },
           "name_en": "Greek Yoghurt Plain Low Fat",
           "category_ar": "زبادي",
+          "category_en": "Yogurt",
           "image": "assets/images/brands/nada_greek_yoghurt_plain_low.jpg"
         },
         {
@@ -5262,6 +5476,7 @@
           },
           "name_en": "Greek Yoghurt Plain 0% Fat",
           "category_ar": "زبادي",
+          "category_en": "Yogurt",
           "image": "assets/images/brands/nada_greek_yoghurt_plain_0.jpg"
         },
         {
@@ -5287,6 +5502,7 @@
           },
           "name_en": "Greek Yoghurt Strawberry Low Fat",
           "category_ar": "زبادي",
+          "category_en": "Yogurt",
           "image": "assets/images/brands/nada_greek_yoghurt_strawberry.jpg"
         },
         {
@@ -5310,8 +5526,9 @@
             "vitamin_b12_mcg": 1.2,
             "folate_mcg": 11
           },
-          "name_en": "Greek Yoghurt with Natural Honey Full Fat",
+          "name_en": "Greek Yoghurt with Honey Full Fat",
           "category_ar": "زبادي",
+          "category_en": "Yogurt",
           "image": "assets/images/brands/nada_greek_yoghurt_honey.jpg"
         },
         {
@@ -5337,6 +5554,7 @@
           },
           "name_en": "Drinking Greek Yoghurt Plain",
           "category_ar": "زبادي",
+          "category_en": "Yogurt",
           "image": "assets/images/brands/nada_drinking_greek_yoghurt_plain.jpg"
         },
         {
@@ -5362,6 +5580,7 @@
           },
           "name_en": "Drinking Greek Yoghurt Mango",
           "category_ar": "زبادي",
+          "category_en": "Yogurt",
           "image": "assets/images/brands/nada_drinking_greek_yoghurt_mango.jpg"
         },
         {
@@ -5388,6 +5607,7 @@
           },
           "name_en": "Greek Labneh",
           "category_ar": "أجبان",
+          "category_en": "Cheese",
           "image": "assets/images/brands/nada_greek_labneh.jpg"
         },
         {
@@ -5414,6 +5634,7 @@
           },
           "name_en": "Turkish Labneh",
           "category_ar": "أجبان",
+          "category_en": "Cheese",
           "image": "assets/images/brands/nada_turkish_labneh.jpg"
         },
         {
@@ -5441,6 +5662,7 @@
           },
           "name_en": "Fresh Cream",
           "category_ar": "قشطة",
+          "category_en": "Cream",
           "image": "assets/images/brands/nada_fresh_cream.jpg"
         },
         {
@@ -5467,6 +5689,7 @@
           },
           "name_en": "Sour Cream",
           "category_ar": "قشطة",
+          "category_en": "Cream",
           "image": "assets/images/brands/nada_sour_cream.jpg"
         },
         {
@@ -5490,8 +5713,9 @@
             "vitamin_c_mg": 100,
             "folate_mcg": 60
           },
-          "name_en": "Orange Juice No Sugar Added",
+          "name_en": "Fresh Orange Juice No Sugar Added",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/nada_orange_juice.jpg"
         },
         {
@@ -5517,6 +5741,7 @@
           },
           "name_en": "Orange & Carrot Juice with Mixed Fruits",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/nada_orange_carrot_mixed_juice.jpg"
         },
         {
@@ -5539,6 +5764,7 @@
           },
           "name_en": "Apple Juice No Sugar Added",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/nada_apple_juice.jpg"
         },
         {
@@ -5564,6 +5790,7 @@
           },
           "name_en": "Mango Drink with Grapes No Sugar Added",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/nada_mango_grapes_drink.jpg"
         },
         {
@@ -5588,6 +5815,7 @@
           },
           "name_en": "Pineapple Juice No Sugar Added",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/nada_pineapple_juice.jpg"
         },
         {
@@ -5613,6 +5841,7 @@
           },
           "name_en": "Guava Nectar",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/nada_guava_nectar.jpg"
         },
         {
@@ -5638,6 +5867,7 @@
           },
           "name_en": "Mixed Fruits Nectar",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/nada_mixed_fruits_nectar.jpg"
         },
         {
@@ -5662,6 +5892,7 @@
           },
           "name_en": "Pomegranate Nectar",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/nada_pomegranate_nectar.jpg"
         },
         {
@@ -5687,6 +5918,7 @@
           },
           "name_en": "Kiwi & Lime Nectar",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/nada_kiwi_lime_nectar.jpg"
         },
         {
@@ -5711,6 +5943,7 @@
           },
           "name_en": "Lemon & Mint Nectar",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/nada_lemon_mint_nectar.jpg"
         },
         {
@@ -5736,6 +5969,7 @@
           },
           "name_en": "Raspberry Nectar",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/nada_raspberry_nectar.jpg"
         },
         {
@@ -5761,6 +5995,7 @@
           },
           "name_en": "Long Life Orange Cocktail Nectar",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/nada_longlife_orange_cocktail.jpg"
         },
         {
@@ -5790,6 +6025,7 @@
           },
           "name_en": "Basma Junior Chocolate Milk 125ml",
           "category_ar": "حليب بنكهة",
+          "category_en": "Flavored Milk",
           "image": "assets/images/brands/nada_milk_chocolate_basma.jpg"
         },
         {
@@ -5817,6 +6053,7 @@
           },
           "name_en": "Basma Junior Strawberry Milk 125ml",
           "category_ar": "حليب بنكهة",
+          "category_en": "Flavored Milk",
           "image": "assets/images/brands/nada_milk_strawberry_basma.jpg"
         },
         {
@@ -5844,6 +6081,7 @@
           },
           "name_en": "Dahoomy Junior Strawberry Milk 125ml",
           "category_ar": "حليب بنكهة",
+          "category_en": "Flavored Milk",
           "image": "assets/images/brands/nada_basma_strawberry_milk_dahoomy.jpg"
         },
         {
@@ -5869,6 +6107,7 @@
           },
           "name_en": "Tomato Paste",
           "category_ar": "أغذية معلبة",
+          "category_en": "Canned Food",
           "image": "assets/images/brands/nada_tomato_paste.jpg"
         },
         {
@@ -5894,8 +6133,9 @@
             "vitamin_b12_mcg": 1.9,
             "folate_mcg": 21
           },
-          "name_en": "Nada Power Milk Chocolate 425ml",
+          "name_en": "Power Milk Chocolate 425ml",
           "category_ar": "مشروبات بروتين",
+          "category_en": "Protein Drinks",
           "image": "assets/images/brands/nada_power_milk_chocolate_425.jpg"
         },
         {
@@ -5921,8 +6161,9 @@
             "vitamin_b12_mcg": 1.9,
             "folate_mcg": 21
           },
-          "name_en": "Nada Power Milk Vanilla 425ml",
+          "name_en": "Power Milk Vanilla 425ml",
           "category_ar": "مشروبات بروتين",
+          "category_en": "Protein Drinks",
           "image": "assets/images/brands/nada_power_milk_vanilla_425.jpg"
         },
         {
@@ -5948,8 +6189,9 @@
             "vitamin_b12_mcg": 1.9,
             "folate_mcg": 21
           },
-          "name_en": "Nada Power Milk Strawberry 425ml",
+          "name_en": "Power Milk Strawberry 425ml",
           "category_ar": "مشروبات بروتين",
+          "category_en": "Protein Drinks",
           "image": "assets/images/brands/nada_power_milk_strawberry_425.jpg"
         },
         {
@@ -5976,8 +6218,9 @@
             "folate_mcg": 21,
             "caffeine_mg": 149
           },
-          "name_en": "Nada Power Milk Coffee 425ml",
+          "name_en": "Power Milk Coffee 425ml",
           "category_ar": "مشروبات بروتين",
+          "category_en": "Protein Drinks",
           "image": "assets/images/brands/nada_power_milk_coffee_425.jpg"
         },
         {
@@ -6004,8 +6247,9 @@
             "vitamin_b12_mcg": 1.2,
             "folate_mcg": 23
           },
-          "name_en": "Nada Protein Laban Full Fat 330ml",
+          "name_en": "Protein Laban Full Fat 330ml",
           "category_ar": "مشروبات بروتين",
+          "category_en": "Protein Drinks",
           "image": "assets/images/brands/nada_protein_laban_full_fat_330.jpg"
         }
       ]
@@ -6035,6 +6279,7 @@
           },
           "name_en": "Organic Palestinian Extra Virgin Olive Oil",
           "category_ar": "زيوت",
+          "category_en": "Oils",
           "image": "assets/images/brands/natureland_extra_virgin_olive_oil.jpg"
         },
         {
@@ -6054,6 +6299,7 @@
           },
           "name_en": "Organic Spanish Extra Virgin Olive Oil",
           "category_ar": "زيوت",
+          "category_en": "Oils",
           "image": "assets/images/brands/natureland_spanish_olive_oil.jpg"
         },
         {
@@ -6069,6 +6315,7 @@
           },
           "name_en": "Organic Virgin Coconut Oil",
           "category_ar": "زيوت",
+          "category_en": "Oils",
           "image": "assets/images/brands/natureland_coconut_oil.jpg"
         },
         {
@@ -6084,6 +6331,7 @@
           },
           "name_en": "Organic Sesame Oil",
           "category_ar": "زيوت",
+          "category_en": "Oils",
           "image": "assets/images/brands/natureland_sesame_oil.jpg"
         },
         {
@@ -6099,6 +6347,7 @@
           },
           "name_en": "Organic Sunflower Oil",
           "category_ar": "زيوت",
+          "category_en": "Oils",
           "image": "assets/images/brands/natureland_sunflower_oil.jpg"
         },
         {
@@ -6114,7 +6363,8 @@
             "vitamin_a_mcg": 840
           },
           "name_en": "Organic Ghee",
-          "category_ar": "زيوت"
+          "category_ar": "زيوت",
+          "category_en": "Oils"
         },
         {
           "id": "natureland_honey",
@@ -6136,7 +6386,8 @@
             "vitamin_c_mg": 0.5
           },
           "name_en": "Organic Acacia Honey",
-          "category_ar": "عسل"
+          "category_ar": "عسل",
+          "category_en": "Honey & Syrups"
         },
         {
           "id": "natureland_maple_syrup",
@@ -6156,7 +6407,8 @@
             "zinc_mg": 1.5
           },
           "name_en": "Organic Maple Syrup",
-          "category_ar": "عسل"
+          "category_ar": "عسل",
+          "category_en": "Honey & Syrups"
         },
         {
           "id": "natureland_rolled_oats",
@@ -6180,6 +6432,7 @@
           },
           "name_en": "Organic Fine Rolled Oats",
           "category_ar": "حبوب وشوفان",
+          "category_en": "Cereals & Oats",
           "image": "assets/images/brands/natureland_rolled_oats.jpg"
         },
         {
@@ -6203,7 +6456,8 @@
             "folate_mcg": 56
           },
           "name_en": "Organic Jumbo Oats",
-          "category_ar": "حبوب وشوفان"
+          "category_ar": "حبوب وشوفان",
+          "category_en": "Cereals & Oats"
         },
         {
           "id": "natureland_muesli",
@@ -6227,6 +6481,7 @@
           },
           "name_en": "Organic Fruit Muesli",
           "category_ar": "حبوب وشوفان",
+          "category_en": "Cereals & Oats",
           "image": "assets/images/brands/natureland_muesli.jpg"
         },
         {
@@ -6250,7 +6505,8 @@
             "folate_mcg": 30
           },
           "name_en": "Organic Crunchy Granola with Spelt",
-          "category_ar": "حبوب وشوفان"
+          "category_ar": "حبوب وشوفان",
+          "category_en": "Cereals & Oats"
         },
         {
           "id": "natureland_corn_flakes",
@@ -6273,7 +6529,8 @@
             "folate_mcg": 200
           },
           "name_en": "Organic Corn Flakes",
-          "category_ar": "حبوب وشوفان"
+          "category_ar": "حبوب وشوفان",
+          "category_en": "Cereals & Oats"
         },
         {
           "id": "natureland_quinoa",
@@ -6296,6 +6553,7 @@
           },
           "name_en": "Organic White Quinoa",
           "category_ar": "حبوب وشوفان",
+          "category_en": "Cereals & Oats",
           "image": "assets/images/brands/natureland_quinoa.jpg"
         },
         {
@@ -6318,7 +6576,8 @@
             "folate_mcg": 8.0
           },
           "name_en": "Organic White Basmati Rice",
-          "category_ar": "أرز ومعكرونة"
+          "category_ar": "أرز ومعكرونة",
+          "category_en": "Rice & Pasta"
         },
         {
           "id": "natureland_brown_rice",
@@ -6341,6 +6600,7 @@
           },
           "name_en": "Organic Brown Basmati Rice",
           "category_ar": "أرز ومعكرونة",
+          "category_en": "Rice & Pasta",
           "image": "assets/images/brands/natureland_brown_rice.jpg"
         },
         {
@@ -6363,7 +6623,8 @@
             "folate_mcg": 57
           },
           "name_en": "Organic Whole Wheat Penne",
-          "category_ar": "أرز ومعكرونة"
+          "category_ar": "أرز ومعكرونة",
+          "category_en": "Rice & Pasta"
         },
         {
           "id": "natureland_whole_wheat_flour",
@@ -6386,7 +6647,8 @@
             "folate_mcg": 44
           },
           "name_en": "Organic Whole Wheat Flour",
-          "category_ar": "طحين ومخبوزات"
+          "category_ar": "طحين ومخبوزات",
+          "category_en": "Flour & Baking"
         },
         {
           "id": "natureland_all_purpose_flour",
@@ -6409,7 +6671,8 @@
             "folate_mcg": 183
           },
           "name_en": "Organic All-Purpose Flour",
-          "category_ar": "طحين ومخبوزات"
+          "category_ar": "طحين ومخبوزات",
+          "category_en": "Flour & Baking"
         },
         {
           "id": "natureland_almonds",
@@ -6432,7 +6695,8 @@
             "folate_mcg": 44
           },
           "name_en": "Organic Almonds",
-          "category_ar": "مكسرات"
+          "category_ar": "مكسرات",
+          "category_en": "Nuts"
         },
         {
           "id": "natureland_cashews",
@@ -6455,7 +6719,8 @@
             "folate_mcg": 25
           },
           "name_en": "Organic Cashews",
-          "category_ar": "مكسرات"
+          "category_ar": "مكسرات",
+          "category_en": "Nuts"
         },
         {
           "id": "natureland_walnuts",
@@ -6478,7 +6743,8 @@
             "folate_mcg": 98
           },
           "name_en": "Organic Walnuts",
-          "category_ar": "مكسرات"
+          "category_ar": "مكسرات",
+          "category_en": "Nuts"
         },
         {
           "id": "natureland_pistachios",
@@ -6502,7 +6768,8 @@
             "folate_mcg": 51
           },
           "name_en": "Organic Pistachios",
-          "category_ar": "مكسرات"
+          "category_ar": "مكسرات",
+          "category_en": "Nuts"
         },
         {
           "id": "natureland_peanuts",
@@ -6524,7 +6791,8 @@
             "folate_mcg": 240
           },
           "name_en": "Organic Peanuts",
-          "category_ar": "مكسرات"
+          "category_ar": "مكسرات",
+          "category_en": "Nuts"
         },
         {
           "id": "natureland_mixed_nuts",
@@ -6546,7 +6814,8 @@
             "folate_mcg": 50
           },
           "name_en": "Organic Raw Mixed Nuts",
-          "category_ar": "مكسرات"
+          "category_ar": "مكسرات",
+          "category_en": "Nuts"
         },
         {
           "id": "natureland_raisins",
@@ -6569,7 +6838,8 @@
             "folate_mcg": 5.0
           },
           "name_en": "Organic Raisins",
-          "category_ar": "فواكه مجففة"
+          "category_ar": "فواكه مجففة",
+          "category_en": "Dried Fruits"
         },
         {
           "id": "natureland_dried_apricots",
@@ -6593,7 +6863,8 @@
             "folate_mcg": 10
           },
           "name_en": "Organic Dried Apricots",
-          "category_ar": "فواكه مجففة"
+          "category_ar": "فواكه مجففة",
+          "category_en": "Dried Fruits"
         },
         {
           "id": "natureland_dried_figs",
@@ -6617,6 +6888,7 @@
           },
           "name_en": "Organic Dried Figs",
           "category_ar": "فواكه مجففة",
+          "category_en": "Dried Fruits",
           "image": "assets/images/brands/natureland_dried_figs.jpg"
         },
         {
@@ -6640,6 +6912,7 @@
           },
           "name_en": "Organic Medjool Dates",
           "category_ar": "فواكه مجففة",
+          "category_en": "Dried Fruits",
           "image": "assets/images/brands/natureland_dates.jpg"
         },
         {
@@ -6662,7 +6935,8 @@
             "vitamin_c_mg": 0.2
           },
           "name_en": "Organic Dried Cranberries",
-          "category_ar": "فواكه مجففة"
+          "category_ar": "فواكه مجففة",
+          "category_en": "Dried Fruits"
         },
         {
           "id": "natureland_chia_seeds",
@@ -6686,7 +6960,8 @@
             "folate_mcg": 49
           },
           "name_en": "Organic Chia Seeds",
-          "category_ar": "بذور"
+          "category_ar": "بذور",
+          "category_en": "Seeds"
         },
         {
           "id": "natureland_flax_seeds",
@@ -6710,7 +6985,8 @@
             "folate_mcg": 87
           },
           "name_en": "Organic Brown Flaxseeds",
-          "category_ar": "بذور"
+          "category_ar": "بذور",
+          "category_en": "Seeds"
         },
         {
           "id": "natureland_pumpkin_seeds",
@@ -6733,7 +7009,8 @@
             "folate_mcg": 58
           },
           "name_en": "Organic Pumpkin Seeds",
-          "category_ar": "بذور"
+          "category_ar": "بذور",
+          "category_en": "Seeds"
         },
         {
           "id": "natureland_sunflower_seeds",
@@ -6756,7 +7033,8 @@
             "folate_mcg": 227
           },
           "name_en": "Organic Sunflower Seeds",
-          "category_ar": "بذور"
+          "category_ar": "بذور",
+          "category_en": "Seeds"
         },
         {
           "id": "natureland_green_lentils",
@@ -6779,7 +7057,8 @@
             "folate_mcg": 479
           },
           "name_en": "Organic Green Lentils",
-          "category_ar": "بقوليات"
+          "category_ar": "بقوليات",
+          "category_en": "Legumes"
         },
         {
           "id": "natureland_chickpeas",
@@ -6802,7 +7081,8 @@
             "folate_mcg": 557
           },
           "name_en": "Organic Chickpeas",
-          "category_ar": "بقوليات"
+          "category_ar": "بقوليات",
+          "category_en": "Legumes"
         },
         {
           "id": "natureland_kidney_beans",
@@ -6825,7 +7105,8 @@
             "folate_mcg": 394
           },
           "name_en": "Organic Red Kidney Beans",
-          "category_ar": "بقوليات"
+          "category_ar": "بقوليات",
+          "category_en": "Legumes"
         },
         {
           "id": "natureland_peanut_butter",
@@ -6849,6 +7130,7 @@
           },
           "name_en": "Organic Peanut Butter",
           "category_ar": "صلصات ومربى",
+          "category_en": "Spreads & Jams",
           "image": "assets/images/brands/natureland_peanut_butter.jpg"
         },
         {
@@ -6872,7 +7154,8 @@
             "folate_mcg": 53
           },
           "name_en": "Organic Almond Butter",
-          "category_ar": "صلصات ومربى"
+          "category_ar": "صلصات ومربى",
+          "category_en": "Spreads & Jams"
         },
         {
           "id": "natureland_tahini",
@@ -6895,7 +7178,8 @@
             "folate_mcg": 98
           },
           "name_en": "Organic Sesame Butter (Tahini)",
-          "category_ar": "صلصات ومربى"
+          "category_ar": "صلصات ومربى",
+          "category_en": "Spreads & Jams"
         },
         {
           "id": "natureland_strawberry_jam",
@@ -6915,7 +7199,8 @@
             "vitamin_c_mg": 8.8
           },
           "name_en": "Organic Strawberry Jam",
-          "category_ar": "صلصات ومربى"
+          "category_ar": "صلصات ومربى",
+          "category_en": "Spreads & Jams"
         },
         {
           "id": "natureland_apple_cider_vinegar",
@@ -6934,7 +7219,8 @@
             "iron_mg": 0.2
           },
           "name_en": "Organic Apple Cider Vinegar",
-          "category_ar": "خل"
+          "category_ar": "خل",
+          "category_en": "Vinegar"
         },
         {
           "id": "natureland_balsamic_vinegar",
@@ -6954,7 +7240,8 @@
             "zinc_mg": 0.1
           },
           "name_en": "Organic Balsamic Vinegar",
-          "category_ar": "خل"
+          "category_ar": "خل",
+          "category_en": "Vinegar"
         },
         {
           "id": "natureland_milk",
@@ -6978,7 +7265,8 @@
             "folate_mcg": 5.0
           },
           "name_en": "Organic Full Fat Milk",
-          "category_ar": "حليب"
+          "category_ar": "حليب",
+          "category_en": "Milk"
         },
         {
           "id": "natureland_eggs",
@@ -7004,6 +7292,7 @@
           },
           "name_en": "Organic Eggs",
           "category_ar": "بيض",
+          "category_en": "Eggs",
           "image": "assets/images/brands/natureland_eggs.jpg"
         },
         {
@@ -7024,7 +7313,8 @@
             "zinc_mg": 2.0
           },
           "name_en": "Organic Coconut Sugar",
-          "category_ar": "محليات"
+          "category_ar": "محليات",
+          "category_en": "Sweeteners"
         },
         {
           "id": "natureland_apple_juice",
@@ -7046,6 +7336,7 @@
           },
           "name_en": "Organic Apple Juice",
           "category_ar": "عصائر",
+          "category_en": "Juices",
           "image": "assets/images/brands/natureland_apple_juice.jpg"
         },
         {
@@ -7068,8 +7359,9 @@
             "vitamin_c_mg": 0.7,
             "folate_mcg": 39
           },
-          "name_en": "Organic Turmeric Powder",
-          "category_ar": "بهارات"
+          "name_en": "Organic Ground Turmeric",
+          "category_ar": "بهارات",
+          "category_en": "Spices"
         },
         {
           "id": "natureland_cinnamon",
@@ -7091,8 +7383,9 @@
             "vitamin_a_mcg": 15,
             "folate_mcg": 6.0
           },
-          "name_en": "Organic Cinnamon Powder",
-          "category_ar": "بهارات"
+          "name_en": "Organic Ground Cinnamon",
+          "category_ar": "بهارات",
+          "category_en": "Spices"
         },
         {
           "id": "natureland_cocoa",
@@ -7116,7 +7409,8 @@
             "caffeine_mg": 230
           },
           "name_en": "Organic Cocoa Powder",
-          "category_ar": "وجبات خفيفة"
+          "category_ar": "وجبات خفيفة",
+          "category_en": "Snacks"
         },
         {
           "id": "natureland_dark_chocolate",
@@ -7141,6 +7435,7 @@
           },
           "name_en": "Organic Dark Chocolate",
           "category_ar": "وجبات خفيفة",
+          "category_en": "Snacks",
           "image": "assets/images/brands/natureland_dark_chocolate.jpg"
         }
       ]
@@ -7177,6 +7472,7 @@
           },
           "name_en": "Fresh Milk Full Fat",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/almarai_fresh_milk_full.jpg"
         },
         {
@@ -7203,6 +7499,7 @@
           },
           "name_en": "Fresh Milk Low Fat",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/almarai_fresh_milk_low.jpg"
         },
         {
@@ -7229,6 +7526,7 @@
           },
           "name_en": "Fresh Milk Skimmed",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/almarai_fresh_milk_skimmed.jpg"
         },
         {
@@ -7255,6 +7553,7 @@
           },
           "name_en": "Long Life Milk Full Fat",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/almarai_uht_milk_full.jpg"
         },
         {
@@ -7281,6 +7580,7 @@
           },
           "name_en": "Long Life Milk Low Fat",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/almarai_uht_milk_low.jpg"
         },
         {
@@ -7306,6 +7606,7 @@
           },
           "name_en": "Full Cream Milk Powder",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/almarai_full_cream_milk_powder.jpg"
         },
         {
@@ -7333,6 +7634,7 @@
           },
           "name_en": "Protein Milk Chocolate",
           "category_ar": "حليب",
+          "category_en": "Milk",
           "image": "assets/images/brands/almarai_protein_milk_chocolate.jpg"
         },
         {
@@ -7355,8 +7657,9 @@
             "vitamin_b12_mcg": 0.4,
             "folate_mcg": 8.0
           },
-          "name_en": "Laban Full Fat",
+          "name_en": "Fresh Laban Full Fat",
           "category_ar": "لبن",
+          "category_en": "Laban",
           "image": "assets/images/brands/almarai_laban_full.jpg"
         },
         {
@@ -7379,8 +7682,9 @@
             "vitamin_b12_mcg": 0.4,
             "folate_mcg": 8.0
           },
-          "name_en": "Laban Low Fat",
+          "name_en": "Fresh Laban Low Fat",
           "category_ar": "لبن",
+          "category_en": "Laban",
           "image": "assets/images/brands/almarai_laban_low.jpg"
         },
         {
@@ -7405,8 +7709,9 @@
             "vitamin_b12_mcg": 0.4,
             "folate_mcg": 8.0
           },
-          "name_en": "Flavored Laban Mango",
+          "name_en": "Laban Up Mango",
           "category_ar": "لبن",
+          "category_en": "Laban",
           "image": "assets/images/brands/almarai_laban_up_mango.jpg"
         },
         {
@@ -7431,6 +7736,7 @@
           },
           "name_en": "Zabadi Full Fat",
           "category_ar": "زبادي",
+          "category_en": "Yogurt",
           "image": "assets/images/brands/almarai_zabadi_full.jpg"
         },
         {
@@ -7455,6 +7761,7 @@
           },
           "name_en": "Zabadi Low Fat",
           "category_ar": "زبادي",
+          "category_en": "Yogurt",
           "image": "assets/images/brands/almarai_zabadi_low.jpg"
         },
         {
@@ -7477,8 +7784,9 @@
             "vitamin_b12_mcg": 1.1,
             "folate_mcg": 10
           },
-          "name_en": "Greek Style Yogurt Plain",
+          "name_en": "Plain Greek Style Yoghurt",
           "category_ar": "زبادي",
+          "category_en": "Yogurt",
           "image": "assets/images/brands/almarai_greek_yogurt_plain.jpg"
         },
         {
@@ -7503,8 +7811,9 @@
             "vitamin_b12_mcg": 0.8,
             "folate_mcg": 9.0
           },
-          "name_en": "Greek Style Yogurt Strawberry",
+          "name_en": "Strawberry Greek Style Yoghurt",
           "category_ar": "زبادي",
+          "category_en": "Yogurt",
           "image": "assets/images/brands/almarai_greek_yogurt_strawberry.jpg"
         },
         {
@@ -7530,8 +7839,9 @@
             "folate_mcg": 10,
             "caffeine_mg": 6.0
           },
-          "name_en": "Flavored Milk Chocolate",
+          "name_en": "Chocolate Flavored Milk",
           "category_ar": "حليب بنكهة",
+          "category_en": "Flavored Milk",
           "image": "assets/images/brands/almarai_flavored_milk_chocolate.jpg"
         },
         {
@@ -7557,8 +7867,9 @@
             "vitamin_b12_mcg": 0.9,
             "folate_mcg": 10
           },
-          "name_en": "Flavored Milk Strawberry",
+          "name_en": "Strawberry Flavored Milk",
           "category_ar": "حليب بنكهة",
+          "category_en": "Flavored Milk",
           "image": "assets/images/brands/almarai_flavored_milk_strawberry.jpg"
         },
         {
@@ -7584,8 +7895,9 @@
             "vitamin_b12_mcg": 0.9,
             "folate_mcg": 10
           },
-          "name_en": "Flavored Milk Banana",
-          "category_ar": "حليب بنكهة"
+          "name_en": "Banana Flavored Milk",
+          "category_ar": "حليب بنكهة",
+          "category_en": "Flavored Milk"
         },
         {
           "id": "almarai_flavored_milk_vanilla",
@@ -7609,8 +7921,9 @@
             "vitamin_b12_mcg": 0.9,
             "folate_mcg": 10
           },
-          "name_en": "Flavored Milk Vanilla",
-          "category_ar": "حليب بنكهة"
+          "name_en": "Vanilla Flavored Milk",
+          "category_ar": "حليب بنكهة",
+          "category_en": "Flavored Milk"
         },
         {
           "id": "almarai_orange_juice",
@@ -7632,6 +7945,7 @@
           },
           "name_en": "Orange Juice",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/almarai_orange_juice.jpg"
         },
         {
@@ -7653,6 +7967,7 @@
           },
           "name_en": "Apple Juice",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/almarai_apple_juice.jpg"
         },
         {
@@ -7676,6 +7991,7 @@
           },
           "name_en": "Mango Juice",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/almarai_mango_juice.jpg"
         },
         {
@@ -7698,6 +8014,7 @@
           },
           "name_en": "Pomegranate Mixed Fruit Juice",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/almarai_pomegranate_juice.jpg"
         },
         {
@@ -7721,6 +8038,7 @@
           },
           "name_en": "Mixed Fruit Juice",
           "category_ar": "عصير",
+          "category_en": "Juice",
           "image": "assets/images/brands/almarai_mixed_fruit_juice.jpg"
         },
         {
@@ -7744,6 +8062,7 @@
           },
           "name_en": "Cooking Cream",
           "category_ar": "قشطة",
+          "category_en": "Cream",
           "image": "assets/images/brands/almarai_cooking_cream.jpg"
         },
         {
@@ -7767,6 +8086,7 @@
           },
           "name_en": "Whipping Cream Full Fat",
           "category_ar": "قشطة",
+          "category_en": "Cream",
           "image": "assets/images/brands/almarai_whipping_cream.jpg"
         },
         {
@@ -7790,6 +8110,7 @@
           },
           "name_en": "Qishta (Clotted Cream)",
           "category_ar": "قشطة",
+          "category_en": "Cream",
           "image": "assets/images/brands/almarai_qishta.jpg"
         },
         {
@@ -7811,6 +8132,7 @@
           },
           "name_en": "Salted Natural Butter",
           "category_ar": "زبدة وسمن",
+          "category_en": "Butter & Ghee",
           "image": "assets/images/brands/almarai_butter_salted.jpg"
         },
         {
@@ -7832,6 +8154,7 @@
           },
           "name_en": "Unsalted Butter",
           "category_ar": "زبدة وسمن",
+          "category_en": "Butter & Ghee",
           "image": "assets/images/brands/almarai_butter_unsalted.jpg"
         },
         {
@@ -7849,6 +8172,7 @@
           },
           "name_en": "Pure Butter Ghee",
           "category_ar": "زبدة وسمن",
+          "category_en": "Butter & Ghee",
           "image": "assets/images/brands/almarai_ghee.jpg"
         },
         {
@@ -7874,6 +8198,7 @@
           },
           "name_en": "Cheddar Cheese Slices",
           "category_ar": "أجبان",
+          "category_en": "Cheese",
           "image": "assets/images/brands/almarai_cheese_slices.jpg"
         },
         {
@@ -7897,6 +8222,7 @@
           },
           "name_en": "Triangle Cheese",
           "category_ar": "أجبان",
+          "category_en": "Cheese",
           "image": "assets/images/brands/almarai_cheese_triangles.jpg"
         },
         {
@@ -7922,6 +8248,7 @@
           },
           "name_en": "Cream Cheese Spread",
           "category_ar": "أجبان",
+          "category_en": "Cheese",
           "image": "assets/images/brands/almarai_cream_cheese_spread.jpg"
         },
         {
@@ -7947,6 +8274,7 @@
           },
           "name_en": "Feta Cheese Full Fat",
           "category_ar": "أجبان",
+          "category_en": "Cheese",
           "image": "assets/images/brands/almarai_feta_cheese_full.jpg"
         },
         {
@@ -7972,6 +8300,7 @@
           },
           "name_en": "Feta Cheese Low Fat & Less Salt",
           "category_ar": "أجبان",
+          "category_en": "Cheese",
           "image": "assets/images/brands/almarai_feta_cheese_low.jpg"
         },
         {
@@ -7997,6 +8326,7 @@
           },
           "name_en": "Halloumi Cheese Full Fat",
           "category_ar": "أجبان",
+          "category_en": "Cheese",
           "image": "assets/images/brands/almarai_halloumi_cheese.jpg"
         },
         {
@@ -8022,6 +8352,7 @@
           },
           "name_en": "Mozzarella Cheese",
           "category_ar": "أجبان",
+          "category_en": "Cheese",
           "image": "assets/images/brands/almarai_mozzarella_cheese.jpg"
         },
         {
@@ -8045,8 +8376,9 @@
             "vitamin_b12_mcg": 0.3,
             "folate_mcg": 5.4
           },
-          "name_en": "Cheddar Block Full Fat",
+          "name_en": "Cheddar Cheese Block Full Fat",
           "category_ar": "أجبان",
+          "category_en": "Cheese",
           "image": "assets/images/brands/almarai_cheddar_block.jpg"
         },
         {
@@ -8070,6 +8402,7 @@
           },
           "name_en": "Labneh Full Fat",
           "category_ar": "لبنة",
+          "category_en": "Labneh",
           "image": "assets/images/brands/almarai_labneh_full.jpg"
         },
         {
@@ -8093,6 +8426,7 @@
           },
           "name_en": "Labneh Low Fat",
           "category_ar": "لبنة",
+          "category_en": "Labneh",
           "image": "assets/images/brands/almarai_labneh_low.jpg"
         },
         {
@@ -8117,7 +8451,8 @@
             "folate_mcg": 24
           },
           "name_en": "Fresh Eggs",
-          "category_ar": "بيض"
+          "category_ar": "بيض",
+          "category_en": "Eggs"
         },
         {
           "id": "almarai_custard_vanilla",
@@ -8141,8 +8476,9 @@
             "vitamin_b12_mcg": 0.4,
             "folate_mcg": 8.0
           },
-          "name_en": "Vanilla Dessert Custard",
+          "name_en": "Vanilla Custard",
           "category_ar": "حلويات وكاسترد",
+          "category_en": "Desserts & Custard",
           "image": "assets/images/brands/almarai_custard_vanilla.jpg"
         },
         {
@@ -8168,7 +8504,8 @@
             "folate_mcg": 8.0
           },
           "name_en": "Creme Caramel",
-          "category_ar": "حلويات وكاسترد"
+          "category_ar": "حلويات وكاسترد",
+          "category_en": "Desserts & Custard"
         },
         {
           "id": "almarai_lusine_white_bread",
@@ -8192,6 +8529,7 @@
           },
           "name_en": "L'usine Sliced White Bread",
           "category_ar": "مخبوزات",
+          "category_en": "Bakery",
           "image": "assets/images/brands/almarai_lusine_white_bread.jpg"
         },
         {
@@ -8216,6 +8554,7 @@
           },
           "name_en": "L'usine Sliced Brown Bread",
           "category_ar": "مخبوزات",
+          "category_en": "Bakery",
           "image": "assets/images/brands/almarai_lusine_brown_bread.jpg"
         },
         {
@@ -8243,6 +8582,7 @@
           },
           "name_en": "L'usine Plain Croissant",
           "category_ar": "مخبوزات",
+          "category_en": "Bakery",
           "image": "assets/images/brands/almarai_lusine_croissant_plain.jpg"
         },
         {
@@ -8270,6 +8610,7 @@
           },
           "name_en": "L'usine Butter Croissant",
           "category_ar": "مخبوزات",
+          "category_en": "Bakery",
           "image": "assets/images/brands/almarai_lusine_croissant_butter.jpg"
         },
         {
@@ -8295,6 +8636,7 @@
           },
           "name_en": "L'usine Cake",
           "category_ar": "مخبوزات",
+          "category_en": "Bakery",
           "image": "assets/images/brands/almarai_lusine_cake.jpg"
         }
       ]
@@ -8332,6 +8674,7 @@
           },
           "name_en": "Cadbury Dairy Milk",
           "category_ar": "شوكولاتة بالحليب",
+          "category_en": "Milk Chocolate",
           "image": "assets/images/brands/choco_dairy_milk_37g.jpg"
         },
         {
@@ -8360,6 +8703,7 @@
           },
           "name_en": "Cadbury Dairy Milk Fruit & Nut",
           "category_ar": "شوكولاتة بالمكسرات",
+          "category_en": "Chocolate with Nuts",
           "image": "assets/images/brands/choco_dairy_milk_fruit_nut_49g.jpg"
         },
         {
@@ -8388,6 +8732,7 @@
           },
           "name_en": "Cadbury Dairy Milk Oreo",
           "category_ar": "شوكولاتة محشية",
+          "category_en": "Filled Chocolate",
           "image": "assets/images/brands/choco_dairy_milk_oreo_41g.jpg"
         },
         {
@@ -8416,6 +8761,7 @@
           },
           "name_en": "Cadbury Crunchie",
           "category_ar": "حلوى وكراميل",
+          "category_en": "Candy & Caramel",
           "image": "assets/images/brands/choco_cadbury_crunchie_40g.jpg"
         },
         {
@@ -8444,6 +8790,7 @@
           },
           "name_en": "Cadbury Twirl",
           "category_ar": "شوكولاتة بالحليب",
+          "category_en": "Milk Chocolate",
           "image": "assets/images/brands/choco_cadbury_twirl_43g.jpg"
         },
         {
@@ -8472,6 +8819,7 @@
           },
           "name_en": "Cadbury Flake",
           "category_ar": "شوكولاتة بالحليب",
+          "category_en": "Milk Chocolate",
           "image": "assets/images/brands/choco_cadbury_flake_32g.jpg"
         },
         {
@@ -8500,6 +8848,7 @@
           },
           "name_en": "Cadbury Picnic",
           "category_ar": "شوكولاتة محشية",
+          "category_en": "Filled Chocolate",
           "image": "assets/images/brands/choco_cadbury_picnic_48g.jpg"
         },
         {
@@ -8528,6 +8877,7 @@
           },
           "name_en": "Cadbury Boost",
           "category_ar": "شوكولاتة محشية",
+          "category_en": "Filled Chocolate",
           "image": "assets/images/brands/choco_cadbury_boost_48g.jpg"
         },
         {
@@ -8556,6 +8906,7 @@
           },
           "name_en": "Galaxy Smooth Milk",
           "category_ar": "شوكولاتة بالحليب",
+          "category_en": "Milk Chocolate",
           "image": "assets/images/brands/choco_galaxy_milk_42g.jpg"
         },
         {
@@ -8584,6 +8935,7 @@
           },
           "name_en": "Galaxy Caramel",
           "category_ar": "حلوى وكراميل",
+          "category_en": "Candy & Caramel",
           "image": "assets/images/brands/choco_galaxy_caramel_48g.jpg"
         },
         {
@@ -8612,6 +8964,7 @@
           },
           "name_en": "Galaxy Minstrels",
           "category_ar": "شوكولاتة بالحليب",
+          "category_en": "Milk Chocolate",
           "image": "assets/images/brands/choco_galaxy_minstrels_42g.jpg"
         },
         {
@@ -8640,6 +8993,7 @@
           },
           "name_en": "Galaxy Jewels",
           "category_ar": "شوكولاتة بالمكسرات",
+          "category_en": "Chocolate with Nuts",
           "image": "assets/images/brands/choco_galaxy_jewels_40g.jpg"
         },
         {
@@ -8668,6 +9022,7 @@
           },
           "name_en": "Snickers",
           "category_ar": "شوكولاتة بالمكسرات",
+          "category_en": "Chocolate with Nuts",
           "image": "assets/images/brands/choco_snickers_50g.jpg"
         },
         {
@@ -8696,6 +9051,7 @@
           },
           "name_en": "Mars",
           "category_ar": "حلوى وكراميل",
+          "category_en": "Candy & Caramel",
           "image": "assets/images/brands/choco_mars_51g.jpg"
         },
         {
@@ -8724,6 +9080,7 @@
           },
           "name_en": "Twix",
           "category_ar": "ويفر بالشوكولاتة",
+          "category_en": "Chocolate Wafer",
           "image": "assets/images/brands/choco_twix_50g.jpg"
         },
         {
@@ -8752,6 +9109,7 @@
           },
           "name_en": "Bounty",
           "category_ar": "شوكولاتة محشية",
+          "category_en": "Filled Chocolate",
           "image": "assets/images/brands/choco_bounty_57g.jpg"
         },
         {
@@ -8780,6 +9138,7 @@
           },
           "name_en": "Milky Way",
           "category_ar": "حلوى وكراميل",
+          "category_en": "Candy & Caramel",
           "image": "assets/images/brands/choco_milky_way_21g.jpg"
         },
         {
@@ -8808,6 +9167,7 @@
           },
           "name_en": "Maltesers",
           "category_ar": "شوكولاتة بالحليب",
+          "category_en": "Milk Chocolate",
           "image": "assets/images/brands/choco_maltesers_37g.jpg"
         },
         {
@@ -8836,6 +9196,7 @@
           },
           "name_en": "KitKat 4 Finger",
           "category_ar": "ويفر بالشوكولاتة",
+          "category_en": "Chocolate Wafer",
           "image": "assets/images/brands/choco_kitkat_4finger_41g.jpg"
         },
         {
@@ -8864,6 +9225,7 @@
           },
           "name_en": "KitKat 2 Finger",
           "category_ar": "ويفر بالشوكولاتة",
+          "category_en": "Chocolate Wafer",
           "image": "assets/images/brands/choco_kitkat_2finger_20g.jpg"
         },
         {
@@ -8892,6 +9254,7 @@
           },
           "name_en": "KitKat Chunky",
           "category_ar": "ويفر بالشوكولاتة",
+          "category_en": "Chocolate Wafer",
           "image": "assets/images/brands/choco_kitkat_chunky_40g.jpg"
         },
         {
@@ -8920,6 +9283,7 @@
           },
           "name_en": "Nestlé Lion",
           "category_ar": "ويفر بالشوكولاتة",
+          "category_en": "Chocolate Wafer",
           "image": "assets/images/brands/choco_nestle_lion_42g.jpg"
         },
         {
@@ -8948,6 +9312,7 @@
           },
           "name_en": "Nestlé Aero",
           "category_ar": "شوكولاتة بالحليب",
+          "category_en": "Milk Chocolate",
           "image": "assets/images/brands/choco_nestle_aero_36g.jpg"
         },
         {
@@ -8976,6 +9341,7 @@
           },
           "name_en": "Nestlé Smarties",
           "category_ar": "شوكولاتة بالحليب",
+          "category_en": "Milk Chocolate",
           "image": "assets/images/brands/choco_nestle_smarties_38g.jpg"
         },
         {
@@ -9004,6 +9370,7 @@
           },
           "name_en": "Nestlé Munch",
           "category_ar": "ويفر بالشوكولاتة",
+          "category_en": "Chocolate Wafer",
           "image": "assets/images/brands/choco_nestle_munch_18g.jpg"
         },
         {
@@ -9032,6 +9399,7 @@
           },
           "name_en": "Kinder Bueno",
           "category_ar": "ويفر بالشوكولاتة",
+          "category_en": "Chocolate Wafer",
           "image": "assets/images/brands/choco_kinder_bueno_43g.jpg"
         },
         {
@@ -9060,6 +9428,7 @@
           },
           "name_en": "Kinder Chocolate",
           "category_ar": "شوكولاتة بالحليب",
+          "category_en": "Milk Chocolate",
           "image": "assets/images/brands/choco_kinder_chocolate_12g.jpg"
         },
         {
@@ -9088,6 +9457,7 @@
           },
           "name_en": "Kinder Joy",
           "category_ar": "شوكولاتة محشية",
+          "category_en": "Filled Chocolate",
           "image": "assets/images/brands/choco_kinder_joy_20g.jpg"
         },
         {
@@ -9116,6 +9486,7 @@
           },
           "name_en": "Kinder Surprise",
           "category_ar": "شوكولاتة بالحليب",
+          "category_en": "Milk Chocolate",
           "image": "assets/images/brands/choco_kinder_surprise_20g.jpg"
         },
         {
@@ -9140,8 +9511,9 @@
             "folate_mcg": 2.5,
             "caffeine_mg": 1.0
           },
-          "name_en": "Ferrero Rocher (1 piece)",
+          "name_en": "Ferrero Rocher (1 Piece)",
           "category_ar": "شوكولاتة بالمكسرات",
+          "category_en": "Chocolate with Nuts",
           "image": "assets/images/brands/choco_ferrero_rocher_1pc.jpg"
         },
         {
@@ -9165,8 +9537,9 @@
             "folate_mcg": 2.1,
             "caffeine_mg": 0.8
           },
-          "name_en": "Nutella (15g serving)",
+          "name_en": "Nutella (15g Serving)",
           "category_ar": "سبريد وكريمة",
+          "category_en": "Spread & Cream",
           "image": "assets/images/brands/choco_nutella_15g.jpg"
         },
         {
@@ -9193,8 +9566,9 @@
             "folate_mcg": 1.2,
             "caffeine_mg": 2.2
           },
-          "name_en": "Lindt Lindor Milk (1 truffle)",
+          "name_en": "Lindt Lindor Milk (1 Truffle)",
           "category_ar": "شوكولاتة محشية",
+          "category_en": "Filled Chocolate",
           "image": "assets/images/brands/choco_lindt_lindor_milk_1pc.jpg"
         },
         {
@@ -9223,6 +9597,7 @@
           },
           "name_en": "Toblerone Milk",
           "category_ar": "شوكولاتة بالمكسرات",
+          "category_en": "Chocolate with Nuts",
           "image": "assets/images/brands/choco_toblerone_milk_35g.jpg"
         },
         {
@@ -9251,6 +9626,7 @@
           },
           "name_en": "Hershey's Milk Chocolate",
           "category_ar": "شوكولاتة بالحليب",
+          "category_en": "Milk Chocolate",
           "image": "assets/images/brands/choco_hersheys_milk_43g.jpg"
         },
         {
@@ -9279,6 +9655,7 @@
           },
           "name_en": "Hershey's Kisses",
           "category_ar": "شوكولاتة بالحليب",
+          "category_en": "Milk Chocolate",
           "image": "assets/images/brands/choco_hersheys_kisses_41g.jpg"
         },
         {
@@ -9307,6 +9684,7 @@
           },
           "name_en": "M&M's Milk Chocolate",
           "category_ar": "شوكولاتة بالحليب",
+          "category_en": "Milk Chocolate",
           "image": "assets/images/brands/choco_mms_milk_45g.jpg"
         },
         {
@@ -9335,6 +9713,7 @@
           },
           "name_en": "M&M's Peanut",
           "category_ar": "شوكولاتة بالمكسرات",
+          "category_en": "Chocolate with Nuts",
           "image": "assets/images/brands/choco_mms_peanut_45g.jpg"
         },
         {
@@ -9362,6 +9741,7 @@
           },
           "name_en": "Milkybar White",
           "category_ar": "شوكولاتة بيضاء",
+          "category_en": "White Chocolate",
           "image": "assets/images/brands/choco_milkybar_25g.jpg"
         },
         {
@@ -9385,8 +9765,9 @@
             "folate_mcg": 6.6,
             "caffeine_mg": 1.1
           },
-          "name_en": "Oreo (2 cookies)",
+          "name_en": "Oreo (2 Cookies)",
           "category_ar": "بسكويت بالشوكولاتة",
+          "category_en": "Chocolate Biscuit",
           "image": "assets/images/brands/choco_oreo_2pc_22g.jpg"
         },
         {
@@ -9415,6 +9796,7 @@
           },
           "name_en": "Reese's Peanut Butter Cups",
           "category_ar": "شوكولاتة محشية",
+          "category_en": "Filled Chocolate",
           "image": "assets/images/brands/choco_reeses_pb_cups_42g.jpg"
         },
         {
@@ -9439,8 +9821,9 @@
             "folate_mcg": 0.3,
             "caffeine_mg": 1.7
           },
-          "name_en": "After Eight (1 piece)",
+          "name_en": "After Eight (1 Piece)",
           "category_ar": "شوكولاتة محشية",
+          "category_en": "Filled Chocolate",
           "image": "assets/images/brands/choco_after_eight_1pc.jpg"
         },
         {
@@ -9465,8 +9848,9 @@
             "folate_mcg": 0.6,
             "caffeine_mg": 0.6
           },
-          "name_en": "Quality Street (1 piece)",
+          "name_en": "Quality Street (1 Piece)",
           "category_ar": "حلوى وكراميل",
+          "category_en": "Candy & Caramel",
           "image": "assets/images/brands/choco_quality_street_1pc.jpg"
         },
         {
@@ -9491,8 +9875,9 @@
             "folate_mcg": 0.6,
             "caffeine_mg": 0.6
           },
-          "name_en": "Celebrations (1 piece)",
+          "name_en": "Celebrations (1 Piece)",
           "category_ar": "حلوى وكراميل",
+          "category_en": "Candy & Caramel",
           "image": "assets/images/brands/choco_celebrations_1pc.jpg"
         },
         {
@@ -9520,6 +9905,7 @@
           },
           "name_en": "Galaxy White",
           "category_ar": "شوكولاتة بيضاء",
+          "category_en": "White Chocolate",
           "image": "assets/images/brands/choco_galaxy_white_38g.jpg"
         },
         {
@@ -9548,6 +9934,7 @@
           },
           "name_en": "Cadbury Wispa",
           "category_ar": "شوكولاتة بالحليب",
+          "category_en": "Milk Chocolate",
           "image": "assets/images/brands/choco_cadbury_wispa_36g.jpg"
         },
         {
@@ -9576,6 +9963,7 @@
           },
           "name_en": "Galaxy Ripple",
           "category_ar": "شوكولاتة بالحليب",
+          "category_en": "Milk Chocolate",
           "image": "assets/images/brands/choco_galaxy_ripple_33g.jpg"
         }
       ]
@@ -9607,7 +9995,7 @@
             "vitamin_c_mg": 0.0,
             "folate_mcg": 15
           },
-          "name_en": "Dates, fresh (Medjool)",
+          "name_en": "Fresh Dates (Medjool)",
           "image": "assets/images/brands/produce_dates_fresh.jpg"
         },
         {
@@ -10134,7 +10522,7 @@
             "vitamin_c_mg": 7.0,
             "folate_mcg": 4.0
           },
-          "name_en": "Cherry (sweet)",
+          "name_en": "Cherry (Sweet)",
           "image": "assets/images/brands/produce_cherry.jpg"
         },
         {
@@ -10359,7 +10747,7 @@
             "vitamin_c_mg": 2.4,
             "folate_mcg": 11
           },
-          "name_en": "Sweet potato",
+          "name_en": "Sweet Potato",
           "image": "assets/images/brands/produce_sweet_potato.jpg"
         },
         {
@@ -10431,7 +10819,7 @@
             "vitamin_c_mg": 128,
             "folate_mcg": 46
           },
-          "name_en": "Bell pepper (red)",
+          "name_en": "Bell Pepper (Red)",
           "image": "assets/images/brands/produce_bell_pepper.jpg"
         },
         {
@@ -10455,7 +10843,7 @@
             "vitamin_c_mg": 4.0,
             "folate_mcg": 136
           },
-          "name_en": "Lettuce (romaine)",
+          "name_en": "Lettuce (Romaine)",
           "image": "assets/images/brands/produce_lettuce.jpg"
         },
         {
@@ -10551,7 +10939,7 @@
             "vitamin_c_mg": 27,
             "folate_mcg": 62
           },
-          "name_en": "Coriander (cilantro)",
+          "name_en": "Coriander (Cilantro)",
           "image": "assets/images/brands/produce_coriander.jpg"
         },
         {
@@ -10647,7 +11035,7 @@
             "vitamin_c_mg": 12,
             "folate_mcg": 33
           },
-          "name_en": "Green beans",
+          "name_en": "Green Beans",
           "image": "assets/images/brands/produce_green_beans.jpg"
         },
         {
@@ -10671,7 +11059,7 @@
             "vitamin_c_mg": 40,
             "folate_mcg": 65
           },
-          "name_en": "Green peas",
+          "name_en": "Green Peas",
           "image": "assets/images/brands/produce_peas.jpg"
         },
         {
@@ -10695,7 +11083,7 @@
             "vitamin_c_mg": 6.8,
             "folate_mcg": 42
           },
-          "name_en": "Sweet corn",
+          "name_en": "Sweet Corn",
           "image": "assets/images/brands/produce_corn.jpg"
         },
         {
@@ -10815,7 +11203,7 @@
             "vitamin_c_mg": 2.1,
             "folate_mcg": 17
           },
-          "name_en": "Mushroom (white)",
+          "name_en": "Mushroom (White)",
           "image": "assets/images/brands/produce_mushroom.jpg"
         },
         {
@@ -11027,7 +11415,8 @@
             "fat_g": 12
           },
           "name_en": "Cranberry Tabbouleh Pot",
-          "category_ar": "سلطات"
+          "category_ar": "سلطات",
+          "category_en": "Salads"
         },
         {
           "id": "ananas_caesar_protien_pot",
@@ -11039,8 +11428,9 @@
             "carbs_g": 12,
             "fat_g": 18
           },
-          "name_en": "Caesar Protien Pot",
-          "category_ar": "سلطات"
+          "name_en": "Caesar Protein Pot",
+          "category_ar": "سلطات",
+          "category_en": "Salads"
         },
         {
           "id": "ananas_spicy_club_bun",
@@ -11053,7 +11443,8 @@
             "fat_g": 19
           },
           "name_en": "Spicy Club Bun",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches"
         },
         {
           "id": "ananas_pizza_puff",
@@ -11066,7 +11457,8 @@
             "fat_g": 11
           },
           "name_en": "Pizza Puff",
-          "category_ar": "معجنات"
+          "category_ar": "معجنات",
+          "category_en": "Pastries"
         },
         {
           "id": "ananas_zaatar_puff",
@@ -11079,7 +11471,8 @@
             "fat_g": 11
           },
           "name_en": "Zaatar Puff",
-          "category_ar": "معجنات"
+          "category_ar": "معجنات",
+          "category_en": "Pastries"
         },
         {
           "id": "ananas_almond_protein_dates",
@@ -11092,7 +11485,8 @@
             "fat_g": 7
           },
           "name_en": "Almond Protein Dates",
-          "category_ar": "سناك"
+          "category_ar": "سناك",
+          "category_en": "Snacks"
         },
         {
           "id": "ananas_simit_bun",
@@ -11105,7 +11499,8 @@
             "fat_g": 16
           },
           "name_en": "Simit Bun",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches"
         },
         {
           "id": "ananas_classic_cheese_puff",
@@ -11118,7 +11513,8 @@
             "fat_g": 12
           },
           "name_en": "Classic Cheese Puff",
-          "category_ar": "معجنات"
+          "category_ar": "معجنات",
+          "category_en": "Pastries"
         },
         {
           "id": "ananas_chicken_club_sandwich",
@@ -11131,7 +11527,8 @@
             "fat_g": 20
           },
           "name_en": "Chicken Club Sandwich",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches"
         },
         {
           "id": "ananas_peanut_butter_protein_balls",
@@ -11143,8 +11540,9 @@
             "carbs_g": 22,
             "fat_g": 13
           },
-          "name_en": "Peanut butter protein balls",
-          "category_ar": "سناك"
+          "name_en": "Peanut Butter Protein Balls",
+          "category_ar": "سناك",
+          "category_en": "Snacks"
         },
         {
           "id": "ananas_pecan_protein_balls",
@@ -11156,8 +11554,9 @@
             "carbs_g": 24,
             "fat_g": 14
           },
-          "name_en": "Pecan protein balls",
-          "category_ar": "سناك"
+          "name_en": "Pecan Protein Balls",
+          "category_ar": "سناك",
+          "category_en": "Snacks"
         },
         {
           "id": "ananas_peanut_butter_acai",
@@ -11170,7 +11569,8 @@
             "fat_g": 16
           },
           "name_en": "Peanut Butter Acai",
-          "category_ar": "سموذي"
+          "category_ar": "سموذي",
+          "category_en": "Smoothies"
         },
         {
           "id": "ananas_tropical_acai_bowl",
@@ -11183,7 +11583,8 @@
             "fat_g": 11
           },
           "name_en": "Tropical Acai Bowl",
-          "category_ar": "سموذي"
+          "category_ar": "سموذي",
+          "category_en": "Smoothies"
         },
         {
           "id": "ananas_pistachio_yogurt_bowl",
@@ -11195,8 +11596,9 @@
             "carbs_g": 42,
             "fat_g": 13
           },
-          "name_en": "Pistachio Yogurt bowl",
-          "category_ar": "سموذي"
+          "name_en": "Pistachio Yogurt Bowl",
+          "category_ar": "سموذي",
+          "category_en": "Smoothies"
         },
         {
           "id": "ananas_tropical_yogurt_bowl",
@@ -11209,7 +11611,8 @@
             "fat_g": 9
           },
           "name_en": "Tropical Yogurt Bowl",
-          "category_ar": "سموذي"
+          "category_ar": "سموذي",
+          "category_en": "Smoothies"
         },
         {
           "id": "ananas_galaxy_vanilla",
@@ -11222,7 +11625,8 @@
             "fat_g": 6
           },
           "name_en": "Galaxy Vanilla",
-          "category_ar": "سموذي"
+          "category_ar": "سموذي",
+          "category_en": "Smoothies"
         },
         {
           "id": "ananas_espresso_float",
@@ -11235,7 +11639,8 @@
             "fat_g": 8
           },
           "name_en": "Espresso Float",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "ananas_pistachio_greek_yogurt_signature",
@@ -11247,8 +11652,9 @@
             "carbs_g": 30,
             "fat_g": 13
           },
-          "name_en": "Pistachio Greek yogurt Signature",
-          "category_ar": "آيس كريم"
+          "name_en": "Pistachio Greek Yogurt Signature",
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "ananas_mango_greek_yogurt_signature",
@@ -11261,7 +11667,8 @@
             "fat_g": 8
           },
           "name_en": "Mango Greek Yogurt Signature",
-          "category_ar": "آيس كريم"
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "ananas_green_lemonade_juice",
@@ -11274,7 +11681,8 @@
             "fat_g": 0
           },
           "name_en": "Green Lemonade Juice",
-          "category_ar": "عصائر"
+          "category_ar": "عصائر",
+          "category_en": "Juices"
         },
         {
           "id": "ananas_roasted_potato",
@@ -11287,7 +11695,8 @@
             "fat_g": 12
           },
           "name_en": "Roasted Potato",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_ribs_okra",
@@ -11300,7 +11709,8 @@
             "fat_g": 32
           },
           "name_en": "Ribs & Okra",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_corn_salad",
@@ -11313,7 +11723,8 @@
             "fat_g": 17
           },
           "name_en": "Corn Salad",
-          "category_ar": "سلطات"
+          "category_ar": "سلطات",
+          "category_en": "Salads"
         },
         {
           "id": "ananas_banana_oatmeal_pot",
@@ -11326,7 +11737,8 @@
             "fat_g": 12
           },
           "name_en": "Banana Oatmeal Pot",
-          "category_ar": "سناك"
+          "category_ar": "سناك",
+          "category_en": "Snacks"
         },
         {
           "id": "ananas_beef_and_mash",
@@ -11338,8 +11750,9 @@
             "carbs_g": 40,
             "fat_g": 26
           },
-          "name_en": "Beef and mash",
-          "category_ar": "أطباق"
+          "name_en": "Beef and Mash",
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_labneh_focaccia_sandwich",
@@ -11351,8 +11764,9 @@
             "carbs_g": 42,
             "fat_g": 18
           },
-          "name_en": "Labneh focaccia sandwich",
-          "category_ar": "سندويشات"
+          "name_en": "Labneh Focaccia Sandwich",
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches"
         },
         {
           "id": "ananas_greek_yogurt_classic",
@@ -11365,7 +11779,8 @@
             "fat_g": 6
           },
           "name_en": "Greek Yogurt Classic",
-          "category_ar": "آيس كريم"
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "ananas_chips_avocado_hummus",
@@ -11378,7 +11793,8 @@
             "fat_g": 18
           },
           "name_en": "Chips & Avocado Hummus",
-          "category_ar": "سناك"
+          "category_ar": "سناك",
+          "category_en": "Snacks"
         },
         {
           "id": "ananas_blueberry_muffin",
@@ -11391,7 +11807,8 @@
             "fat_g": 12
           },
           "name_en": "Blueberry Muffin",
-          "category_ar": "معجنات"
+          "category_ar": "معجنات",
+          "category_en": "Pastries"
         },
         {
           "id": "ananas_cinnamon_swirl",
@@ -11404,7 +11821,8 @@
             "fat_g": 13
           },
           "name_en": "Cinnamon Swirl",
-          "category_ar": "معجنات"
+          "category_ar": "معجنات",
+          "category_en": "Pastries"
         },
         {
           "id": "ananas_cheese_croissant",
@@ -11417,7 +11835,8 @@
             "fat_g": 19
           },
           "name_en": "Cheese Croissant",
-          "category_ar": "معجنات"
+          "category_ar": "معجنات",
+          "category_en": "Pastries"
         },
         {
           "id": "ananas_plain_croissant",
@@ -11430,7 +11849,8 @@
             "fat_g": 16
           },
           "name_en": "Plain Croissant",
-          "category_ar": "معجنات"
+          "category_ar": "معجنات",
+          "category_en": "Pastries"
         },
         {
           "id": "ananas_kinder_bites",
@@ -11443,7 +11863,8 @@
             "fat_g": 14
           },
           "name_en": "Kinder Bites",
-          "category_ar": "سناك"
+          "category_ar": "سناك",
+          "category_en": "Snacks"
         },
         {
           "id": "ananas_dark_chocolate_cookies",
@@ -11456,7 +11877,8 @@
             "fat_g": 12
           },
           "name_en": "Dark Chocolate Cookies",
-          "category_ar": "معجنات"
+          "category_ar": "معجنات",
+          "category_en": "Pastries"
         },
         {
           "id": "ananas_milk_chocolate_cookie",
@@ -11469,7 +11891,8 @@
             "fat_g": 12
           },
           "name_en": "Milk Chocolate Cookie",
-          "category_ar": "معجنات"
+          "category_ar": "معجنات",
+          "category_en": "Pastries"
         },
         {
           "id": "ananas_matcha_latte",
@@ -11482,7 +11905,8 @@
             "fat_g": 6
           },
           "name_en": "Matcha Latte",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "ananas_peach_iced_tea",
@@ -11494,8 +11918,9 @@
             "carbs_g": 28,
             "fat_g": 0
           },
-          "name_en": "Peach Iced tea",
-          "category_ar": "عصائر"
+          "name_en": "Peach Iced Tea",
+          "category_ar": "عصائر",
+          "category_en": "Juices"
         },
         {
           "id": "ananas_berries_iced_tea",
@@ -11508,7 +11933,8 @@
             "fat_g": 0
           },
           "name_en": "Berries Iced Tea",
-          "category_ar": "عصائر"
+          "category_ar": "عصائر",
+          "category_en": "Juices"
         },
         {
           "id": "ananas_spanish_latte",
@@ -11521,7 +11947,8 @@
             "fat_g": 7
           },
           "name_en": "Spanish Latte",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "ananas_vanilla_ice_shaken",
@@ -11534,7 +11961,8 @@
             "fat_g": 5
           },
           "name_en": "Vanilla Ice Shaken",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "ananas_white_mocha_latte",
@@ -11547,7 +11975,8 @@
             "fat_g": 9
           },
           "name_en": "White Mocha Latte",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "ananas_caramelo",
@@ -11560,7 +11989,8 @@
             "fat_g": 8
           },
           "name_en": "Caramelo",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "ananas_coco",
@@ -11573,7 +12003,8 @@
             "fat_g": 8
           },
           "name_en": "Coco",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "ananas_cubano",
@@ -11586,7 +12017,8 @@
             "fat_g": 8
           },
           "name_en": "Cubano",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "ananas_flat_white",
@@ -11599,7 +12031,8 @@
             "fat_g": 6
           },
           "name_en": "Flat White",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "ananas_cappuccino",
@@ -11612,7 +12045,8 @@
             "fat_g": 5
           },
           "name_en": "Cappuccino",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "ananas_cold_brew",
@@ -11625,7 +12059,8 @@
             "fat_g": 0
           },
           "name_en": "Cold Brew",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "ananas_americano",
@@ -11638,7 +12073,8 @@
             "fat_g": 0
           },
           "name_en": "Americano",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "ananas_latte",
@@ -11651,7 +12087,8 @@
             "fat_g": 6
           },
           "name_en": "Latte",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "ananas_dates_muffin",
@@ -11664,7 +12101,8 @@
             "fat_g": 11
           },
           "name_en": "Dates Muffin",
-          "category_ar": "معجنات"
+          "category_ar": "معجنات",
+          "category_en": "Pastries"
         },
         {
           "id": "ananas_peanut_butter_cookies",
@@ -11677,7 +12115,8 @@
             "fat_g": 14
           },
           "name_en": "Peanut Butter Cookies",
-          "category_ar": "معجنات"
+          "category_ar": "معجنات",
+          "category_en": "Pastries"
         },
         {
           "id": "ananas_iced_espresso",
@@ -11690,7 +12129,8 @@
             "fat_g": 0
           },
           "name_en": "Iced Espresso",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "ananas_pom_oj_juice",
@@ -11703,7 +12143,8 @@
             "fat_g": 0
           },
           "name_en": "Pom OJ Juice",
-          "category_ar": "عصائر"
+          "category_ar": "عصائر",
+          "category_en": "Juices"
         },
         {
           "id": "ananas_pomegranate_juice",
@@ -11716,7 +12157,8 @@
             "fat_g": 0
           },
           "name_en": "Pomegranate Juice",
-          "category_ar": "عصائر"
+          "category_ar": "عصائر",
+          "category_en": "Juices"
         },
         {
           "id": "ananas_chicken_guacamole_taco",
@@ -11729,7 +12171,8 @@
             "fat_g": 16
           },
           "name_en": "Chicken Guacamole Taco",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches"
         },
         {
           "id": "ananas_pecan_protein_shake",
@@ -11741,8 +12184,9 @@
             "carbs_g": 30,
             "fat_g": 12
           },
-          "name_en": "Pecan protein shake",
-          "category_ar": "سموذي"
+          "name_en": "Pecan Protein Shake",
+          "category_ar": "سموذي",
+          "category_en": "Smoothies"
         },
         {
           "id": "ananas_vanilla_cookies_ice_cream",
@@ -11755,7 +12199,8 @@
             "fat_g": 13
           },
           "name_en": "Vanilla & Cookies Ice Cream",
-          "category_ar": "آيس كريم"
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "ananas_pecan_crunch_ice_cream",
@@ -11768,7 +12213,8 @@
             "fat_g": 15
           },
           "name_en": "Pecan Crunch Ice Cream",
-          "category_ar": "آيس كريم"
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "ananas_vanilla_almond_ice_cream",
@@ -11781,7 +12227,8 @@
             "fat_g": 14
           },
           "name_en": "Vanilla Almond Ice Cream",
-          "category_ar": "آيس كريم"
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "ananas_mango_cheese_cake_ice_cream",
@@ -11794,7 +12241,8 @@
             "fat_g": 12
           },
           "name_en": "Mango Cheese Cake Ice Cream",
-          "category_ar": "آيس كريم"
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "ananas_skinny_vanilla_ice_cream",
@@ -11807,7 +12255,8 @@
             "fat_g": 4
           },
           "name_en": "Skinny Vanilla Ice Cream",
-          "category_ar": "آيس كريم"
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "ananas_mango_vanilla_mix_swirl_ice_cream",
@@ -11820,7 +12269,8 @@
             "fat_g": 5
           },
           "name_en": "Mango Vanilla Mix Swirl Ice Cream",
-          "category_ar": "آيس كريم"
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "ananas_equa_lush_ice_cream",
@@ -11833,7 +12283,8 @@
             "fat_g": 1
           },
           "name_en": "Equa Lush Ice Cream",
-          "category_ar": "آيس كريم"
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "ananas_coconut_chicken_soup",
@@ -11846,7 +12297,8 @@
             "fat_g": 18
           },
           "name_en": "Coconut Chicken Soup",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_chicken_enchilada_soup",
@@ -11859,7 +12311,8 @@
             "fat_g": 17
           },
           "name_en": "Chicken Enchilada Soup",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_tom_yum_shrimp_soup",
@@ -11872,7 +12325,8 @@
             "fat_g": 6
           },
           "name_en": "Tom Yum Shrimp Soup",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_corn_soup",
@@ -11885,7 +12339,8 @@
             "fat_g": 8
           },
           "name_en": "Corn Soup",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_chicken_guacamole_sandwich",
@@ -11898,7 +12353,8 @@
             "fat_g": 20
           },
           "name_en": "Chicken Guacamole Sandwich",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches"
         },
         {
           "id": "ananas_ribs_taco",
@@ -11911,7 +12367,8 @@
             "fat_g": 18
           },
           "name_en": "Ribs Taco",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches"
         },
         {
           "id": "ananas_shrimp_taco",
@@ -11924,7 +12381,8 @@
             "fat_g": 12
           },
           "name_en": "Shrimp Taco",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches"
         },
         {
           "id": "ananas_beets_halloumi_sandwich",
@@ -11937,7 +12395,8 @@
             "fat_g": 21
           },
           "name_en": "Beets & Halloumi Sandwich",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches"
         },
         {
           "id": "ananas_halloumi_beets_bun",
@@ -11950,7 +12409,8 @@
             "fat_g": 20
           },
           "name_en": "Halloumi Beets Bun",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches"
         },
         {
           "id": "ananas_buffalo_chicken_bun",
@@ -11963,7 +12423,8 @@
             "fat_g": 16
           },
           "name_en": "Buffalo Chicken Bun",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches"
         },
         {
           "id": "ananas_beef_tenderloin_wrap",
@@ -11976,7 +12437,8 @@
             "fat_g": 20
           },
           "name_en": "Beef Tenderloin Wrap",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches"
         },
         {
           "id": "ananas_falafel_wrap",
@@ -11989,7 +12451,8 @@
             "fat_g": 16
           },
           "name_en": "Falafel Wrap",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches"
         },
         {
           "id": "ananas_chicken_wrap",
@@ -12002,7 +12465,8 @@
             "fat_g": 14
           },
           "name_en": "Chicken Wrap",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches"
         },
         {
           "id": "ananas_turkey_sandwich",
@@ -12015,7 +12479,8 @@
             "fat_g": 14
           },
           "name_en": "Turkey Sandwich",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches"
         },
         {
           "id": "ananas_halloumi_cheese_sandwich",
@@ -12028,7 +12493,8 @@
             "fat_g": 21
           },
           "name_en": "Halloumi Cheese Sandwich",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches"
         },
         {
           "id": "ananas_cranberry_tabbouleh_salad",
@@ -12041,7 +12507,8 @@
             "fat_g": 13
           },
           "name_en": "Cranberry Tabbouleh Salad",
-          "category_ar": "سلطات"
+          "category_ar": "سلطات",
+          "category_en": "Salads"
         },
         {
           "id": "ananas_chicken_harvest_salad",
@@ -12054,7 +12521,8 @@
             "fat_g": 20
           },
           "name_en": "Chicken Harvest Salad",
-          "category_ar": "سلطات"
+          "category_ar": "سلطات",
+          "category_en": "Salads"
         },
         {
           "id": "ananas_chicken_caesar_salad",
@@ -12067,7 +12535,8 @@
             "fat_g": 22
           },
           "name_en": "Chicken Caesar Salad",
-          "category_ar": "سلطات"
+          "category_ar": "سلطات",
+          "category_en": "Salads"
         },
         {
           "id": "ananas_sesame_salad",
@@ -12080,7 +12549,8 @@
             "fat_g": 17
           },
           "name_en": "Sesame Salad",
-          "category_ar": "سلطات"
+          "category_ar": "سلطات",
+          "category_en": "Salads"
         },
         {
           "id": "ananas_beetroot_salad",
@@ -12093,7 +12563,8 @@
             "fat_g": 19
           },
           "name_en": "Beetroot Salad",
-          "category_ar": "سلطات"
+          "category_ar": "سلطات",
+          "category_en": "Salads"
         },
         {
           "id": "ananas_mango_salad",
@@ -12106,7 +12577,8 @@
             "fat_g": 12
           },
           "name_en": "Mango Salad",
-          "category_ar": "سلطات"
+          "category_ar": "سلطات",
+          "category_en": "Salads"
         },
         {
           "id": "ananas_peanut_oatmeal_pot",
@@ -12119,7 +12591,8 @@
             "fat_g": 15
           },
           "name_en": "Peanut Oatmeal Pot",
-          "category_ar": "سناك"
+          "category_ar": "سناك",
+          "category_en": "Snacks"
         },
         {
           "id": "ananas_harvest_protien_pot",
@@ -12131,8 +12604,9 @@
             "carbs_g": 32,
             "fat_g": 18
           },
-          "name_en": "Harvest Protien Pot",
-          "category_ar": "سلطات"
+          "name_en": "Harvest Protein Pot",
+          "category_ar": "سلطات",
+          "category_en": "Salads"
         },
         {
           "id": "ananas_blueberry_oatmeal_pot",
@@ -12144,8 +12618,9 @@
             "carbs_g": 52,
             "fat_g": 11
           },
-          "name_en": "Blueberry Oatmeal pot",
-          "category_ar": "سناك"
+          "name_en": "Blueberry Oatmeal Pot",
+          "category_ar": "سناك",
+          "category_en": "Snacks"
         },
         {
           "id": "ananas_chips_beets_hummus",
@@ -12158,7 +12633,8 @@
             "fat_g": 18
           },
           "name_en": "Chips & Beets Hummus",
-          "category_ar": "سناك"
+          "category_ar": "سناك",
+          "category_en": "Snacks"
         },
         {
           "id": "ananas_power_pot_mango",
@@ -12171,7 +12647,8 @@
             "fat_g": 6
           },
           "name_en": "Power Pot Mango",
-          "category_ar": "سناك"
+          "category_ar": "سناك",
+          "category_en": "Snacks"
         },
         {
           "id": "ananas_grilled_corn",
@@ -12184,7 +12661,8 @@
             "fat_g": 11
           },
           "name_en": "Grilled Corn",
-          "category_ar": "سناك"
+          "category_ar": "سناك",
+          "category_en": "Snacks"
         },
         {
           "id": "ananas_power_pot_berries",
@@ -12197,7 +12675,8 @@
             "fat_g": 6
           },
           "name_en": "Power Pot Berries",
-          "category_ar": "سناك"
+          "category_ar": "سناك",
+          "category_en": "Snacks"
         },
         {
           "id": "ananas_chips_guacamole",
@@ -12210,7 +12689,8 @@
             "fat_g": 21
           },
           "name_en": "Chips & Guacamole",
-          "category_ar": "سناك"
+          "category_ar": "سناك",
+          "category_en": "Snacks"
         },
         {
           "id": "ananas_shrimp_rice",
@@ -12223,7 +12703,8 @@
             "fat_g": 16
           },
           "name_en": "Shrimp & Rice",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_chicken_mash",
@@ -12236,7 +12717,8 @@
             "fat_g": 20
           },
           "name_en": "Chicken & Mash",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_chicken_rice",
@@ -12249,7 +12731,8 @@
             "fat_g": 16
           },
           "name_en": "Chicken & Rice",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_pink_pasta_chicken",
@@ -12262,7 +12745,8 @@
             "fat_g": 24
           },
           "name_en": "Pink Pasta Chicken",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_grilled_chicken",
@@ -12275,7 +12759,8 @@
             "fat_g": 14
           },
           "name_en": "Grilled Chicken",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_grilled_shrimp",
@@ -12288,7 +12773,8 @@
             "fat_g": 10
           },
           "name_en": "Grilled Shrimp",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_butter_chicken",
@@ -12301,7 +12787,8 @@
             "fat_g": 22
           },
           "name_en": "Butter Chicken",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_mushroom_chicken",
@@ -12314,7 +12801,8 @@
             "fat_g": 18
           },
           "name_en": "Mushroom Chicken",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_alfredo_chicken_pasta",
@@ -12327,7 +12815,8 @@
             "fat_g": 28
           },
           "name_en": "Alfredo Chicken Pasta",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_penne_arrabiata_pasta",
@@ -12340,7 +12829,8 @@
             "fat_g": 22
           },
           "name_en": "Penne Arrabiata Pasta",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_baby_corn_beef",
@@ -12353,7 +12843,8 @@
             "fat_g": 24
           },
           "name_en": "Baby Corn Beef",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_chicken_burrito",
@@ -12366,7 +12857,8 @@
             "fat_g": 22
           },
           "name_en": "Chicken Burrito",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_paprika_chicken",
@@ -12379,7 +12871,8 @@
             "fat_g": 16
           },
           "name_en": "Paprika Chicken",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Plates"
         },
         {
           "id": "ananas_ruby_red_detox",
@@ -12392,7 +12885,8 @@
             "fat_g": 0
           },
           "name_en": "Ruby Red Detox",
-          "category_ar": "عصائر"
+          "category_ar": "عصائر",
+          "category_en": "Juices"
         },
         {
           "id": "ananas_orange_juice",
@@ -12404,8 +12898,9 @@
             "carbs_g": 38,
             "fat_g": 0
           },
-          "name_en": "Orange juice",
-          "category_ar": "عصائر"
+          "name_en": "Orange Juice",
+          "category_ar": "عصائر",
+          "category_en": "Juices"
         },
         {
           "id": "ananas_morning_dew_detox",
@@ -12418,7 +12913,8 @@
             "fat_g": 0
           },
           "name_en": "Morning Dew Detox",
-          "category_ar": "عصائر"
+          "category_ar": "عصائر",
+          "category_en": "Juices"
         },
         {
           "id": "ananas_pacific_green_juice",
@@ -12431,7 +12927,8 @@
             "fat_g": 1
           },
           "name_en": "Pacific Green Juice",
-          "category_ar": "عصائر"
+          "category_ar": "عصائر",
+          "category_en": "Juices"
         },
         {
           "id": "ananas_pinacoco_lush",
@@ -12444,7 +12941,8 @@
             "fat_g": 9
           },
           "name_en": "Pinacoco Lush",
-          "category_ar": "عصائر"
+          "category_ar": "عصائر",
+          "category_en": "Juices"
         },
         {
           "id": "ananas_equa_lush",
@@ -12457,7 +12955,8 @@
             "fat_g": 1
           },
           "name_en": "Equa Lush",
-          "category_ar": "عصائر"
+          "category_ar": "عصائر",
+          "category_en": "Juices"
         },
         {
           "id": "ananas_caribbean_lush",
@@ -12470,7 +12969,8 @@
             "fat_g": 7
           },
           "name_en": "Caribbean Lush",
-          "category_ar": "عصائر"
+          "category_ar": "عصائر",
+          "category_en": "Juices"
         },
         {
           "id": "ananas_ginger_shot",
@@ -12483,7 +12983,8 @@
             "fat_g": 0
           },
           "name_en": "Ginger Shot",
-          "category_ar": "عصائر"
+          "category_ar": "عصائر",
+          "category_en": "Juices"
         }
       ]
     },
@@ -12504,8 +13005,9 @@
             "carbs_g": 300.0,
             "fat_g": 110.0
           },
-          "name_en": "Little Air-Baked Chicken Fillet Gathering box",
-          "category_ar": "الجمعات"
+          "name_en": "Little Air-Baked Chicken Fillet Gathering Box",
+          "category_ar": "الجمعات",
+          "category_en": "Gathering Boxes"
         },
         {
           "id": "goodstuff_chocolate_pudding_box",
@@ -12518,7 +13020,8 @@
             "fat_g": 78.0
           },
           "name_en": "Chocolate Pudding Box",
-          "category_ar": "الجمعات"
+          "category_ar": "الجمعات",
+          "category_en": "Gathering Boxes"
         },
         {
           "id": "goodstuff_chocolate_pudding",
@@ -12531,7 +13034,8 @@
             "fat_g": 13.0
           },
           "name_en": "Chocolate Pudding",
-          "category_ar": "حلى"
+          "category_ar": "حلى",
+          "category_en": "Desserts"
         },
         {
           "id": "goodstuff_little_air_baked_chicken_fillet_group_meal",
@@ -12544,7 +13048,8 @@
             "fat_g": 95.0
           },
           "name_en": "Little Air-Baked Chicken Fillet Group Meal",
-          "category_ar": "وجبات جماعية"
+          "category_ar": "وجبات جماعية",
+          "category_en": "Group Meals"
         },
         {
           "id": "goodstuff_air_baked_chicken_fillet_group_meal",
@@ -12557,7 +13062,8 @@
             "fat_g": 90.0
           },
           "name_en": "Air-Baked Chicken Fillet Group Meal",
-          "category_ar": "وجبات جماعية"
+          "category_ar": "وجبات جماعية",
+          "category_en": "Group Meals"
         },
         {
           "id": "goodstuff_buffalo_chicken_wrap",
@@ -12569,8 +13075,9 @@
             "carbs_g": 42.0,
             "fat_g": 18.0
           },
-          "name_en": "Buffalo Chicken  Wrap",
-          "category_ar": "لفائف"
+          "name_en": "Buffalo Chicken Wrap",
+          "category_ar": "لفائف",
+          "category_en": "Wraps"
         },
         {
           "id": "goodstuff_buffalo_chicken_rice",
@@ -12583,7 +13090,8 @@
             "fat_g": 11.0
           },
           "name_en": "Buffalo Chicken & Rice",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Bowls & Plates"
         },
         {
           "id": "goodstuff_air_baked_buffalo_chicken_fillet",
@@ -12595,8 +13103,9 @@
             "carbs_g": 43.0,
             "fat_g": 17.0
           },
-          "name_en": "Air-Baked Buffalo Chicken  Fillet",
-          "category_ar": "سندويشات"
+          "name_en": "Air-Baked Buffalo Chicken Fillet",
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches & Burgers"
         },
         {
           "id": "goodstuff_buffalo_crispy_chicken_taco",
@@ -12609,7 +13118,8 @@
             "fat_g": 8.0
           },
           "name_en": "Buffalo Crispy Chicken Taco",
-          "category_ar": "تاكو"
+          "category_ar": "تاكو",
+          "category_en": "Tacos"
         },
         {
           "id": "goodstuff_buffalo_chicken_taco",
@@ -12622,7 +13132,8 @@
             "fat_g": 6.0
           },
           "name_en": "Buffalo Chicken Taco",
-          "category_ar": "تاكو"
+          "category_ar": "تاكو",
+          "category_en": "Tacos"
         },
         {
           "id": "goodstuff_sticky_pudding",
@@ -12635,7 +13146,8 @@
             "fat_g": 16.0
           },
           "name_en": "Sticky Pudding",
-          "category_ar": "حلى"
+          "category_ar": "حلى",
+          "category_en": "Desserts"
         },
         {
           "id": "goodstuff_air_baked_samboosa_box",
@@ -12648,7 +13160,8 @@
             "fat_g": 80.0
           },
           "name_en": "Air-Baked Samboosa Box",
-          "category_ar": "الجمعات"
+          "category_ar": "الجمعات",
+          "category_en": "Gathering Boxes"
         },
         {
           "id": "goodstuff_sticky_pudding_box",
@@ -12661,7 +13174,8 @@
             "fat_g": 95.0
           },
           "name_en": "Sticky Pudding Box",
-          "category_ar": "الجمعات"
+          "category_ar": "الجمعات",
+          "category_en": "Gathering Boxes"
         },
         {
           "id": "goodstuff_air_baked_jalapeno_cheddar_samboosa",
@@ -12674,7 +13188,8 @@
             "fat_g": 10.0
           },
           "name_en": "Air-Baked Jalapeno Cheddar Samboosa",
-          "category_ar": "مقبلات"
+          "category_ar": "مقبلات",
+          "category_en": "Appetizers"
         },
         {
           "id": "goodstuff_burger_meal",
@@ -12687,7 +13202,8 @@
             "fat_g": 42.0
           },
           "name_en": "Burger Meal",
-          "category_ar": "وجبات"
+          "category_ar": "وجبات",
+          "category_en": "Meals"
         },
         {
           "id": "goodstuff_wrap_meal",
@@ -12700,7 +13216,8 @@
             "fat_g": 28.0
           },
           "name_en": "Wrap Meal",
-          "category_ar": "وجبات"
+          "category_ar": "وجبات",
+          "category_en": "Meals"
         },
         {
           "id": "goodstuff_bowl_meal",
@@ -12713,7 +13230,8 @@
             "fat_g": 22.0
           },
           "name_en": "Bowl Meal",
-          "category_ar": "وجبات"
+          "category_ar": "وجبات",
+          "category_en": "Meals"
         },
         {
           "id": "goodstuff_cappuccino",
@@ -12726,7 +13244,8 @@
             "fat_g": 4.0
           },
           "name_en": "Cappuccino",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "goodstuff_organic_matcha",
@@ -12739,7 +13258,8 @@
             "fat_g": 4.0
           },
           "name_en": "Organic Matcha",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "goodstuff_hot_chocolate",
@@ -12752,7 +13272,8 @@
             "fat_g": 9.0
           },
           "name_en": "Hot Chocolate",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "goodstuff_latte",
@@ -12765,7 +13286,8 @@
             "fat_g": 6.0
           },
           "name_en": "Latte",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "goodstuff_white_mocha",
@@ -12778,7 +13300,8 @@
             "fat_g": 10.0
           },
           "name_en": "White Mocha",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "goodstuff_flat_white",
@@ -12790,8 +13313,9 @@
             "carbs_g": 10.0,
             "fat_g": 6.0
           },
-          "name_en": "Flat white",
-          "category_ar": "قهوة"
+          "name_en": "Flat White",
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "goodstuff_caramel_macchiato",
@@ -12804,7 +13328,8 @@
             "fat_g": 7.0
           },
           "name_en": "Caramel Macchiato",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "goodstuff_spanish_latte",
@@ -12816,8 +13341,9 @@
             "carbs_g": 26.0,
             "fat_g": 7.0
           },
-          "name_en": "Spanish latte",
-          "category_ar": "قهوة"
+          "name_en": "Spanish Latte",
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "goodstuff_americano",
@@ -12830,7 +13356,8 @@
             "fat_g": 0.0
           },
           "name_en": "Americano",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "goodstuff_espresso_double",
@@ -12843,7 +13370,8 @@
             "fat_g": 0.0
           },
           "name_en": "Espresso Double",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "goodstuff_espresso_single",
@@ -12856,7 +13384,8 @@
             "fat_g": 0.0
           },
           "name_en": "Espresso Single",
-          "category_ar": "قهوة"
+          "category_ar": "قهوة",
+          "category_en": "Coffee"
         },
         {
           "id": "goodstuff_vanilla",
@@ -12869,7 +13398,8 @@
             "fat_g": 11.0
           },
           "name_en": "Vanilla",
-          "category_ar": "آيس كريم"
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "goodstuff_chocolate_brownie",
@@ -12882,7 +13412,8 @@
             "fat_g": 12.0
           },
           "name_en": "Chocolate Brownie",
-          "category_ar": "آيس كريم"
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "goodstuff_caramel_pecan",
@@ -12895,7 +13426,8 @@
             "fat_g": 15.0
           },
           "name_en": "Caramel Pecan",
-          "category_ar": "آيس كريم"
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "goodstuff_mango_passion",
@@ -12908,7 +13440,8 @@
             "fat_g": 7.0
           },
           "name_en": "Mango Passion",
-          "category_ar": "آيس كريم"
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "goodstuff_berry_cheesecake",
@@ -12921,7 +13454,8 @@
             "fat_g": 12.0
           },
           "name_en": "Berry Cheesecake",
-          "category_ar": "آيس كريم"
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "goodstuff_cookies_cream",
@@ -12933,8 +13467,9 @@
             "carbs_g": 27.0,
             "fat_g": 12.0
           },
-          "name_en": "Cookies&Cream",
-          "category_ar": "آيس كريم"
+          "name_en": "Cookies & Cream",
+          "category_ar": "آيس كريم",
+          "category_en": "Ice Cream"
         },
         {
           "id": "goodstuff_air_baked_popcorn_chicken_meal",
@@ -12946,8 +13481,9 @@
             "carbs_g": 50.0,
             "fat_g": 17.0
           },
-          "name_en": "Air-Baked Popcorn Chicken meal",
-          "category_ar": "وجبات أطفال"
+          "name_en": "Air-Baked Popcorn Chicken Meal",
+          "category_ar": "وجبات أطفال",
+          "category_en": "Kids Meals"
         },
         {
           "id": "goodstuff_air_baked_chicken_strips_meal",
@@ -12959,8 +13495,9 @@
             "carbs_g": 50.0,
             "fat_g": 17.0
           },
-          "name_en": "Air-Baked Chicken Strips meal",
-          "category_ar": "وجبات أطفال"
+          "name_en": "Air-Baked Chicken Strips Meal",
+          "category_ar": "وجبات أطفال",
+          "category_en": "Kids Meals"
         },
         {
           "id": "goodstuff_little_cheeseburger_meal",
@@ -12972,8 +13509,9 @@
             "carbs_g": 48.0,
             "fat_g": 21.0
           },
-          "name_en": "Little Cheeseburger meal",
-          "category_ar": "وجبات أطفال"
+          "name_en": "Little Cheeseburger Meal",
+          "category_ar": "وجبات أطفال",
+          "category_en": "Kids Meals"
         },
         {
           "id": "goodstuff_little_air_baked_chicken_fillet_meal",
@@ -12986,7 +13524,8 @@
             "fat_g": 17.0
           },
           "name_en": "Little Air-Baked Chicken Fillet Meal",
-          "category_ar": "وجبات أطفال"
+          "category_ar": "وجبات أطفال",
+          "category_en": "Kids Meals"
         },
         {
           "id": "goodstuff_air_baked_chicken_fillet",
@@ -12999,7 +13538,8 @@
             "fat_g": 14.0
           },
           "name_en": "Air-Baked Chicken Fillet",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches & Burgers"
         },
         {
           "id": "goodstuff_air_baked_black_truffle_chicken_fillet",
@@ -13012,7 +13552,8 @@
             "fat_g": 18.0
           },
           "name_en": "Air-Baked Black Truffle Chicken Fillet",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches & Burgers"
         },
         {
           "id": "goodstuff_air_baked_spicy_chicken_fillet",
@@ -13025,7 +13566,8 @@
             "fat_g": 14.0
           },
           "name_en": "Air-Baked Spicy Chicken Fillet",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches & Burgers"
         },
         {
           "id": "goodstuff_grilled_chicken_sandwich",
@@ -13037,8 +13579,9 @@
             "carbs_g": 36.0,
             "fat_g": 11.0
           },
-          "name_en": "\"Grilled\" Chicken Sandwich",
-          "category_ar": "سندويشات"
+          "name_en": "Grilled Chicken Sandwich",
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches & Burgers"
         },
         {
           "id": "goodstuff_smashed_original_burger",
@@ -13051,7 +13594,8 @@
             "fat_g": 30.0
           },
           "name_en": "Smashed Original Burger",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches & Burgers"
         },
         {
           "id": "goodstuff_smashed_truffle_burger",
@@ -13064,7 +13608,8 @@
             "fat_g": 35.0
           },
           "name_en": "Smashed Truffle Burger",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches & Burgers"
         },
         {
           "id": "goodstuff_smashed_spicy_burger",
@@ -13077,7 +13622,8 @@
             "fat_g": 31.0
           },
           "name_en": "Smashed Spicy Burger",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches & Burgers"
         },
         {
           "id": "goodstuff_smashed_good_burger",
@@ -13090,7 +13636,8 @@
             "fat_g": 30.0
           },
           "name_en": "Smashed Good Burger",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches & Burgers"
         },
         {
           "id": "goodstuff_smashed_classic_burger",
@@ -13103,7 +13650,8 @@
             "fat_g": 28.0
           },
           "name_en": "Smashed Classic Burger",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches & Burgers"
         },
         {
           "id": "goodstuff_air_baked_fish_fillet_sandwich",
@@ -13116,7 +13664,8 @@
             "fat_g": 15.0
           },
           "name_en": "Air-Baked Fish Fillet Sandwich",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches & Burgers"
         },
         {
           "id": "goodstuff_little_air_baked_chicken_fillet",
@@ -13129,7 +13678,8 @@
             "fat_g": 9.0
           },
           "name_en": "Little Air-Baked Chicken Fillet",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches & Burgers"
         },
         {
           "id": "goodstuff_halloum_sandwich",
@@ -13142,7 +13692,8 @@
             "fat_g": 18.0
           },
           "name_en": "Halloum Sandwich",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches & Burgers"
         },
         {
           "id": "goodstuff_chicken_quesadilla",
@@ -13155,7 +13706,8 @@
             "fat_g": 17.0
           },
           "name_en": "Chicken Quesadilla",
-          "category_ar": "سندويشات"
+          "category_ar": "سندويشات",
+          "category_en": "Sandwiches & Burgers"
         },
         {
           "id": "goodstuff_air_baked_chicken_katsu_curry",
@@ -13168,7 +13720,8 @@
             "fat_g": 16.0
           },
           "name_en": "Air-Baked Chicken Katsu Curry",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Bowls & Plates"
         },
         {
           "id": "goodstuff_chicken_rice",
@@ -13181,7 +13734,8 @@
             "fat_g": 9.0
           },
           "name_en": "Chicken & Rice",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Bowls & Plates"
         },
         {
           "id": "goodstuff_steak_rice",
@@ -13194,7 +13748,8 @@
             "fat_g": 20.0
           },
           "name_en": "Steak & Rice",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Bowls & Plates"
         },
         {
           "id": "goodstuff_shrimp_rice",
@@ -13207,7 +13762,8 @@
             "fat_g": 8.0
           },
           "name_en": "Shrimp & Rice",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Bowls & Plates"
         },
         {
           "id": "goodstuff_salmon_rice",
@@ -13220,7 +13776,8 @@
             "fat_g": 22.0
           },
           "name_en": "Salmon & Rice",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Bowls & Plates"
         },
         {
           "id": "goodstuff_tijuana_chicken",
@@ -13233,7 +13790,8 @@
             "fat_g": 22.0
           },
           "name_en": "Tijuana Chicken",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Bowls & Plates"
         },
         {
           "id": "goodstuff_gourmet_shrimp_bowl",
@@ -13245,8 +13803,9 @@
             "carbs_g": 62.0,
             "fat_g": 18.0
           },
-          "name_en": "Gourmet Shrimp bowl",
-          "category_ar": "أطباق"
+          "name_en": "Gourmet Shrimp Bowl",
+          "category_ar": "أطباق",
+          "category_en": "Bowls & Plates"
         },
         {
           "id": "goodstuff_air_baked_chicken_fillet_bowl",
@@ -13259,7 +13818,8 @@
             "fat_g": 14.0
           },
           "name_en": "Air-Baked Chicken Fillet Bowl",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Bowls & Plates"
         },
         {
           "id": "goodstuff_southwest_salmon",
@@ -13272,7 +13832,8 @@
             "fat_g": 24.0
           },
           "name_en": "Southwest Salmon",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Bowls & Plates"
         },
         {
           "id": "goodstuff_zesty_chicken",
@@ -13285,7 +13846,8 @@
             "fat_g": 19.0
           },
           "name_en": "Zesty Chicken",
-          "category_ar": "أطباق"
+          "category_ar": "أطباق",
+          "category_en": "Bowls & Plates"
         },
         {
           "id": "goodstuff_air_baked_chicken_strips",
@@ -13298,7 +13860,8 @@
             "fat_g": 11.0
           },
           "name_en": "Air-Baked Chicken Strips",
-          "category_ar": "مقبلات"
+          "category_ar": "مقبلات",
+          "category_en": "Appetizers"
         },
         {
           "id": "goodstuff_air_baked_buffalo_chicken_strips",
@@ -13311,7 +13874,8 @@
             "fat_g": 14.0
           },
           "name_en": "Air-Baked Buffalo Chicken Strips",
-          "category_ar": "مقبلات"
+          "category_ar": "مقبلات",
+          "category_en": "Appetizers"
         },
         {
           "id": "goodstuff_air_baked_popcorn_chicken",
@@ -13324,7 +13888,8 @@
             "fat_g": 11.0
           },
           "name_en": "Air-Baked Popcorn Chicken",
-          "category_ar": "مقبلات"
+          "category_ar": "مقبلات",
+          "category_en": "Appetizers"
         },
         {
           "id": "goodstuff_air_baked_buffalo_bites",
@@ -13337,7 +13902,8 @@
             "fat_g": 13.0
           },
           "name_en": "Air-Baked Buffalo Bites",
-          "category_ar": "مقبلات"
+          "category_ar": "مقبلات",
+          "category_en": "Appetizers"
         },
         {
           "id": "goodstuff_air_baked_chips",
@@ -13350,7 +13916,8 @@
             "fat_g": 7.0
           },
           "name_en": "Air-Baked Chips",
-          "category_ar": "مقبلات"
+          "category_ar": "مقبلات",
+          "category_en": "Appetizers"
         },
         {
           "id": "goodstuff_chips_and_guac",
@@ -13363,7 +13930,8 @@
             "fat_g": 19.0
           },
           "name_en": "Chips and Guac",
-          "category_ar": "مقبلات"
+          "category_ar": "مقبلات",
+          "category_en": "Appetizers"
         },
         {
           "id": "goodstuff_air_baked_fish_fingers",
@@ -13376,7 +13944,8 @@
             "fat_g": 12.0
           },
           "name_en": "Air-Baked Fish Fingers",
-          "category_ar": "مقبلات"
+          "category_ar": "مقبلات",
+          "category_en": "Appetizers"
         },
         {
           "id": "goodstuff_air_baked_hash_browns",
@@ -13389,7 +13958,8 @@
             "fat_g": 10.0
           },
           "name_en": "Air-Baked Hash Browns",
-          "category_ar": "مقبلات"
+          "category_ar": "مقبلات",
+          "category_en": "Appetizers"
         },
         {
           "id": "goodstuff_air_baked_french_fries",
@@ -13402,7 +13972,8 @@
             "fat_g": 9.0
           },
           "name_en": "Air-Baked French Fries",
-          "category_ar": "مقبلات"
+          "category_ar": "مقبلات",
+          "category_en": "Appetizers"
         },
         {
           "id": "goodstuff_air_baked_sweet_potato_fries",
@@ -13415,7 +13986,8 @@
             "fat_g": 8.0
           },
           "name_en": "Air-Baked Sweet Potato Fries",
-          "category_ar": "مقبلات"
+          "category_ar": "مقبلات",
+          "category_en": "Appetizers"
         },
         {
           "id": "goodstuff_air_baked_mix_fries",
@@ -13428,7 +14000,8 @@
             "fat_g": 9.0
           },
           "name_en": "Air-Baked Mix Fries",
-          "category_ar": "مقبلات"
+          "category_ar": "مقبلات",
+          "category_en": "Appetizers"
         },
         {
           "id": "goodstuff_air_baked_falafel_bites",
@@ -13441,7 +14014,8 @@
             "fat_g": 11.0
           },
           "name_en": "Air-Baked Falafel Bites",
-          "category_ar": "مقبلات"
+          "category_ar": "مقبلات",
+          "category_en": "Appetizers"
         },
         {
           "id": "goodstuff_air_baked_halloum_samboosa",
@@ -13454,7 +14028,8 @@
             "fat_g": 14.0
           },
           "name_en": "Air-Baked Halloum Samboosa",
-          "category_ar": "مقبلات"
+          "category_ar": "مقبلات",
+          "category_en": "Appetizers"
         },
         {
           "id": "goodstuff_air_baked_chicken_samboosa",
@@ -13467,7 +14042,8 @@
             "fat_g": 10.0
           },
           "name_en": "Air-Baked Chicken Samboosa",
-          "category_ar": "مقبلات"
+          "category_ar": "مقبلات",
+          "category_en": "Appetizers"
         },
         {
           "id": "goodstuff_air_baked_vegetable_samboosa",
@@ -13480,7 +14056,8 @@
             "fat_g": 8.0
           },
           "name_en": "Air-Baked Vegetable Samboosa",
-          "category_ar": "مقبلات"
+          "category_ar": "مقبلات",
+          "category_en": "Appetizers"
         },
         {
           "id": "goodstuff_strawberry_walnut_salad",
@@ -13493,7 +14070,8 @@
             "fat_g": 23.0
           },
           "name_en": "Strawberry Walnut Salad",
-          "category_ar": "سلطات"
+          "category_ar": "سلطات",
+          "category_en": "Salads"
         },
         {
           "id": "goodstuff_graecia_salad",
@@ -13506,7 +14084,8 @@
             "fat_g": 23.0
           },
           "name_en": "Graecia Salad",
-          "category_ar": "سلطات"
+          "category_ar": "سلطات",
+          "category_en": "Salads"
         },
         {
           "id": "goodstuff_caesar_salad",
@@ -13519,7 +14098,8 @@
             "fat_g": 20.0
           },
           "name_en": "Caesar Salad",
-          "category_ar": "سلطات"
+          "category_ar": "سلطات",
+          "category_en": "Salads"
         },
         {
           "id": "goodstuff_side_garden_salad",
@@ -13532,7 +14112,8 @@
             "fat_g": 7.0
           },
           "name_en": "Side Garden Salad",
-          "category_ar": "سلطات"
+          "category_ar": "سلطات",
+          "category_en": "Salads"
         },
         {
           "id": "goodstuff_truffle_chicken_wrap",
@@ -13545,7 +14126,8 @@
             "fat_g": 18.0
           },
           "name_en": "Truffle Chicken Wrap",
-          "category_ar": "لفائف"
+          "category_ar": "لفائف",
+          "category_en": "Wraps"
         },
         {
           "id": "goodstuff_crispy_chicken_caesar_wrap",
@@ -13558,7 +14140,8 @@
             "fat_g": 17.0
           },
           "name_en": "Crispy Chicken Caesar Wrap",
-          "category_ar": "لفائف"
+          "category_ar": "لفائف",
+          "category_en": "Wraps"
         },
         {
           "id": "goodstuff_chicken_avocado_wrap",
@@ -13571,7 +14154,8 @@
             "fat_g": 18.0
           },
           "name_en": "Chicken Avocado Wrap",
-          "category_ar": "لفائف"
+          "category_ar": "لفائف",
+          "category_en": "Wraps"
         },
         {
           "id": "goodstuff_shrimp_wrap",
@@ -13584,7 +14168,8 @@
             "fat_g": 13.0
           },
           "name_en": "Shrimp Wrap",
-          "category_ar": "لفائف"
+          "category_ar": "لفائف",
+          "category_en": "Wraps"
         },
         {
           "id": "goodstuff_pesto_chicken",
@@ -13596,8 +14181,9 @@
             "carbs_g": 33.0,
             "fat_g": 19.0
           },
-          "name_en": "Pesto Chicken",
-          "category_ar": "لفائف"
+          "name_en": "Pesto Chicken Wrap",
+          "category_ar": "لفائف",
+          "category_en": "Wraps"
         },
         {
           "id": "goodstuff_chicken_bacon_wrap",
@@ -13609,8 +14195,9 @@
             "carbs_g": 36.0,
             "fat_g": 21.0
           },
-          "name_en": "Chicken Bacon wrap",
-          "category_ar": "لفائف"
+          "name_en": "Chicken Bacon Wrap",
+          "category_ar": "لفائف",
+          "category_en": "Wraps"
         },
         {
           "id": "goodstuff_chicken_tender_wrap",
@@ -13623,7 +14210,8 @@
             "fat_g": 17.0
           },
           "name_en": "Chicken Tender Wrap",
-          "category_ar": "لفائف"
+          "category_ar": "لفائف",
+          "category_en": "Wraps"
         },
         {
           "id": "goodstuff_halloum_wrap",
@@ -13636,7 +14224,8 @@
             "fat_g": 21.0
           },
           "name_en": "Halloum Wrap",
-          "category_ar": "لفائف"
+          "category_ar": "لفائف",
+          "category_en": "Wraps"
         },
         {
           "id": "goodstuff_falafel_wrap",
@@ -13649,7 +14238,8 @@
             "fat_g": 15.0
           },
           "name_en": "Falafel Wrap",
-          "category_ar": "لفائف"
+          "category_ar": "لفائف",
+          "category_en": "Wraps"
         },
         {
           "id": "goodstuff_fish_taco",
@@ -13661,8 +14251,9 @@
             "carbs_g": 18.0,
             "fat_g": 7.0
           },
-          "name_en": "Fish taco",
-          "category_ar": "تاكو"
+          "name_en": "Fish Taco",
+          "category_ar": "تاكو",
+          "category_en": "Tacos"
         },
         {
           "id": "goodstuff_crispy_chicken_taco",
@@ -13675,7 +14266,8 @@
             "fat_g": 8.0
           },
           "name_en": "Crispy Chicken Taco",
-          "category_ar": "تاكو"
+          "category_ar": "تاكو",
+          "category_en": "Tacos"
         },
         {
           "id": "goodstuff_chicken_taco",
@@ -13687,8 +14279,9 @@
             "carbs_g": 13.0,
             "fat_g": 6.0
           },
-          "name_en": "Chicken taco",
-          "category_ar": "تاكو"
+          "name_en": "Chicken Taco",
+          "category_ar": "تاكو",
+          "category_en": "Tacos"
         },
         {
           "id": "goodstuff_steak_taco",
@@ -13701,7 +14294,8 @@
             "fat_g": 9.0
           },
           "name_en": "Steak Taco",
-          "category_ar": "تاكو"
+          "category_ar": "تاكو",
+          "category_en": "Tacos"
         },
         {
           "id": "goodstuff_shrimp_taco",
@@ -13713,8 +14307,9 @@
             "carbs_g": 14.0,
             "fat_g": 7.0
           },
-          "name_en": "Shrimp taco",
-          "category_ar": "تاكو"
+          "name_en": "Shrimp Taco",
+          "category_ar": "تاكو",
+          "category_en": "Tacos"
         },
         {
           "id": "goodstuff_grass_fed_sirloin_steak",
@@ -13727,7 +14322,8 @@
             "fat_g": 18.0
           },
           "name_en": "Grass-Fed Sirloin Steak",
-          "category_ar": "أطباق بروتين"
+          "category_ar": "أطباق بروتين",
+          "category_en": "Protein Plates"
         },
         {
           "id": "goodstuff_wild_caught_salmon",
@@ -13740,7 +14336,8 @@
             "fat_g": 18.0
           },
           "name_en": "Wild Caught Salmon",
-          "category_ar": "أطباق بروتين"
+          "category_ar": "أطباق بروتين",
+          "category_en": "Protein Plates"
         },
         {
           "id": "goodstuff_shrimp",
@@ -13753,7 +14350,8 @@
             "fat_g": 3.0
           },
           "name_en": "Shrimp",
-          "category_ar": "أطباق بروتين"
+          "category_ar": "أطباق بروتين",
+          "category_en": "Protein Plates"
         },
         {
           "id": "goodstuff_chicken_breast",
@@ -13766,7 +14364,8 @@
             "fat_g": 5.0
           },
           "name_en": "Chicken Breast",
-          "category_ar": "أطباق بروتين"
+          "category_ar": "أطباق بروتين",
+          "category_en": "Protein Plates"
         },
         {
           "id": "goodstuff_protein_balls",
@@ -13779,7 +14378,8 @@
             "fat_g": 8.0
           },
           "name_en": "Protein Balls",
-          "category_ar": "حلى"
+          "category_ar": "حلى",
+          "category_en": "Desserts"
         },
         {
           "id": "goodstuff_protein_soft_serve",
@@ -13792,7 +14392,8 @@
             "fat_g": 5.0
           },
           "name_en": "Protein Soft Serve",
-          "category_ar": "حلى"
+          "category_ar": "حلى",
+          "category_en": "Desserts"
         },
         {
           "id": "goodstuff_chocolate_chip_cookie",
@@ -13805,7 +14406,8 @@
             "fat_g": 10.0
           },
           "name_en": "Chocolate Chip Cookie",
-          "category_ar": "حلى"
+          "category_ar": "حلى",
+          "category_en": "Desserts"
         },
         {
           "id": "goodstuff_oatmeal_cranberry_cookie",
@@ -13818,7 +14420,8 @@
             "fat_g": 8.0
           },
           "name_en": "Oatmeal Cranberry Cookie",
-          "category_ar": "حلى"
+          "category_ar": "حلى",
+          "category_en": "Desserts"
         },
         {
           "id": "goodstuff_peanut_butter_cookie",
@@ -13831,7 +14434,8 @@
             "fat_g": 12.0
           },
           "name_en": "Peanut Butter Cookie",
-          "category_ar": "حلى"
+          "category_ar": "حلى",
+          "category_en": "Desserts"
         },
         {
           "id": "goodstuff_double_chocolate_chunk_pecan_cookie",
@@ -13844,7 +14448,8 @@
             "fat_g": 13.0
           },
           "name_en": "Double Chocolate Chunk Pecan Cookie",
-          "category_ar": "حلى"
+          "category_ar": "حلى",
+          "category_en": "Desserts"
         },
         {
           "id": "goodstuff_good_brownie",
@@ -13857,7 +14462,8 @@
             "fat_g": 13.0
           },
           "name_en": "Good Brownie",
-          "category_ar": "حلى"
+          "category_ar": "حلى",
+          "category_en": "Desserts"
         },
         {
           "id": "goodstuff_organic_fruit_cocktail",
@@ -13870,7 +14476,8 @@
             "fat_g": 0.0
           },
           "name_en": "Organic Fruit Cocktail",
-          "category_ar": "مشروبات"
+          "category_ar": "مشروبات",
+          "category_en": "Drinks"
         },
         {
           "id": "goodstuff_coconut_water",
@@ -13883,7 +14490,8 @@
             "fat_g": 0.0
           },
           "name_en": "Coconut Water",
-          "category_ar": "مشروبات"
+          "category_ar": "مشروبات",
+          "category_en": "Drinks"
         },
         {
           "id": "goodstuff_green_cola_no_caffeine",
@@ -13896,7 +14504,8 @@
             "fat_g": 0.0
           },
           "name_en": "Green-Cola No Caffeine",
-          "category_ar": "مشروبات"
+          "category_ar": "مشروبات",
+          "category_en": "Drinks"
         },
         {
           "id": "goodstuff_green_cola",
@@ -13909,7 +14518,8 @@
             "fat_g": 0.0
           },
           "name_en": "Green-Cola",
-          "category_ar": "مشروبات"
+          "category_ar": "مشروبات",
+          "category_en": "Drinks"
         },
         {
           "id": "goodstuff_green_lemon_lime",
@@ -13922,7 +14532,8 @@
             "fat_g": 0.0
           },
           "name_en": "Green-Lemon Lime",
-          "category_ar": "مشروبات"
+          "category_ar": "مشروبات",
+          "category_en": "Drinks"
         },
         {
           "id": "goodstuff_green_cherry_soda",
@@ -13935,7 +14546,8 @@
             "fat_g": 0.0
           },
           "name_en": "Green-Cherry Soda",
-          "category_ar": "مشروبات"
+          "category_ar": "مشروبات",
+          "category_en": "Drinks"
         },
         {
           "id": "goodstuff_green_orange_soda",
@@ -13948,7 +14560,8 @@
             "fat_g": 0.0
           },
           "name_en": "Green-Orange Soda",
-          "category_ar": "مشروبات"
+          "category_ar": "مشروبات",
+          "category_en": "Drinks"
         },
         {
           "id": "goodstuff_green_mojito",
@@ -13961,7 +14574,8 @@
             "fat_g": 0.0
           },
           "name_en": "Green-Mojito",
-          "category_ar": "مشروبات"
+          "category_ar": "مشروبات",
+          "category_en": "Drinks"
         },
         {
           "id": "goodstuff_diet_cola",
@@ -13974,7 +14588,8 @@
             "fat_g": 0.0
           },
           "name_en": "Diet Cola",
-          "category_ar": "مشروبات"
+          "category_ar": "مشروبات",
+          "category_en": "Drinks"
         },
         {
           "id": "goodstuff_lemon_zero",
@@ -13987,7 +14602,8 @@
             "fat_g": 0.0
           },
           "name_en": "Lemon Zero",
-          "category_ar": "مشروبات"
+          "category_ar": "مشروبات",
+          "category_en": "Drinks"
         },
         {
           "id": "goodstuff_sparkling_water",
@@ -14000,7 +14616,8 @@
             "fat_g": 0.0
           },
           "name_en": "Sparkling Water",
-          "category_ar": "مشروبات"
+          "category_ar": "مشروبات",
+          "category_en": "Drinks"
         },
         {
           "id": "goodstuff_mineral_water",
@@ -14013,7 +14630,8 @@
             "fat_g": 0.0
           },
           "name_en": "Mineral Water",
-          "category_ar": "مشروبات"
+          "category_ar": "مشروبات",
+          "category_en": "Drinks"
         },
         {
           "id": "goodstuff_taco_gathering_box",
@@ -14026,7 +14644,8 @@
             "fat_g": 150.0
           },
           "name_en": "Taco Gathering Box",
-          "category_ar": "الجمعات"
+          "category_ar": "الجمعات",
+          "category_en": "Gathering Boxes"
         },
         {
           "id": "goodstuff_gathering_box",
@@ -14039,7 +14658,8 @@
             "fat_g": 140.0
           },
           "name_en": "Gathering Box",
-          "category_ar": "الجمعات"
+          "category_ar": "الجمعات",
+          "category_en": "Gathering Boxes"
         },
         {
           "id": "goodstuff_air_baked_buffalo_chicken_strips_gathering_size",
@@ -14051,8 +14671,9 @@
             "carbs_g": 78.0,
             "fat_g": 48.0
           },
-          "name_en": "Air-Baked buffalo Chicken Strips Gathering Size",
-          "category_ar": "الجمعات"
+          "name_en": "Air-Baked Buffalo Chicken Strips Gathering Size",
+          "category_ar": "الجمعات",
+          "category_en": "Gathering Boxes"
         },
         {
           "id": "goodstuff_air_baked_chicken_strips_gathering_size",
@@ -14065,7 +14686,8 @@
             "fat_g": 38.0
           },
           "name_en": "Air-Baked Chicken Strips Gathering Size",
-          "category_ar": "الجمعات"
+          "category_ar": "الجمعات",
+          "category_en": "Gathering Boxes"
         },
         {
           "id": "goodstuff_air_baked_sweet_potato_fries_gathering_size",
@@ -14078,7 +14700,8 @@
             "fat_g": 32.0
           },
           "name_en": "Air-Baked Sweet Potato Fries Gathering Size",
-          "category_ar": "الجمعات"
+          "category_ar": "الجمعات",
+          "category_en": "Gathering Boxes"
         },
         {
           "id": "goodstuff_air_baked_french_fries_gathering_size",
@@ -14091,7 +14714,8 @@
             "fat_g": 36.0
           },
           "name_en": "Air-Baked French Fries Gathering Size",
-          "category_ar": "الجمعات"
+          "category_ar": "الجمعات",
+          "category_en": "Gathering Boxes"
         },
         {
           "id": "goodstuff_24_pieces_popcorn_chicken",
@@ -14103,8 +14727,9 @@
             "carbs_g": 96.0,
             "fat_g": 44.0
           },
-          "name_en": "24 Pieces-Popcorn Chicken",
-          "category_ar": "الجمعات"
+          "name_en": "24 Pieces Popcorn Chicken",
+          "category_ar": "الجمعات",
+          "category_en": "Gathering Boxes"
         },
         {
           "id": "goodstuff_24_pieces_buffalo_bites",
@@ -14116,8 +14741,9 @@
             "carbs_g": 96.0,
             "fat_g": 52.0
           },
-          "name_en": "24 Pieces-Buffalo Bites",
-          "category_ar": "الجمعات"
+          "name_en": "24 Pieces Buffalo Bites",
+          "category_ar": "الجمعات",
+          "category_en": "Gathering Boxes"
         },
         {
           "id": "goodstuff_cookie_box",
@@ -14130,7 +14756,8 @@
             "fat_g": 70.0
           },
           "name_en": "Cookie Box",
-          "category_ar": "الجمعات"
+          "category_ar": "الجمعات",
+          "category_en": "Gathering Boxes"
         }
       ]
     },
@@ -14155,7 +14782,8 @@
             "sodium_mg": 105,
             "caffeine_mg": 80
           },
-          "category_ar": "مشروبات طاقة"
+          "category_ar": "مشروبات طاقة",
+          "category_en": "Energy Drinks"
         },
         {
           "id": "red_bull_sugarfree_250",
@@ -14171,7 +14799,8 @@
             "sodium_mg": 105,
             "caffeine_mg": 80
           },
-          "category_ar": "مشروبات طاقة"
+          "category_ar": "مشروبات طاقة",
+          "category_en": "Energy Drinks"
         },
         {
           "id": "red_bull_355",
@@ -14187,7 +14816,8 @@
             "sodium_mg": 150,
             "caffeine_mg": 114
           },
-          "category_ar": "مشروبات طاقة"
+          "category_ar": "مشروبات طاقة",
+          "category_en": "Energy Drinks"
         },
         {
           "id": "red_bull_red_watermelon",
@@ -14203,7 +14833,8 @@
             "sodium_mg": 100,
             "caffeine_mg": 80
           },
-          "category_ar": "مشروبات طاقة"
+          "category_ar": "مشروبات طاقة",
+          "category_en": "Energy Drinks"
         },
         {
           "id": "red_bull_yellow_tropical",
@@ -14219,7 +14850,8 @@
             "sodium_mg": 100,
             "caffeine_mg": 80
           },
-          "category_ar": "مشروبات طاقة"
+          "category_ar": "مشروبات طاقة",
+          "category_en": "Energy Drinks"
         },
         {
           "id": "red_bull_blue_blueberry",
@@ -14235,7 +14867,8 @@
             "sodium_mg": 100,
             "caffeine_mg": 80
           },
-          "category_ar": "مشروبات طاقة"
+          "category_ar": "مشروبات طاقة",
+          "category_en": "Energy Drinks"
         },
         {
           "id": "red_bull_green_dragonfruit",
@@ -14251,12 +14884,13 @@
             "sodium_mg": 100,
             "caffeine_mg": 80
           },
-          "category_ar": "مشروبات طاقة"
+          "category_ar": "مشروبات طاقة",
+          "category_en": "Energy Drinks"
         },
         {
           "id": "red_bull_apricot_strawberry",
           "name_ar": "ريد بُل إصدار المشمش والفراولة",
-          "name_en": "Red Bull Apricot-Strawberry Edition",
+          "name_en": "Red Bull Amber Edition Strawberry Apricot",
           "serving_g": 250.0,
           "nutrition": {
             "calories": 114,
@@ -14267,12 +14901,13 @@
             "sodium_mg": 100,
             "caffeine_mg": 80
           },
-          "category_ar": "مشروبات طاقة"
+          "category_ar": "مشروبات طاقة",
+          "category_en": "Energy Drinks"
         },
         {
           "id": "red_bull_red_sugarfree",
           "name_ar": "ريد بُل ريد إديشن خالي السكر (بطيخ)",
-          "name_en": "Red Bull Red Edition Sugarfree",
+          "name_en": "Red Bull Red Edition Sugarfree Watermelon",
           "serving_g": 250.0,
           "nutrition": {
             "calories": 6,
@@ -14283,7 +14918,8 @@
             "sodium_mg": 100,
             "caffeine_mg": 80
           },
-          "category_ar": "مشروبات طاقة"
+          "category_ar": "مشروبات طاقة",
+          "category_en": "Energy Drinks"
         },
         {
           "id": "monster_green_500",
@@ -14299,12 +14935,13 @@
             "sodium_mg": 360,
             "caffeine_mg": 160
           },
-          "category_ar": "مشروبات طاقة"
+          "category_ar": "مشروبات طاقة",
+          "category_en": "Energy Drinks"
         },
         {
           "id": "monster_ultra_zero_500",
           "name_ar": "مونستر ألترا خالي السكر (500مل)",
-          "name_en": "Monster Ultra Zero 500ml",
+          "name_en": "Monster Energy Zero Ultra 500ml",
           "serving_g": 500.0,
           "nutrition": {
             "calories": 10,
@@ -14315,12 +14952,13 @@
             "sodium_mg": 360,
             "caffeine_mg": 150
           },
-          "category_ar": "مشروبات طاقة"
+          "category_ar": "مشروبات طاقة",
+          "category_en": "Energy Drinks"
         },
         {
           "id": "monster_mango_loco_500",
           "name_ar": "مونستر مانجو لوكو (500مل)",
-          "name_en": "Monster Mango Loco 500ml",
+          "name_en": "Monster Energy Mango Loco 500ml",
           "serving_g": 500.0,
           "nutrition": {
             "calories": 200,
@@ -14331,7 +14969,8 @@
             "sodium_mg": 360,
             "caffeine_mg": 150
           },
-          "category_ar": "مشروبات طاقة"
+          "category_ar": "مشروبات طاقة",
+          "category_en": "Energy Drinks"
         },
         {
           "id": "power_horse_250",
@@ -14347,7 +14986,8 @@
             "sodium_mg": 200,
             "caffeine_mg": 80
           },
-          "category_ar": "مشروبات طاقة"
+          "category_ar": "مشروبات طاقة",
+          "category_en": "Energy Drinks"
         },
         {
           "id": "bison_250",
@@ -14363,7 +15003,8 @@
             "sodium_mg": 130,
             "caffeine_mg": 80
           },
-          "category_ar": "مشروبات طاقة"
+          "category_ar": "مشروبات طاقة",
+          "category_en": "Energy Drinks"
         },
         {
           "id": "code_red_250",
@@ -14379,7 +15020,8 @@
             "sodium_mg": 100,
             "caffeine_mg": 80
           },
-          "category_ar": "مشروبات طاقة"
+          "category_ar": "مشروبات طاقة",
+          "category_en": "Energy Drinks"
         }
       ]
     }

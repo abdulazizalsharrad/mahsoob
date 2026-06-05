@@ -5,14 +5,17 @@
     {
       "key": "kuwaiti",
       "label": "أطباق كويتية",
+      "label_en": "Kuwaiti Dishes",
       "dishes": [
         {
           "id": "machboos_dajaj",
           "name_ar": "مجبوس دجاج",
+          "name_en": "Chicken Machboos",
           "default_portion_g": 450,
           "components": [
             {
               "name_ar": "عيش أبيض مطبوخ بالبهارات",
+              "name_en": "Spiced White Rice",
               "role": "carb",
               "grams": 250,
               "per100g": {
@@ -37,6 +40,7 @@
             },
             {
               "name_ar": "دجاج",
+              "name_en": "Chicken",
               "role": "protein",
               "grams": 150,
               "per100g": {
@@ -64,6 +68,7 @@
             },
             {
               "name_ar": "الحشو",
+              "name_en": "Onion Filling",
               "role": "veg",
               "grams": 30,
               "per100g": {
@@ -89,6 +94,7 @@
               "variants": [
                 {
                   "name_ar": "بصل وبهارات",
+                  "name_en": "Onion and Spices",
                   "per100g": {
                     "calories": 150,
                     "protein_g": 1.5,
@@ -108,6 +114,7 @@
                 },
                 {
                   "name_ar": "بالزبيب والنخي (بصل + زبيب + حمص + بهارات)",
+                  "name_en": "With Raisins and Chickpeas (Onion, Raisins, Chickpeas, Spices)",
                   "per100g": {
                     "calories": 205,
                     "protein_g": 3.5,
@@ -126,6 +133,7 @@
                 },
                 {
                   "name_ar": "أحمر بالطماط (بصل + طماط + بهارات + لومي)",
+                  "name_en": "Red with Tomato (Onion, Tomato, Spices, Dried Lime)",
                   "per100g": {
                     "calories": 150,
                     "protein_g": 2.0,
@@ -147,6 +155,7 @@
             },
             {
               "name_ar": "دقوس (صلصة طماطم كويتية)",
+              "name_en": "Daqoos (Kuwaiti Tomato Sauce)",
               "role": "sauce",
               "grams": 30,
               "per100g": {
@@ -173,6 +182,7 @@
             },
             {
               "name_ar": "زيت طبخ",
+              "name_en": "Cooking Oil",
               "role": "fat",
               "grams": 15,
               "per100g": {
@@ -195,10 +205,12 @@
         {
           "id": "machboos_laham",
           "name_ar": "مجبوس لحم",
+          "name_en": "Lamb Machboos",
           "default_portion_g": 450,
           "components": [
             {
               "name_ar": "عيش أبيض مطبوخ بالبهارات",
+              "name_en": "Spiced White Rice",
               "role": "carb",
               "grams": 250,
               "per100g": {
@@ -223,6 +235,7 @@
             },
             {
               "name_ar": "لحم غنم",
+              "name_en": "Lamb",
               "role": "protein",
               "grams": 150,
               "per100g": {
@@ -249,6 +262,7 @@
             },
             {
               "name_ar": "الحشو",
+              "name_en": "Onion Filling",
               "role": "veg",
               "grams": 30,
               "per100g": {
@@ -274,6 +288,7 @@
               "variants": [
                 {
                   "name_ar": "بصل وبهارات",
+                  "name_en": "Onion and Spices",
                   "per100g": {
                     "calories": 150,
                     "protein_g": 1.5,
@@ -293,6 +308,7 @@
                 },
                 {
                   "name_ar": "بالزبيب والنخي (بصل + زبيب + حمص + بهارات)",
+                  "name_en": "With Raisins and Chickpeas (Onion, Raisins, Chickpeas, Spices)",
                   "per100g": {
                     "calories": 205,
                     "protein_g": 3.5,
@@ -311,6 +327,7 @@
                 },
                 {
                   "name_ar": "أحمر بالطماط (بصل + طماط + بهارات + لومي)",
+                  "name_en": "Red with Tomato (Onion, Tomato, Spices, Dried Lime)",
                   "per100g": {
                     "calories": 150,
                     "protein_g": 2.0,
@@ -332,6 +349,7 @@
             },
             {
               "name_ar": "دقوس (صلصة طماطم كويتية)",
+              "name_en": "Daqoos (Kuwaiti Tomato Sauce)",
               "role": "sauce",
               "grams": 30,
               "per100g": {
@@ -358,6 +376,7 @@
             },
             {
               "name_ar": "زيت طبخ",
+              "name_en": "Cooking Oil",
               "role": "fat",
               "grams": 15,
               "per100g": {
@@ -380,10 +399,12 @@
         {
           "id": "matbag_samak_zubaidi",
           "name_ar": "مطبق سمك (زبيدي)",
+          "name_en": "Fish Matbag (Zubaidi)",
           "default_portion_g": 430,
           "components": [
             {
               "name_ar": "عيش أبيض مطبوخ بالبهارات",
+              "name_en": "Spiced White Rice",
               "role": "carb",
               "grams": 250,
               "per100g": {
@@ -408,6 +429,7 @@
             },
             {
               "name_ar": "سمك",
+              "name_en": "Fish",
               "role": "protein",
               "grams": 150,
               "per100g": {
@@ -436,6 +458,7 @@
             },
             {
               "name_ar": "دقوس (صلصة طماطم كويتية)",
+              "name_en": "Daqoos (Kuwaiti Tomato Sauce)",
               "role": "sauce",
               "grams": 30,
               "per100g": {
@@ -462,6 +485,7 @@
             },
             {
               "name_ar": "الحشو",
+              "name_en": "Onion Filling",
               "role": "veg",
               "grams": 25,
               "per100g": {
@@ -487,6 +511,7 @@
               "variants": [
                 {
                   "name_ar": "بصل وبهارات",
+                  "name_en": "Onion and Spices",
                   "per100g": {
                     "calories": 150,
                     "protein_g": 1.5,
@@ -506,6 +531,7 @@
                 },
                 {
                   "name_ar": "بالزبيب والنخي (بصل + زبيب + حمص + بهارات)",
+                  "name_en": "With Raisins and Chickpeas (Onion, Raisins, Chickpeas, Spices)",
                   "per100g": {
                     "calories": 205,
                     "protein_g": 3.5,
@@ -524,6 +550,7 @@
                 },
                 {
                   "name_ar": "أحمر بالطماط (بصل + طماط + بهارات + لومي)",
+                  "name_en": "Red with Tomato (Onion, Tomato, Spices, Dried Lime)",
                   "per100g": {
                     "calories": 150,
                     "protein_g": 2.0,
@@ -545,6 +572,7 @@
             },
             {
               "name_ar": "زيت طبخ",
+              "name_en": "Cooking Oil",
               "role": "fat",
               "grams": 15,
               "per100g": {
@@ -567,10 +595,12 @@
         {
           "id": "margoog",
           "name_ar": "مرقوق",
+          "name_en": "Margoog",
           "default_portion_g": 400,
           "components": [
             {
               "name_ar": "عجين مرقوق مطبوخ في المرق",
+              "name_en": "Margoog Dough Cooked in Broth",
               "role": "carb",
               "grams": 180,
               "per100g": {
@@ -595,6 +625,7 @@
             },
             {
               "name_ar": "خضار المرق (طماطم، كوسا، قرع، بصل)",
+              "name_en": "Broth Vegetables (Tomato, Zucchini, Pumpkin, Onion)",
               "role": "veg",
               "grams": 100,
               "per100g": {
@@ -621,6 +652,7 @@
             },
             {
               "name_ar": "لحم غنم",
+              "name_en": "Lamb",
               "role": "protein",
               "grams": 90,
               "per100g": {
@@ -647,6 +679,7 @@
             },
             {
               "name_ar": "زيت طبخ",
+              "name_en": "Cooking Oil",
               "role": "fat",
               "grams": 12,
               "per100g": {
@@ -669,10 +702,12 @@
         {
           "id": "tashreeb_laham",
           "name_ar": "تشريب لحم",
+          "name_en": "Lamb Tashreeb",
           "default_portion_g": 420,
           "components": [
             {
               "name_ar": "خبز مغموس في المرق",
+              "name_en": "Bread Soaked in Broth",
               "role": "carb",
               "grams": 170,
               "per100g": {
@@ -697,6 +732,7 @@
             },
             {
               "name_ar": "لحم غنم",
+              "name_en": "Lamb",
               "role": "protein",
               "grams": 100,
               "per100g": {
@@ -723,6 +759,7 @@
             },
             {
               "name_ar": "خضار ومرق طماطم",
+              "name_en": "Vegetables and Tomato Broth",
               "role": "veg",
               "grams": 100,
               "per100g": {
@@ -749,6 +786,7 @@
             },
             {
               "name_ar": "زيت طبخ",
+              "name_en": "Cooking Oil",
               "role": "fat",
               "grams": 12,
               "per100g": {
@@ -771,10 +809,12 @@
         {
           "id": "harees",
           "name_ar": "هريس",
+          "name_en": "Harees",
           "default_portion_g": 300,
           "components": [
             {
               "name_ar": "هريس (قمح مطبوخ مع اللحم)",
+              "name_en": "Harees (Wheat Cooked with Meat)",
               "role": "carb",
               "grams": 280,
               "per100g": {
@@ -801,6 +841,7 @@
             },
             {
               "name_ar": "سمن للتزيين",
+              "name_en": "Ghee for Garnish",
               "role": "fat",
               "grams": 10,
               "per100g": {
@@ -823,10 +864,12 @@
         {
           "id": "jireesh",
           "name_ar": "جريش",
+          "name_en": "Jireesh",
           "default_portion_g": 320,
           "components": [
             {
               "name_ar": "جريش (قمح مجروش مطبوخ مع اللحم/الدجاج)",
+              "name_en": "Jireesh (Cracked Wheat Cooked with Meat/Chicken)",
               "role": "carb",
               "grams": 300,
               "per100g": {
@@ -853,6 +896,7 @@
             },
             {
               "name_ar": "الحشو",
+              "name_en": "Onion Filling",
               "role": "veg",
               "grams": 20,
               "per100g": {
@@ -878,6 +922,7 @@
               "variants": [
                 {
                   "name_ar": "بصل وبهارات",
+                  "name_en": "Onion and Spices",
                   "per100g": {
                     "calories": 150,
                     "protein_g": 1.5,
@@ -897,6 +942,7 @@
                 },
                 {
                   "name_ar": "بالزبيب والنخي (بصل + زبيب + حمص + بهارات)",
+                  "name_en": "With Raisins and Chickpeas (Onion, Raisins, Chickpeas, Spices)",
                   "per100g": {
                     "calories": 205,
                     "protein_g": 3.5,
@@ -915,6 +961,7 @@
                 },
                 {
                   "name_ar": "أحمر بالطماط (بصل + طماط + بهارات + لومي)",
+                  "name_en": "Red with Tomato (Onion, Tomato, Spices, Dried Lime)",
                   "per100g": {
                     "calories": 150,
                     "protein_g": 2.0,
@@ -939,10 +986,12 @@
         {
           "id": "mumawash_rubyan_tari",
           "name_ar": "مموش ربيان طري",
+          "name_en": "Mumawash with Fresh Shrimp",
           "default_portion_g": 480,
           "components": [
             {
               "name_ar": "عيش أبيض مطبوخ بالبهارات",
+              "name_en": "Spiced White Rice",
               "role": "carb",
               "grams": 220,
               "per100g": {
@@ -967,6 +1016,7 @@
             },
             {
               "name_ar": "ماش (عدس أخضر)",
+              "name_en": "Mung Beans (Green Lentils)",
               "role": "carb",
               "grams": 120,
               "per100g": {
@@ -991,6 +1041,7 @@
             },
             {
               "name_ar": "ربيان طري",
+              "name_en": "Fresh Shrimp",
               "role": "protein",
               "grams": 110,
               "per100g": {
@@ -1017,6 +1068,7 @@
             },
             {
               "name_ar": "بصل وبهارات",
+              "name_en": "Onion and Spices",
               "role": "veg",
               "grams": 15,
               "per100g": {
@@ -1042,6 +1094,7 @@
             },
             {
               "name_ar": "زيت طبخ",
+              "name_en": "Cooking Oil",
               "role": "fat",
               "grams": 15,
               "per100g": {
@@ -1064,10 +1117,12 @@
         {
           "id": "mumawash_rubyan_yabis",
           "name_ar": "مموش ربيان يابس (مجفف)",
+          "name_en": "Mumawash with Dried Shrimp",
           "default_portion_g": 440,
           "components": [
             {
               "name_ar": "عيش أبيض مطبوخ بالبهارات",
+              "name_en": "Spiced White Rice",
               "role": "carb",
               "grams": 240,
               "per100g": {
@@ -1092,6 +1147,7 @@
             },
             {
               "name_ar": "ماش (عدس أخضر)",
+              "name_en": "Mung Beans (Green Lentils)",
               "role": "carb",
               "grams": 120,
               "per100g": {
@@ -1116,6 +1172,7 @@
             },
             {
               "name_ar": "ربيان يابس (مجفف)",
+              "name_en": "Dried Shrimp",
               "role": "protein",
               "grams": 50,
               "per100g": {
@@ -1142,6 +1199,7 @@
             },
             {
               "name_ar": "بصل وبهارات",
+              "name_en": "Onion and Spices",
               "role": "veg",
               "grams": 15,
               "per100g": {
@@ -1167,6 +1225,7 @@
             },
             {
               "name_ar": "زيت طبخ",
+              "name_en": "Cooking Oil",
               "role": "fat",
               "grams": 15,
               "per100g": {
@@ -1189,10 +1248,12 @@
         {
           "id": "murabyan",
           "name_ar": "مربين",
+          "name_en": "Murabyan",
           "default_portion_g": 500,
           "components": [
             {
               "name_ar": "عيش أبيض مطبوخ بالبهارات",
+              "name_en": "Spiced White Rice",
               "role": "carb",
               "grams": 250,
               "per100g": {
@@ -1217,6 +1278,7 @@
             },
             {
               "name_ar": "ربيان",
+              "name_en": "Shrimp",
               "role": "protein",
               "grams": 110,
               "per100g": {
@@ -1243,6 +1305,7 @@
             },
             {
               "name_ar": "بصل وبهارات",
+              "name_en": "Onion and Spices",
               "role": "veg",
               "grams": 15,
               "per100g": {
@@ -1268,6 +1331,7 @@
             },
             {
               "name_ar": "زيت طبخ",
+              "name_en": "Cooking Oil",
               "role": "fat",
               "grams": 15,
               "per100g": {
@@ -1290,10 +1354,12 @@
         {
           "id": "mumawash_laham",
           "name_ar": "مموش لحم",
+          "name_en": "Mumawash with Lamb",
           "default_portion_g": 500,
           "components": [
             {
               "name_ar": "عيش أبيض مطبوخ بالبهارات",
+              "name_en": "Spiced White Rice",
               "role": "carb",
               "grams": 230,
               "per100g": {
@@ -1318,6 +1384,7 @@
             },
             {
               "name_ar": "ماش (عدس أخضر)",
+              "name_en": "Mung Beans (Green Lentils)",
               "role": "carb",
               "grams": 110,
               "per100g": {
@@ -1342,6 +1409,7 @@
             },
             {
               "name_ar": "لحم غنم",
+              "name_en": "Lamb",
               "role": "protein",
               "grams": 130,
               "selector": "lamb",
@@ -1368,6 +1436,7 @@
             },
             {
               "name_ar": "بصل وبهارات",
+              "name_en": "Onion and Spices",
               "role": "veg",
               "grams": 15,
               "per100g": {
@@ -1393,6 +1462,7 @@
             },
             {
               "name_ar": "زيت طبخ",
+              "name_en": "Cooking Oil",
               "role": "fat",
               "grams": 15,
               "per100g": {
@@ -1415,10 +1485,12 @@
         {
           "id": "marag_bamya",
           "name_ar": "مرق بامية",
+          "name_en": "Okra Stew",
           "default_portion_g": 470,
           "components": [
             {
               "name_ar": "عيش أبيض",
+              "name_en": "White Rice",
               "role": "carb",
               "grams": 250,
               "per100g": {
@@ -1439,6 +1511,7 @@
             },
             {
               "name_ar": "مرق بامية",
+              "name_en": "Okra Stew",
               "role": "sauce",
               "grams": 150,
               "per100g": {
@@ -1461,6 +1534,7 @@
             },
             {
               "name_ar": "لحم غنم",
+              "name_en": "Lamb",
               "role": "protein",
               "grams": 70,
               "selector": "lamb",
@@ -1490,10 +1564,12 @@
         {
           "id": "marag_dajaj",
           "name_ar": "مرق دجاج",
+          "name_en": "Chicken Stew",
           "default_portion_g": 450,
           "components": [
             {
               "name_ar": "عيش أبيض",
+              "name_en": "White Rice",
               "role": "carb",
               "grams": 250,
               "per100g": {
@@ -1514,6 +1590,7 @@
             },
             {
               "name_ar": "دجاج بمرق الطماطم",
+              "name_en": "Chicken in Tomato Stew",
               "role": "protein",
               "grams": 200,
               "per100g": {
@@ -1538,10 +1615,12 @@
         {
           "id": "marag_adas",
           "name_ar": "مرق عدس",
+          "name_en": "Lentil Stew",
           "default_portion_g": 450,
           "components": [
             {
               "name_ar": "عيش أبيض",
+              "name_en": "White Rice",
               "role": "carb",
               "grams": 250,
               "per100g": {
@@ -1562,6 +1641,7 @@
             },
             {
               "name_ar": "مرق عدس",
+              "name_en": "Lentil Stew",
               "role": "sauce",
               "grams": 200,
               "per100g": {
@@ -1585,10 +1665,12 @@
         {
           "id": "shorbat_adas",
           "name_ar": "شوربة عدس",
+          "name_en": "Lentil Soup",
           "default_portion_g": 300,
           "components": [
             {
               "name_ar": "شوربة عدس",
+              "name_en": "Lentil Soup",
               "role": "protein",
               "grams": 300,
               "per100g": {
@@ -1612,10 +1694,12 @@
         {
           "id": "ash_persian",
           "name_ar": "آش",
+          "name_en": "Ash",
           "default_portion_g": 350,
           "components": [
             {
               "name_ar": "آش رشتة بالبقول والخضار",
+              "name_en": "Ash Reshteh with Legumes and Vegetables",
               "role": "protein",
               "grams": 350,
               "per100g": {
@@ -1641,14 +1725,17 @@
     {
       "key": "gulf",
       "label": "أطباق خليجية",
+      "label_en": "Gulf Dishes",
       "dishes": [
         {
           "id": "chicken_kabsa",
           "name_ar": "كبسة دجاج",
+          "name_en": "Chicken Kabsa",
           "default_portion_g": 450,
           "components": [
             {
               "name_ar": "عيش أبيض مطبوخ (بسمتي)",
+              "name_en": "Cooked White Basmati Rice",
               "role": "carb",
               "grams": 280,
               "per100g": {
@@ -1673,6 +1760,7 @@
             },
             {
               "name_ar": "دجاج",
+              "name_en": "Chicken",
               "role": "protein",
               "grams": 180,
               "per100g": {
@@ -1700,6 +1788,7 @@
             },
             {
               "name_ar": "دقوس (صلصة طماطم كويتية)",
+              "name_en": "Daqoos (Kuwaiti Tomato Sauce)",
               "role": "sauce",
               "grams": 40,
               "per100g": {
@@ -1726,6 +1815,7 @@
             },
             {
               "name_ar": "الحشو",
+              "name_en": "Onion Filling",
               "role": "veg",
               "grams": 25,
               "per100g": {
@@ -1751,6 +1841,7 @@
               "variants": [
                 {
                   "name_ar": "بصل وبهارات",
+                  "name_en": "Onion and Spices",
                   "per100g": {
                     "calories": 150,
                     "protein_g": 1.5,
@@ -1770,6 +1861,7 @@
                 },
                 {
                   "name_ar": "بالزبيب والنخي (بصل + زبيب + حمص + بهارات)",
+                  "name_en": "With Raisins and Chickpeas (Onion + Raisins + Chickpeas + Spices)",
                   "per100g": {
                     "calories": 205,
                     "protein_g": 3.5,
@@ -1788,6 +1880,7 @@
                 },
                 {
                   "name_ar": "أحمر بالطماط (بصل + طماط + بهارات + لومي)",
+                  "name_en": "Red with Tomato (Onion + Tomato + Spices + Dried Lime)",
                   "per100g": {
                     "calories": 150,
                     "protein_g": 2.0,
@@ -1809,6 +1902,7 @@
             },
             {
               "name_ar": "زيت طبخ",
+              "name_en": "Cooking Oil",
               "role": "fat",
               "grams": 15,
               "per100g": {
@@ -1831,10 +1925,12 @@
         {
           "id": "meat_kabsa",
           "name_ar": "كبسة لحم",
+          "name_en": "Lamb Kabsa",
           "default_portion_g": 450,
           "components": [
             {
               "name_ar": "عيش أبيض مطبوخ (بسمتي)",
+              "name_en": "Cooked White Basmati Rice",
               "role": "carb",
               "grams": 280,
               "per100g": {
@@ -1859,6 +1955,7 @@
             },
             {
               "name_ar": "لحم غنم",
+              "name_en": "Lamb",
               "role": "protein",
               "grams": 170,
               "per100g": {
@@ -1885,6 +1982,7 @@
             },
             {
               "name_ar": "دقوس (صلصة طماطم كويتية)",
+              "name_en": "Daqoos (Kuwaiti Tomato Sauce)",
               "role": "sauce",
               "grams": 40,
               "per100g": {
@@ -1911,6 +2009,7 @@
             },
             {
               "name_ar": "الحشو",
+              "name_en": "Onion Filling",
               "role": "veg",
               "grams": 25,
               "per100g": {
@@ -1936,6 +2035,7 @@
               "variants": [
                 {
                   "name_ar": "بصل وبهارات",
+                  "name_en": "Onion and Spices",
                   "per100g": {
                     "calories": 150,
                     "protein_g": 1.5,
@@ -1955,6 +2055,7 @@
                 },
                 {
                   "name_ar": "بالزبيب والنخي (بصل + زبيب + حمص + بهارات)",
+                  "name_en": "With Raisins and Chickpeas (Onion + Raisins + Chickpeas + Spices)",
                   "per100g": {
                     "calories": 205,
                     "protein_g": 3.5,
@@ -1973,6 +2074,7 @@
                 },
                 {
                   "name_ar": "أحمر بالطماط (بصل + طماط + بهارات + لومي)",
+                  "name_en": "Red with Tomato (Onion + Tomato + Spices + Dried Lime)",
                   "per100g": {
                     "calories": 150,
                     "protein_g": 2.0,
@@ -1994,6 +2096,7 @@
             },
             {
               "name_ar": "زيت طبخ",
+              "name_en": "Cooking Oil",
               "role": "fat",
               "grams": 15,
               "per100g": {
@@ -2016,10 +2119,12 @@
         {
           "id": "chicken_mandi",
           "name_ar": "مندي دجاج",
+          "name_en": "Chicken Mandi",
           "default_portion_g": 450,
           "components": [
             {
               "name_ar": "عيش بسمتي مطبوخ (مندي)",
+              "name_en": "Cooked Basmati Rice (Mandi)",
               "role": "carb",
               "grams": 290,
               "per100g": {
@@ -2044,6 +2149,7 @@
             },
             {
               "name_ar": "دجاج",
+              "name_en": "Chicken",
               "role": "protein",
               "grams": 190,
               "per100g": {
@@ -2071,6 +2177,7 @@
             },
             {
               "name_ar": "دقوس (صلصة طماطم كويتية)",
+              "name_en": "Daqoos (Kuwaiti Tomato Sauce)",
               "role": "sauce",
               "grams": 40,
               "per100g": {
@@ -2097,6 +2204,7 @@
             },
             {
               "name_ar": "زيت/سمن",
+              "name_en": "Oil/Ghee",
               "role": "fat",
               "grams": 12,
               "per100g": {
@@ -2119,10 +2227,12 @@
         {
           "id": "meat_mandi",
           "name_ar": "مندي لحم",
+          "name_en": "Lamb Mandi",
           "default_portion_g": 450,
           "components": [
             {
               "name_ar": "عيش بسمتي مطبوخ (مندي)",
+              "name_en": "Cooked Basmati Rice (Mandi)",
               "role": "carb",
               "grams": 290,
               "per100g": {
@@ -2147,6 +2257,7 @@
             },
             {
               "name_ar": "لحم غنم",
+              "name_en": "Lamb",
               "role": "protein",
               "grams": 175,
               "per100g": {
@@ -2173,6 +2284,7 @@
             },
             {
               "name_ar": "دقوس (صلصة طماطم كويتية)",
+              "name_en": "Daqoos (Kuwaiti Tomato Sauce)",
               "role": "sauce",
               "grams": 40,
               "per100g": {
@@ -2199,6 +2311,7 @@
             },
             {
               "name_ar": "زيت/سمن",
+              "name_en": "Oil/Ghee",
               "role": "fat",
               "grams": 12,
               "per100g": {
@@ -2221,10 +2334,12 @@
         {
           "id": "madhbi_chicken",
           "name_ar": "مظبي",
+          "name_en": "Madhbi Chicken",
           "default_portion_g": 450,
           "components": [
             {
               "name_ar": "عيش بسمتي مطبوخ",
+              "name_en": "Cooked Basmati Rice",
               "role": "carb",
               "grams": 280,
               "per100g": {
@@ -2249,6 +2364,7 @@
             },
             {
               "name_ar": "دجاج",
+              "name_en": "Chicken",
               "role": "protein",
               "grams": 200,
               "per100g": {
@@ -2276,6 +2392,7 @@
             },
             {
               "name_ar": "دقوس (صلصة طماطم كويتية)",
+              "name_en": "Daqoos (Kuwaiti Tomato Sauce)",
               "role": "sauce",
               "grams": 40,
               "per100g": {
@@ -2302,6 +2419,7 @@
             },
             {
               "name_ar": "زيت/سمن",
+              "name_en": "Oil/Ghee",
               "role": "fat",
               "grams": 10,
               "per100g": {
@@ -2324,10 +2442,12 @@
         {
           "id": "madfoon",
           "name_ar": "مدفون",
+          "name_en": "Madfoon",
           "default_portion_g": 460,
           "components": [
             {
               "name_ar": "عيش بسمتي مطبوخ",
+              "name_en": "Cooked Basmati Rice",
               "role": "carb",
               "grams": 290,
               "per100g": {
@@ -2352,6 +2472,7 @@
             },
             {
               "name_ar": "دجاج",
+              "name_en": "Chicken",
               "role": "protein",
               "grams": 180,
               "per100g": {
@@ -2379,6 +2500,7 @@
             },
             {
               "name_ar": "دقوس (صلصة طماطم كويتية)",
+              "name_en": "Daqoos (Kuwaiti Tomato Sauce)",
               "role": "sauce",
               "grams": 40,
               "per100g": {
@@ -2405,6 +2527,7 @@
             },
             {
               "name_ar": "زيت/سمن",
+              "name_en": "Oil/Ghee",
               "role": "fat",
               "grams": 12,
               "per100g": {
@@ -2427,10 +2550,12 @@
         {
           "id": "salona",
           "name_ar": "صالونة",
+          "name_en": "Saloona",
           "default_portion_g": 350,
           "components": [
             {
               "name_ar": "مرق طماطم وخضار",
+              "name_en": "Tomato and Vegetable Stew",
               "role": "sauce",
               "grams": 180,
               "per100g": {
@@ -2457,6 +2582,7 @@
             },
             {
               "name_ar": "دجاج",
+              "name_en": "Chicken",
               "role": "protein",
               "grams": 110,
               "per100g": {
@@ -2484,6 +2610,7 @@
             },
             {
               "name_ar": "بطاطس مطبوخة",
+              "name_en": "Cooked Potatoes",
               "role": "veg",
               "grams": 60,
               "per100g": {
@@ -2512,10 +2639,12 @@
         {
           "id": "thareed",
           "name_ar": "ثريد",
+          "name_en": "Thareed",
           "default_portion_g": 380,
           "components": [
             {
               "name_ar": "مرق لحم وخضار",
+              "name_en": "Lamb and Vegetable Stew",
               "role": "sauce",
               "grams": 150,
               "per100g": {
@@ -2541,6 +2670,7 @@
             },
             {
               "name_ar": "خبز رقاق مغموس بالمرق",
+              "name_en": "Regag Bread Soaked in Stew",
               "role": "carb",
               "grams": 130,
               "per100g": {
@@ -2565,6 +2695,7 @@
             },
             {
               "name_ar": "لحم غنم",
+              "name_en": "Lamb",
               "role": "protein",
               "grams": 100,
               "per100g": {
@@ -2594,10 +2725,12 @@
         {
           "id": "harees",
           "name_ar": "هريس",
+          "name_en": "Harees",
           "default_portion_g": 300,
           "components": [
             {
               "name_ar": "قمح مهروس مع اللحم (قاعدة الهريس)",
+              "name_en": "Mashed Wheat with Meat (Harees Base)",
               "role": "carb",
               "grams": 250,
               "per100g": {
@@ -2624,6 +2757,7 @@
               "variants": [
                 {
                   "name_ar": "بالدجاج",
+                  "name_en": "With Chicken",
                   "per100g": {
                     "calories": 130,
                     "protein_g": 9.0,
@@ -2642,6 +2776,7 @@
                 },
                 {
                   "name_ar": "باللحم",
+                  "name_en": "With Lamb",
                   "per100g": {
                     "calories": 150,
                     "protein_g": 9.0,
@@ -2661,6 +2796,7 @@
             },
             {
               "name_ar": "سمن فوق الهريس",
+              "name_en": "Ghee Topping",
               "role": "fat",
               "grams": 12,
               "per100g": {
@@ -2684,10 +2820,12 @@
         {
           "id": "chicken_biryani",
           "name_ar": "برياني دجاج",
+          "name_en": "Chicken Biryani",
           "default_portion_g": 450,
           "components": [
             {
               "name_ar": "رز برياني",
+              "name_en": "Biryani Rice",
               "role": "carb",
               "grams": 280,
               "per100g": {
@@ -2708,6 +2846,7 @@
             },
             {
               "name_ar": "دجاج",
+              "name_en": "Chicken",
               "role": "protein",
               "grams": 170,
               "per100g": {
@@ -2731,10 +2870,12 @@
         {
           "id": "meat_biryani",
           "name_ar": "برياني لحم",
+          "name_en": "Lamb Biryani",
           "default_portion_g": 450,
           "components": [
             {
               "name_ar": "رز برياني",
+              "name_en": "Biryani Rice",
               "role": "carb",
               "grams": 280,
               "per100g": {
@@ -2755,6 +2896,7 @@
             },
             {
               "name_ar": "لحم",
+              "name_en": "Meat",
               "role": "protein",
               "grams": 170,
               "per100g": {
@@ -2779,10 +2921,12 @@
         {
           "id": "siyadiah_samak",
           "name_ar": "صيادية سمك",
+          "name_en": "Fish Sayadiah",
           "default_portion_g": 400,
           "components": [
             {
               "name_ar": "رز بصل محمّر",
+              "name_en": "Caramelized Onion Rice",
               "role": "carb",
               "grams": 250,
               "per100g": {
@@ -2802,6 +2946,7 @@
             },
             {
               "name_ar": "سمك",
+              "name_en": "Fish",
               "role": "protein",
               "grams": 150,
               "per100g": {
@@ -2824,10 +2969,12 @@
         {
           "id": "quzi",
           "name_ar": "قوزي (لحم)",
+          "name_en": "Quzi (Lamb)",
           "default_portion_g": 450,
           "components": [
             {
               "name_ar": "رز",
+              "name_en": "Rice",
               "role": "carb",
               "grams": 280,
               "per100g": {
@@ -2848,6 +2995,7 @@
             },
             {
               "name_ar": "لحم خروف",
+              "name_en": "Lamb",
               "role": "protein",
               "grams": 170,
               "per100g": {
@@ -2874,14 +3022,17 @@
     {
       "key": "lebanese",
       "label": "أطباق لبنانية",
+      "label_en": "Lebanese Dishes",
       "dishes": [
         {
           "id": "tabbouleh",
           "name_ar": "تبولة",
+          "name_en": "Tabbouleh",
           "default_portion_g": 150,
           "components": [
             {
               "name_ar": "بقدونس مفروم",
+              "name_en": "Chopped Parsley",
               "role": "veg",
               "grams": 68,
               "per100g": {
@@ -2908,6 +3059,7 @@
             },
             {
               "name_ar": "برغل ناعم مطبوخ",
+              "name_en": "Cooked Fine Bulgur",
               "role": "carb",
               "grams": 30,
               "per100g": {
@@ -2932,6 +3084,7 @@
             },
             {
               "name_ar": "طماطم مفرومة",
+              "name_en": "Chopped Tomato",
               "role": "veg",
               "grams": 30,
               "per100g": {
@@ -2958,6 +3111,7 @@
             },
             {
               "name_ar": "زيت زيتون",
+              "name_en": "Olive Oil",
               "role": "fat",
               "grams": 8,
               "per100g": {
@@ -2977,6 +3131,7 @@
             },
             {
               "name_ar": "بصل أخضر ونعناع",
+              "name_en": "Green Onion and Mint",
               "role": "veg",
               "grams": 7,
               "per100g": {
@@ -3002,6 +3157,7 @@
             },
             {
               "name_ar": "عصير ليمون",
+              "name_en": "Lemon Juice",
               "role": "sauce",
               "grams": 7,
               "per100g": {
@@ -3030,10 +3186,12 @@
         {
           "id": "fattoush",
           "name_ar": "فتوش",
+          "name_en": "Fattoush",
           "default_portion_g": 200,
           "components": [
             {
               "name_ar": "خضار ورقية وخيار وطماطم وفجل",
+              "name_en": "Leafy Greens, Cucumber, Tomato and Radish",
               "role": "veg",
               "grams": 130,
               "per100g": {
@@ -3060,6 +3218,7 @@
             },
             {
               "name_ar": "خبز مقلي/محمص",
+              "name_en": "Fried/Toasted Bread",
               "role": "carb",
               "grams": 25,
               "per100g": {
@@ -3084,6 +3243,7 @@
             },
             {
               "name_ar": "عصير ليمون وسماق ودبس رمان",
+              "name_en": "Lemon Juice, Sumac and Pomegranate Molasses",
               "role": "sauce",
               "grams": 18,
               "per100g": {
@@ -3109,6 +3269,7 @@
             },
             {
               "name_ar": "بقدونس ونعناع",
+              "name_en": "Parsley and Mint",
               "role": "veg",
               "grams": 15,
               "per100g": {
@@ -3135,6 +3296,7 @@
             },
             {
               "name_ar": "زيت زيتون",
+              "name_en": "Olive Oil",
               "role": "fat",
               "grams": 12,
               "per100g": {
@@ -3157,10 +3319,12 @@
         {
           "id": "hummus_tahini",
           "name_ar": "حمص بطحينة",
+          "name_en": "Hummus with Tahini",
           "default_portion_g": 120,
           "components": [
             {
               "name_ar": "حمص مسلوق مهروس",
+              "name_en": "Boiled Mashed Chickpeas",
               "role": "carb",
               "grams": 75,
               "per100g": {
@@ -3185,6 +3349,7 @@
             },
             {
               "name_ar": "طحينة",
+              "name_en": "Tahini",
               "role": "fat",
               "grams": 25,
               "per100g": {
@@ -3209,6 +3374,7 @@
             },
             {
               "name_ar": "زيت زيتون",
+              "name_en": "Olive Oil",
               "role": "fat",
               "grams": 10,
               "per100g": {
@@ -3228,6 +3394,7 @@
             },
             {
               "name_ar": "عصير ليمون وثوم",
+              "name_en": "Lemon Juice and Garlic",
               "role": "sauce",
               "grams": 10,
               "per100g": {
@@ -3256,10 +3423,12 @@
         {
           "id": "mutabal_baba_ghanoush",
           "name_ar": "متبل/بابا غنوج",
+          "name_en": "Mutabbal / Baba Ghanoush",
           "default_portion_g": 120,
           "components": [
             {
               "name_ar": "باذنجان مشوي مهروس",
+              "name_en": "Grilled Mashed Eggplant",
               "role": "veg",
               "grams": 80,
               "per100g": {
@@ -3284,6 +3453,7 @@
             },
             {
               "name_ar": "طحينة",
+              "name_en": "Tahini",
               "role": "fat",
               "grams": 22,
               "per100g": {
@@ -3308,6 +3478,7 @@
             },
             {
               "name_ar": "زيت زيتون",
+              "name_en": "Olive Oil",
               "role": "fat",
               "grams": 10,
               "per100g": {
@@ -3327,6 +3498,7 @@
             },
             {
               "name_ar": "عصير ليمون وثوم",
+              "name_en": "Lemon Juice and Garlic",
               "role": "sauce",
               "grams": 8,
               "per100g": {
@@ -3355,10 +3527,12 @@
         {
           "id": "shish_tawook",
           "name_ar": "شيش طاووق",
+          "name_en": "Shish Tawook",
           "default_portion_g": 180,
           "components": [
             {
               "name_ar": "دجاج",
+              "name_en": "Chicken",
               "role": "protein",
               "grams": 160,
               "per100g": {
@@ -3386,6 +3560,7 @@
             },
             {
               "name_ar": "تتبيلة زبادي وزيت وليمون",
+              "name_en": "Yogurt, Oil and Lemon Marinade",
               "role": "sauce",
               "grams": 20,
               "per100g": {
@@ -3416,10 +3591,12 @@
         {
           "id": "fried_kibbeh",
           "name_ar": "كبة مقلية",
+          "name_en": "Fried Kibbeh",
           "default_portion_g": 120,
           "components": [
             {
               "name_ar": "قشرة برغل ولحم",
+              "name_en": "Bulgur and Meat Shell",
               "role": "carb",
               "grams": 70,
               "per100g": {
@@ -3446,6 +3623,7 @@
             },
             {
               "name_ar": "لحم غنم",
+              "name_en": "Lamb",
               "role": "protein",
               "grams": 35,
               "per100g": {
@@ -3472,6 +3650,7 @@
             },
             {
               "name_ar": "زيت القلي الممتص",
+              "name_en": "Absorbed Frying Oil",
               "role": "fat",
               "grams": 15,
               "per100g": {
@@ -3494,10 +3673,12 @@
         {
           "id": "warak_enab_lebanese",
           "name_ar": "ورق عنب لبناني",
+          "name_en": "Lebanese Stuffed Grape Leaves (Warak Enab)",
           "default_portion_g": 150,
           "components": [
             {
               "name_ar": "أرز محشوة (مطبوخ بزيت الزيتون)",
+              "name_en": "Stuffing Rice (Cooked in Olive Oil)",
               "role": "carb",
               "grams": 70,
               "per100g": {
@@ -3522,6 +3703,7 @@
             },
             {
               "name_ar": "ورق عنب",
+              "name_en": "Grape Leaves",
               "role": "veg",
               "grams": 35,
               "per100g": {
@@ -3548,6 +3730,7 @@
             },
             {
               "name_ar": "طماطم وبقدونس ونعناع وليمون",
+              "name_en": "Tomato, Parsley, Mint and Lemon",
               "role": "veg",
               "grams": 33,
               "per100g": {
@@ -3574,6 +3757,7 @@
             },
             {
               "name_ar": "زيت زيتون",
+              "name_en": "Olive Oil",
               "role": "fat",
               "grams": 12,
               "per100g": {
@@ -3596,10 +3780,12 @@
         {
           "id": "fattet_hummus",
           "name_ar": "فتة حمص",
+          "name_en": "Fattet Hummus",
           "default_portion_g": 280,
           "components": [
             {
               "name_ar": "حمص مسلوق",
+              "name_en": "Boiled Chickpeas",
               "role": "carb",
               "grams": 110,
               "per100g": {
@@ -3624,6 +3810,7 @@
             },
             {
               "name_ar": "لبن (زبادي) بالطحينة والثوم",
+              "name_en": "Yogurt with Tahini and Garlic",
               "role": "dairy",
               "grams": 100,
               "per100g": {
@@ -3651,6 +3838,7 @@
             },
             {
               "name_ar": "خبز محمص/مقلي",
+              "name_en": "Toasted/Fried Bread",
               "role": "carb",
               "grams": 40,
               "per100g": {
@@ -3675,6 +3863,7 @@
             },
             {
               "name_ar": "صنوبر محمص وسمن",
+              "name_en": "Toasted Pine Nuts and Ghee",
               "role": "fat",
               "grams": 30,
               "per100g": {
@@ -3702,10 +3891,12 @@
         {
           "id": "mujadara",
           "name_ar": "مجدرة",
+          "name_en": "Mujadara",
           "default_portion_g": 220,
           "components": [
             {
               "name_ar": "عدس مطبوخ",
+              "name_en": "Cooked Lentils",
               "role": "protein",
               "grams": 100,
               "per100g": {
@@ -3730,6 +3921,7 @@
             },
             {
               "name_ar": "أرز مطبوخ",
+              "name_en": "Cooked Rice",
               "role": "carb",
               "grams": 90,
               "per100g": {
@@ -3754,6 +3946,7 @@
             },
             {
               "name_ar": "بصل مكرمل",
+              "name_en": "Caramelized Onion",
               "role": "veg",
               "grams": 20,
               "per100g": {
@@ -3779,6 +3972,7 @@
             },
             {
               "name_ar": "زيت زيتون",
+              "name_en": "Olive Oil",
               "role": "fat",
               "grams": 10,
               "per100g": {
@@ -3801,10 +3995,12 @@
         {
           "id": "lamb_chops_riyash",
           "name_ar": "ريش لحم",
+          "name_en": "Lamb Chops (Riyash)",
           "default_portion_g": 200,
           "components": [
             {
               "name_ar": "لحم غنم",
+              "name_en": "Lamb",
               "role": "protein",
               "grams": 195,
               "per100g": {
@@ -3831,6 +4027,7 @@
             },
             {
               "name_ar": "زيت وبهارات التتبيلة",
+              "name_en": "Marinade Oil and Spices",
               "role": "fat",
               "grams": 5,
               "per100g": {
@@ -3854,10 +4051,12 @@
         {
           "id": "lahm_bi_ajin_sfiha",
           "name_ar": "صفيحة/لحم بعجين",
+          "name_en": "Sfiha / Lahm bi Ajin",
           "default_portion_g": 90,
           "components": [
             {
               "name_ar": "عجينة",
+              "name_en": "Dough",
               "role": "carb",
               "grams": 55,
               "per100g": {
@@ -3882,6 +4081,7 @@
             },
             {
               "name_ar": "لحم غنم",
+              "name_en": "Lamb",
               "role": "protein",
               "grams": 30,
               "per100g": {
@@ -3908,6 +4108,7 @@
             },
             {
               "name_ar": "طماطم وبصل ودبس رمان",
+              "name_en": "Tomato, Onion and Pomegranate Molasses",
               "role": "sauce",
               "grams": 5,
               "per100g": {
@@ -3940,14 +4141,17 @@
     {
       "key": "daily",
       "label": "استهلاك يومي",
+      "label_en": "Daily Staples",
       "dishes": [
         {
           "id": "date_pitted",
           "name_ar": "تمر سكري (حبة)",
+          "name_en": "Sukkari Date (Piece)",
           "default_portion_g": 8,
           "components": [
             {
               "name_ar": "تمر سكري منزوع النوى",
+              "name_en": "Pitted Sukkari Dates",
               "role": "carb",
               "grams": 8,
               "per100g": {
@@ -3975,10 +4179,12 @@
         {
           "id": "arabic_coffee",
           "name_ar": "قهوة عربية (فنجان)",
+          "name_en": "Arabic Coffee (Cup)",
           "default_portion_g": 45,
           "components": [
             {
               "name_ar": "قهوة عربية مغلية بدون سكر",
+              "name_en": "Brewed Arabic Coffee, Unsweetened",
               "role": "other",
               "grams": 45,
               "per100g": {
@@ -4007,10 +4213,12 @@
         {
           "id": "tea_plain",
           "name_ar": "شاي أسود (كوب)",
+          "name_en": "Black Tea (Cup)",
           "default_portion_g": 200,
           "components": [
             {
               "name_ar": "شاي أسود بدون سكر",
+              "name_en": "Black Tea, Unsweetened",
               "role": "other",
               "grams": 200,
               "per100g": {
@@ -4037,10 +4245,12 @@
         {
           "id": "nescafe_with_milk_sugar",
           "name_ar": "نسكافيه (فنجان)",
+          "name_en": "Nescafe (Cup)",
           "default_portion_g": 200,
           "components": [
             {
               "name_ar": "نسكافيه بالحليب والسكر",
+              "name_en": "Nescafe with Milk and Sugar",
               "role": "other",
               "grams": 200,
               "per100g": {
@@ -4071,10 +4281,12 @@
         {
           "id": "arabic_bread_loaf",
           "name_ar": "خبز عربي (رغيف)",
+          "name_en": "Arabic Bread (Loaf)",
           "default_portion_g": 60,
           "components": [
             {
               "name_ar": "خبز عربي أبيض (بيتا)",
+              "name_en": "White Arabic Bread (Pita)",
               "role": "carb",
               "grams": 60,
               "per100g": {
@@ -4103,10 +4315,12 @@
         {
           "id": "laban_cup",
           "name_ar": "لبن/روب (كوب)",
+          "name_en": "Laban / Yogurt Drink (Cup)",
           "default_portion_g": 200,
           "components": [
             {
               "name_ar": "لبن كامل الدسم (روب)",
+              "name_en": "Full Fat Laban (Yogurt Drink)",
               "role": "dairy",
               "grams": 200,
               "per100g": {
@@ -4136,10 +4350,12 @@
         {
           "id": "nakhi",
           "name_ar": "نخي (حمص مسلوق)",
+          "name_en": "Nakhi (Boiled Chickpeas)",
           "default_portion_g": 160,
           "components": [
             {
               "name_ar": "نخي مسلوق",
+              "name_en": "Boiled Chickpeas",
               "role": "protein",
               "grams": 160,
               "per100g": {
@@ -4163,10 +4379,12 @@
         {
           "id": "bajila",
           "name_ar": "باجيلا (فول مسلوق)",
+          "name_en": "Bajila (Boiled Fava Beans)",
           "default_portion_g": 160,
           "components": [
             {
               "name_ar": "باجيلا مسلوقة",
+              "name_en": "Boiled Fava Beans",
               "role": "protein",
               "grams": 160,
               "per100g": {
@@ -4190,10 +4408,12 @@
         {
           "id": "boiled_egg",
           "name_ar": "بيض مسلوق (حبة)",
+          "name_en": "Boiled Egg (Piece)",
           "default_portion_g": 50,
           "components": [
             {
               "name_ar": "بيض مسلوق",
+              "name_en": "Boiled Egg",
               "role": "protein",
               "grams": 50,
               "per100g": {
@@ -4218,10 +4438,12 @@
         {
           "id": "banana_piece",
           "name_ar": "موز (حبة)",
+          "name_en": "Banana (Piece)",
           "default_portion_g": 120,
           "components": [
             {
               "name_ar": "موز",
+              "name_en": "Banana",
               "role": "fruit",
               "grams": 120,
               "per100g": {
@@ -4243,10 +4465,12 @@
         {
           "id": "apple_piece",
           "name_ar": "تفاح (حبة)",
+          "name_en": "Apple (Piece)",
           "default_portion_g": 180,
           "components": [
             {
               "name_ar": "تفاح",
+              "name_en": "Apple",
               "role": "fruit",
               "grams": 180,
               "per100g": {
@@ -4268,10 +4492,12 @@
         {
           "id": "milk_cup_full",
           "name_ar": "حليب كامل الدسم (كوب)",
+          "name_en": "Full Fat Milk (Cup)",
           "default_portion_g": 200,
           "components": [
             {
               "name_ar": "حليب كامل الدسم",
+              "name_en": "Full Fat Milk",
               "role": "dairy",
               "grams": 200,
               "per100g": {
@@ -4296,10 +4522,12 @@
         {
           "id": "honey_spoon",
           "name_ar": "عسل (ملعقة)",
+          "name_en": "Honey (Spoon)",
           "default_portion_g": 21,
           "components": [
             {
               "name_ar": "عسل",
+              "name_en": "Honey",
               "role": "carb",
               "grams": 21,
               "per100g": {
@@ -4321,14 +4549,17 @@
     {
       "key": "healthy",
       "label": "صحي / للنادي",
+      "label_en": "Healthy / Gym Meals",
       "dishes": [
         {
           "id": "plain_white_rice",
           "name_ar": "عيش أبيض سادة",
+          "name_en": "Plain White Rice",
           "default_portion_g": 150,
           "components": [
             {
               "name_ar": "عيش أبيض مطبوخ",
+              "name_en": "Cooked White Rice",
               "role": "carb",
               "grams": 150,
               "per100g": {
@@ -4356,10 +4587,12 @@
         {
           "id": "grilled_chicken_breast_no_oil",
           "name_ar": "صدر دجاج مشوي بدون زيت",
+          "name_en": "Grilled Chicken Breast (No Oil)",
           "default_portion_g": 150,
           "components": [
             {
               "name_ar": "دجاج",
+              "name_en": "Chicken",
               "role": "protein",
               "grams": 150,
               "per100g": {
@@ -4390,10 +4623,12 @@
         {
           "id": "grilled_fish_no_oil",
           "name_ar": "سمك مشوي",
+          "name_en": "Grilled Fish",
           "default_portion_g": 150,
           "components": [
             {
               "name_ar": "سمك",
+              "name_en": "Fish",
               "role": "protein",
               "grams": 150,
               "per100g": {
@@ -4425,10 +4660,12 @@
         {
           "id": "oven_baked_potato_no_oil",
           "name_ar": "بطاطس مشوية بالفرن",
+          "name_en": "Oven-Baked Potato",
           "default_portion_g": 150,
           "components": [
             {
               "name_ar": "بطاطس مخبوزة بالقشر",
+              "name_en": "Baked Potato with Skin",
               "role": "carb",
               "grams": 150,
               "per100g": {
@@ -4457,10 +4694,12 @@
         {
           "id": "boiled_eggs",
           "name_ar": "بيض مسلوق",
+          "name_en": "Boiled Eggs",
           "default_portion_g": 100,
           "components": [
             {
               "name_ar": "بيضة مسلوقة",
+              "name_en": "Boiled Egg",
               "role": "protein",
               "grams": 100,
               "per100g": {
@@ -4492,10 +4731,12 @@
         {
           "id": "oatmeal_with_water",
           "name_ar": "شوفان بالماء",
+          "name_en": "Oatmeal with Water",
           "default_portion_g": 240,
           "components": [
             {
               "name_ar": "شوفان مطبوخ بالماء",
+              "name_en": "Oatmeal Cooked with Water",
               "role": "carb",
               "grams": 240,
               "per100g": {
@@ -4524,10 +4765,12 @@
         {
           "id": "baked_sweet_potato_no_oil",
           "name_ar": "بطاطا حلوة مشوية",
+          "name_en": "Baked Sweet Potato",
           "default_portion_g": 150,
           "components": [
             {
               "name_ar": "بطاطا حلوة مخبوزة",
+              "name_en": "Baked Sweet Potato",
               "role": "carb",
               "grams": 150,
               "per100g": {
@@ -4557,10 +4800,12 @@
         {
           "id": "brown_rice",
           "name_ar": "أرز بني",
+          "name_en": "Brown Rice",
           "default_portion_g": 150,
           "components": [
             {
               "name_ar": "أرز بني مطبوخ",
+              "name_en": "Cooked Brown Rice",
               "role": "carb",
               "grams": 150,
               "per100g": {
@@ -4588,10 +4833,12 @@
         {
           "id": "grilled_vegetables_no_oil",
           "name_ar": "خضار مشوية",
+          "name_en": "Grilled Vegetables",
           "default_portion_g": 150,
           "components": [
             {
               "name_ar": "كوسا مشوية",
+              "name_en": "Grilled Zucchini",
               "role": "veg",
               "grams": 60,
               "per100g": {
@@ -4617,6 +4864,7 @@
             },
             {
               "name_ar": "فلفل ملون مشوي",
+              "name_en": "Grilled Bell Peppers",
               "role": "veg",
               "grams": 45,
               "per100g": {
@@ -4643,6 +4891,7 @@
             },
             {
               "name_ar": "باذنجان مشوي",
+              "name_en": "Grilled Eggplant",
               "role": "veg",
               "grams": 45,
               "per100g": {
