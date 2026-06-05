@@ -9993,7 +9993,14 @@
             "iron_mg": 0.9,
             "zinc_mg": 0.4,
             "vitamin_c_mg": 0.0,
-            "folate_mcg": 15
+            "folate_mcg": 15,
+            "thiamin_mg": 0.05,
+            "riboflavin_mg": 0.06,
+            "niacin_mg": 1.61,
+            "vitamin_b6_mg": 0.249,
+            "pantothenic_mg": 0.805,
+            "copper_mg": 0.206,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Fresh Dates (Medjool)",
           "image": "assets/images/brands/produce_dates_fresh.jpg"
@@ -10017,7 +10024,15 @@
             "zinc_mg": 0.2,
             "vitamin_a_mcg": 3.0,
             "vitamin_c_mg": 8.7,
-            "folate_mcg": 20
+            "folate_mcg": 20,
+            "thiamin_mg": 0.031,
+            "riboflavin_mg": 0.073,
+            "niacin_mg": 0.665,
+            "vitamin_b6_mg": 0.367,
+            "pantothenic_mg": 0.334,
+            "copper_mg": 0.078,
+            "vitamin_d_mcg": 0,
+            "biotin_mcg": 1.0
           },
           "name_en": "Banana",
           "image": "assets/images/brands/produce_banana.jpg"
@@ -10041,7 +10056,14 @@
             "zinc_mg": 0.0,
             "vitamin_a_mcg": 3.0,
             "vitamin_c_mg": 4.6,
-            "folate_mcg": 3.0
+            "folate_mcg": 3.0,
+            "thiamin_mg": 0.017,
+            "riboflavin_mg": 0.026,
+            "niacin_mg": 0.091,
+            "vitamin_b6_mg": 0.041,
+            "pantothenic_mg": 0.061,
+            "copper_mg": 0.027,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Apple",
           "image": "assets/images/brands/produce_apple.jpg"
@@ -10065,7 +10087,14 @@
             "zinc_mg": 0.1,
             "vitamin_a_mcg": 11,
             "vitamin_c_mg": 53,
-            "folate_mcg": 30
+            "folate_mcg": 30,
+            "thiamin_mg": 0.087,
+            "riboflavin_mg": 0.04,
+            "niacin_mg": 0.282,
+            "vitamin_b6_mg": 0.06,
+            "pantothenic_mg": 0.25,
+            "copper_mg": 0.045,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Orange",
           "image": "assets/images/brands/produce_orange.jpg"
@@ -10089,7 +10118,14 @@
             "zinc_mg": 0.1,
             "vitamin_a_mcg": 3.0,
             "vitamin_c_mg": 3.2,
-            "folate_mcg": 2.0
+            "folate_mcg": 2.0,
+            "thiamin_mg": 0.069,
+            "riboflavin_mg": 0.07,
+            "niacin_mg": 0.188,
+            "vitamin_b6_mg": 0.086,
+            "pantothenic_mg": 0.05,
+            "copper_mg": 0.127,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Grapes",
           "image": "assets/images/brands/produce_grapes.jpg"
@@ -10113,7 +10149,14 @@
             "zinc_mg": 0.1,
             "vitamin_a_mcg": 54,
             "vitamin_c_mg": 36,
-            "folate_mcg": 43
+            "folate_mcg": 43,
+            "thiamin_mg": 0.028,
+            "riboflavin_mg": 0.038,
+            "niacin_mg": 0.669,
+            "vitamin_b6_mg": 0.119,
+            "pantothenic_mg": 0.197,
+            "copper_mg": 0.111,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Mango",
           "image": "assets/images/brands/produce_mango.jpg"
@@ -10137,7 +10180,14 @@
             "zinc_mg": 0.1,
             "vitamin_a_mcg": 28,
             "vitamin_c_mg": 8.1,
-            "folate_mcg": 3.0
+            "folate_mcg": 3.0,
+            "thiamin_mg": 0.033,
+            "riboflavin_mg": 0.021,
+            "niacin_mg": 0.178,
+            "vitamin_b6_mg": 0.045,
+            "pantothenic_mg": 0.221,
+            "copper_mg": 0.042,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Watermelon",
           "image": "assets/images/brands/produce_watermelon.jpg"
@@ -10161,7 +10211,14 @@
             "zinc_mg": 0.2,
             "vitamin_a_mcg": 169,
             "vitamin_c_mg": 37,
-            "folate_mcg": 21
+            "folate_mcg": 21,
+            "thiamin_mg": 0.041,
+            "riboflavin_mg": 0.019,
+            "niacin_mg": 0.734,
+            "vitamin_b6_mg": 0.072,
+            "pantothenic_mg": 0.105,
+            "copper_mg": 0.041,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Cantaloupe",
           "image": "assets/images/brands/produce_cantaloupe.jpg"
@@ -10185,7 +10242,15 @@
             "zinc_mg": 0.1,
             "vitamin_a_mcg": 1.0,
             "vitamin_c_mg": 59,
-            "folate_mcg": 24
+            "folate_mcg": 24,
+            "thiamin_mg": 0.024,
+            "riboflavin_mg": 0.022,
+            "niacin_mg": 0.386,
+            "vitamin_b6_mg": 0.047,
+            "pantothenic_mg": 0.125,
+            "copper_mg": 0.048,
+            "vitamin_d_mcg": 0,
+            "biotin_mcg": 1.5
           },
           "name_en": "Strawberry",
           "image": "assets/images/brands/produce_strawberry.jpg"
@@ -10208,7 +10273,14 @@
             "iron_mg": 0.3,
             "zinc_mg": 0.4,
             "vitamin_c_mg": 10,
-            "folate_mcg": 38
+            "folate_mcg": 38,
+            "thiamin_mg": 0.067,
+            "riboflavin_mg": 0.053,
+            "niacin_mg": 0.293,
+            "vitamin_b6_mg": 0.075,
+            "pantothenic_mg": 0.377,
+            "copper_mg": 0.158,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Pomegranate",
           "image": "assets/images/brands/produce_pomegranate.jpg"
@@ -10232,7 +10304,14 @@
             "zinc_mg": 0.1,
             "vitamin_a_mcg": 4.0,
             "vitamin_c_mg": 93,
-            "folate_mcg": 25
+            "folate_mcg": 25,
+            "thiamin_mg": 0.027,
+            "riboflavin_mg": 0.025,
+            "niacin_mg": 0.341,
+            "vitamin_b6_mg": 0.063,
+            "pantothenic_mg": 0.183,
+            "copper_mg": 0.13,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Kiwi",
           "image": "assets/images/brands/produce_kiwi.jpg"
@@ -10256,7 +10335,14 @@
             "zinc_mg": 0.1,
             "vitamin_a_mcg": 3.0,
             "vitamin_c_mg": 48,
-            "folate_mcg": 18
+            "folate_mcg": 18,
+            "thiamin_mg": 0.079,
+            "riboflavin_mg": 0.032,
+            "niacin_mg": 0.5,
+            "vitamin_b6_mg": 0.112,
+            "pantothenic_mg": 0.213,
+            "copper_mg": 0.11,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Pineapple",
           "image": "assets/images/brands/produce_pineapple.jpg"
@@ -10280,7 +10366,14 @@
             "zinc_mg": 0.2,
             "vitamin_a_mcg": 16,
             "vitamin_c_mg": 6.6,
-            "folate_mcg": 4.0
+            "folate_mcg": 4.0,
+            "thiamin_mg": 0.024,
+            "riboflavin_mg": 0.031,
+            "niacin_mg": 0.806,
+            "vitamin_b6_mg": 0.025,
+            "pantothenic_mg": 0.153,
+            "copper_mg": 0.068,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Peach",
           "image": "assets/images/brands/produce_peach.jpg"
@@ -10304,7 +10397,14 @@
             "zinc_mg": 0.1,
             "vitamin_a_mcg": 1.0,
             "vitamin_c_mg": 4.3,
-            "folate_mcg": 7.0
+            "folate_mcg": 7.0,
+            "thiamin_mg": 0.012,
+            "riboflavin_mg": 0.026,
+            "niacin_mg": 0.161,
+            "vitamin_b6_mg": 0.029,
+            "pantothenic_mg": 0.049,
+            "copper_mg": 0.082,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Pear",
           "image": "assets/images/brands/produce_pear.jpg"
@@ -10328,7 +10428,14 @@
             "zinc_mg": 0.2,
             "vitamin_a_mcg": 7.0,
             "vitamin_c_mg": 2.0,
-            "folate_mcg": 6.0
+            "folate_mcg": 6.0,
+            "thiamin_mg": 0.06,
+            "riboflavin_mg": 0.05,
+            "niacin_mg": 0.4,
+            "vitamin_b6_mg": 0.113,
+            "pantothenic_mg": 0.3,
+            "copper_mg": 0.07,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Fig",
           "image": "assets/images/brands/produce_fig.jpg"
@@ -10352,7 +10459,14 @@
             "zinc_mg": 0.2,
             "vitamin_a_mcg": 96,
             "vitamin_c_mg": 10,
-            "folate_mcg": 9.0
+            "folate_mcg": 9.0,
+            "thiamin_mg": 0.03,
+            "riboflavin_mg": 0.04,
+            "niacin_mg": 0.6,
+            "vitamin_b6_mg": 0.054,
+            "pantothenic_mg": 0.24,
+            "copper_mg": 0.078,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Apricot",
           "image": "assets/images/brands/produce_apricot.jpg"
@@ -10376,7 +10490,15 @@
             "zinc_mg": 0.6,
             "vitamin_a_mcg": 7.0,
             "vitamin_c_mg": 10,
-            "folate_mcg": 81
+            "folate_mcg": 81,
+            "thiamin_mg": 0.067,
+            "riboflavin_mg": 0.13,
+            "niacin_mg": 1.738,
+            "vitamin_b6_mg": 0.257,
+            "pantothenic_mg": 1.389,
+            "copper_mg": 0.19,
+            "vitamin_d_mcg": 0,
+            "biotin_mcg": 3.6
           },
           "name_en": "Avocado",
           "image": "assets/images/brands/produce_avocado.jpg"
@@ -10400,7 +10522,14 @@
             "zinc_mg": 0.1,
             "vitamin_a_mcg": 1.0,
             "vitamin_c_mg": 53,
-            "folate_mcg": 11
+            "folate_mcg": 11,
+            "thiamin_mg": 0.04,
+            "riboflavin_mg": 0.02,
+            "niacin_mg": 0.1,
+            "vitamin_b6_mg": 0.08,
+            "pantothenic_mg": 0.19,
+            "copper_mg": 0.037,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Lemon",
           "image": "assets/images/brands/produce_lemon.jpg"
@@ -10424,7 +10553,14 @@
             "zinc_mg": 0.2,
             "vitamin_a_mcg": 31,
             "vitamin_c_mg": 228,
-            "folate_mcg": 49
+            "folate_mcg": 49,
+            "thiamin_mg": 0.067,
+            "riboflavin_mg": 0.04,
+            "niacin_mg": 1.084,
+            "vitamin_b6_mg": 0.11,
+            "pantothenic_mg": 0.451,
+            "copper_mg": 0.23,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Guava",
           "image": "assets/images/brands/produce_guava.jpg"
@@ -10448,7 +10584,14 @@
             "zinc_mg": 0.1,
             "vitamin_a_mcg": 47,
             "vitamin_c_mg": 61,
-            "folate_mcg": 37
+            "folate_mcg": 37,
+            "thiamin_mg": 0.023,
+            "riboflavin_mg": 0.027,
+            "niacin_mg": 0.357,
+            "vitamin_b6_mg": 0.038,
+            "pantothenic_mg": 0.191,
+            "copper_mg": 0.045,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Papaya",
           "image": "assets/images/brands/produce_papaya.jpg"
@@ -10472,7 +10615,14 @@
             "zinc_mg": 0.1,
             "vitamin_a_mcg": 17,
             "vitamin_c_mg": 9.5,
-            "folate_mcg": 5.0
+            "folate_mcg": 5.0,
+            "thiamin_mg": 0.028,
+            "riboflavin_mg": 0.026,
+            "niacin_mg": 0.417,
+            "vitamin_b6_mg": 0.029,
+            "pantothenic_mg": 0.135,
+            "copper_mg": 0.057,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Plum",
           "image": "assets/images/brands/produce_plum.jpg"
@@ -10496,7 +10646,15 @@
             "zinc_mg": 0.2,
             "vitamin_a_mcg": 3.0,
             "vitamin_c_mg": 9.7,
-            "folate_mcg": 6.0
+            "folate_mcg": 6.0,
+            "thiamin_mg": 0.037,
+            "riboflavin_mg": 0.041,
+            "niacin_mg": 0.418,
+            "vitamin_b6_mg": 0.052,
+            "pantothenic_mg": 0.124,
+            "copper_mg": 0.057,
+            "vitamin_d_mcg": 0,
+            "biotin_mcg": 0.5
           },
           "name_en": "Blueberries",
           "image": "assets/images/brands/produce_berries_blueberry.jpg"
@@ -10520,7 +10678,14 @@
             "zinc_mg": 0.1,
             "vitamin_a_mcg": 3.0,
             "vitamin_c_mg": 7.0,
-            "folate_mcg": 4.0
+            "folate_mcg": 4.0,
+            "thiamin_mg": 0.027,
+            "riboflavin_mg": 0.033,
+            "niacin_mg": 0.154,
+            "vitamin_b6_mg": 0.049,
+            "pantothenic_mg": 0.199,
+            "copper_mg": 0.06,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Cherry (Sweet)",
           "image": "assets/images/brands/produce_cherry.jpg"
@@ -10544,7 +10709,14 @@
             "zinc_mg": 0.1,
             "vitamin_a_mcg": 34,
             "vitamin_c_mg": 27,
-            "folate_mcg": 16
+            "folate_mcg": 16,
+            "thiamin_mg": 0.058,
+            "riboflavin_mg": 0.036,
+            "niacin_mg": 0.376,
+            "vitamin_b6_mg": 0.078,
+            "pantothenic_mg": 0.216,
+            "copper_mg": 0.042,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Mandarin",
           "image": "assets/images/brands/produce_mandarin.jpg"
@@ -10568,7 +10740,14 @@
             "zinc_mg": 0.1,
             "vitamin_a_mcg": 58,
             "vitamin_c_mg": 31,
-            "folate_mcg": 13
+            "folate_mcg": 13,
+            "thiamin_mg": 0.043,
+            "riboflavin_mg": 0.031,
+            "niacin_mg": 0.204,
+            "vitamin_b6_mg": 0.053,
+            "pantothenic_mg": 0.262,
+            "copper_mg": 0.032,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Grapefruit",
           "image": "assets/images/brands/produce_grapefruit.jpg"
@@ -10601,7 +10780,14 @@
             "zinc_mg": 0.2,
             "vitamin_a_mcg": 42,
             "vitamin_c_mg": 14,
-            "folate_mcg": 15
+            "folate_mcg": 15,
+            "thiamin_mg": 0.037,
+            "riboflavin_mg": 0.019,
+            "niacin_mg": 0.594,
+            "vitamin_b6_mg": 0.08,
+            "pantothenic_mg": 0.089,
+            "copper_mg": 0.059,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Tomato",
           "image": "assets/images/brands/produce_tomato.jpg"
@@ -10625,7 +10811,14 @@
             "zinc_mg": 0.2,
             "vitamin_a_mcg": 5.0,
             "vitamin_c_mg": 2.8,
-            "folate_mcg": 7.0
+            "folate_mcg": 7.0,
+            "thiamin_mg": 0.027,
+            "riboflavin_mg": 0.033,
+            "niacin_mg": 0.098,
+            "vitamin_b6_mg": 0.04,
+            "pantothenic_mg": 0.259,
+            "copper_mg": 0.041,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Cucumber",
           "image": "assets/images/brands/produce_cucumber.jpg"
@@ -10649,7 +10842,14 @@
             "zinc_mg": 0.2,
             "vitamin_a_mcg": 0.0,
             "vitamin_c_mg": 7.4,
-            "folate_mcg": 19
+            "folate_mcg": 19,
+            "thiamin_mg": 0.046,
+            "riboflavin_mg": 0.027,
+            "niacin_mg": 0.116,
+            "vitamin_b6_mg": 0.12,
+            "pantothenic_mg": 0.123,
+            "copper_mg": 0.039,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Onion",
           "image": "assets/images/brands/produce_onion.jpg"
@@ -10673,7 +10873,14 @@
             "zinc_mg": 1.2,
             "vitamin_a_mcg": 0.0,
             "vitamin_c_mg": 31,
-            "folate_mcg": 3.0
+            "folate_mcg": 3.0,
+            "thiamin_mg": 0.2,
+            "riboflavin_mg": 0.11,
+            "niacin_mg": 0.7,
+            "vitamin_b6_mg": 1.235,
+            "pantothenic_mg": 0.596,
+            "copper_mg": 0.299,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Garlic",
           "image": "assets/images/brands/produce_garlic.jpg"
@@ -10697,7 +10904,14 @@
             "zinc_mg": 0.2,
             "vitamin_a_mcg": 835,
             "vitamin_c_mg": 5.9,
-            "folate_mcg": 19
+            "folate_mcg": 19,
+            "thiamin_mg": 0.066,
+            "riboflavin_mg": 0.058,
+            "niacin_mg": 0.983,
+            "vitamin_b6_mg": 0.138,
+            "pantothenic_mg": 0.273,
+            "copper_mg": 0.045,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Carrot",
           "image": "assets/images/brands/produce_carrot.jpg"
@@ -10721,7 +10935,14 @@
             "zinc_mg": 0.3,
             "vitamin_a_mcg": 0.0,
             "vitamin_c_mg": 20,
-            "folate_mcg": 15
+            "folate_mcg": 15,
+            "thiamin_mg": 0.081,
+            "riboflavin_mg": 0.032,
+            "niacin_mg": 1.061,
+            "vitamin_b6_mg": 0.298,
+            "pantothenic_mg": 0.296,
+            "copper_mg": 0.11,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Potato",
           "image": "assets/images/brands/produce_potato.jpg"
@@ -10745,7 +10966,14 @@
             "zinc_mg": 0.3,
             "vitamin_a_mcg": 709,
             "vitamin_c_mg": 2.4,
-            "folate_mcg": 11
+            "folate_mcg": 11,
+            "thiamin_mg": 0.078,
+            "riboflavin_mg": 0.061,
+            "niacin_mg": 0.557,
+            "vitamin_b6_mg": 0.209,
+            "pantothenic_mg": 0.8,
+            "copper_mg": 0.151,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Sweet Potato",
           "image": "assets/images/brands/produce_sweet_potato.jpg"
@@ -10769,7 +10997,14 @@
             "zinc_mg": 0.2,
             "vitamin_a_mcg": 1.0,
             "vitamin_c_mg": 2.2,
-            "folate_mcg": 22
+            "folate_mcg": 22,
+            "thiamin_mg": 0.039,
+            "riboflavin_mg": 0.037,
+            "niacin_mg": 0.649,
+            "vitamin_b6_mg": 0.084,
+            "pantothenic_mg": 0.281,
+            "copper_mg": 0.081,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Eggplant",
           "image": "assets/images/brands/produce_eggplant.jpg"
@@ -10793,7 +11028,14 @@
             "zinc_mg": 0.3,
             "vitamin_a_mcg": 10,
             "vitamin_c_mg": 18,
-            "folate_mcg": 24
+            "folate_mcg": 24,
+            "thiamin_mg": 0.045,
+            "riboflavin_mg": 0.094,
+            "niacin_mg": 0.451,
+            "vitamin_b6_mg": 0.163,
+            "pantothenic_mg": 0.204,
+            "copper_mg": 0.054,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Zucchini",
           "image": "assets/images/brands/produce_zucchini.jpg"
@@ -10817,7 +11059,14 @@
             "zinc_mg": 0.3,
             "vitamin_a_mcg": 157,
             "vitamin_c_mg": 128,
-            "folate_mcg": 46
+            "folate_mcg": 46,
+            "thiamin_mg": 0.054,
+            "riboflavin_mg": 0.085,
+            "niacin_mg": 0.979,
+            "vitamin_b6_mg": 0.291,
+            "pantothenic_mg": 0.317,
+            "copper_mg": 0.017,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Bell Pepper (Red)",
           "image": "assets/images/brands/produce_bell_pepper.jpg"
@@ -10841,7 +11090,14 @@
             "zinc_mg": 0.2,
             "vitamin_a_mcg": 436,
             "vitamin_c_mg": 4.0,
-            "folate_mcg": 136
+            "folate_mcg": 136,
+            "thiamin_mg": 0.072,
+            "riboflavin_mg": 0.067,
+            "niacin_mg": 0.313,
+            "vitamin_b6_mg": 0.074,
+            "pantothenic_mg": 0.142,
+            "copper_mg": 0.048,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Lettuce (Romaine)",
           "image": "assets/images/brands/produce_lettuce.jpg"
@@ -10865,7 +11121,14 @@
             "zinc_mg": 0.5,
             "vitamin_a_mcg": 469,
             "vitamin_c_mg": 28,
-            "folate_mcg": 194
+            "folate_mcg": 194,
+            "thiamin_mg": 0.078,
+            "riboflavin_mg": 0.189,
+            "niacin_mg": 0.724,
+            "vitamin_b6_mg": 0.195,
+            "pantothenic_mg": 0.065,
+            "copper_mg": 0.13,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Spinach",
           "image": "assets/images/brands/produce_spinach.jpg"
@@ -10889,7 +11152,14 @@
             "zinc_mg": 0.5,
             "vitamin_a_mcg": 119,
             "vitamin_c_mg": 15,
-            "folate_mcg": 97
+            "folate_mcg": 97,
+            "thiamin_mg": 0.044,
+            "riboflavin_mg": 0.086,
+            "niacin_mg": 0.305,
+            "vitamin_b6_mg": 0.073,
+            "pantothenic_mg": 0.437,
+            "copper_mg": 0.076,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Arugula",
           "image": "assets/images/brands/produce_arugula.jpg"
@@ -10913,7 +11183,14 @@
             "zinc_mg": 1.1,
             "vitamin_a_mcg": 421,
             "vitamin_c_mg": 133,
-            "folate_mcg": 152
+            "folate_mcg": 152,
+            "thiamin_mg": 0.086,
+            "riboflavin_mg": 0.098,
+            "niacin_mg": 1.313,
+            "vitamin_b6_mg": 0.09,
+            "pantothenic_mg": 0.4,
+            "copper_mg": 0.149,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Parsley",
           "image": "assets/images/brands/produce_parsley.jpg"
@@ -10937,7 +11214,14 @@
             "zinc_mg": 0.5,
             "vitamin_a_mcg": 337,
             "vitamin_c_mg": 27,
-            "folate_mcg": 62
+            "folate_mcg": 62,
+            "thiamin_mg": 0.067,
+            "riboflavin_mg": 0.162,
+            "niacin_mg": 1.114,
+            "vitamin_b6_mg": 0.149,
+            "pantothenic_mg": 0.57,
+            "copper_mg": 0.225,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Coriander (Cilantro)",
           "image": "assets/images/brands/produce_coriander.jpg"
@@ -10961,7 +11245,14 @@
             "zinc_mg": 0.2,
             "vitamin_a_mcg": 5.0,
             "vitamin_c_mg": 37,
-            "folate_mcg": 43
+            "folate_mcg": 43,
+            "thiamin_mg": 0.061,
+            "riboflavin_mg": 0.04,
+            "niacin_mg": 0.234,
+            "vitamin_b6_mg": 0.124,
+            "pantothenic_mg": 0.212,
+            "copper_mg": 0.019,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Cabbage",
           "image": "assets/images/brands/produce_cabbage.jpg"
@@ -10985,7 +11276,14 @@
             "zinc_mg": 0.3,
             "vitamin_a_mcg": 0.0,
             "vitamin_c_mg": 48,
-            "folate_mcg": 57
+            "folate_mcg": 57,
+            "thiamin_mg": 0.05,
+            "riboflavin_mg": 0.06,
+            "niacin_mg": 0.507,
+            "vitamin_b6_mg": 0.184,
+            "pantothenic_mg": 0.667,
+            "copper_mg": 0.039,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Cauliflower",
           "image": "assets/images/brands/produce_cauliflower.jpg"
@@ -11009,7 +11307,14 @@
             "zinc_mg": 0.4,
             "vitamin_a_mcg": 31,
             "vitamin_c_mg": 89,
-            "folate_mcg": 63
+            "folate_mcg": 63,
+            "thiamin_mg": 0.071,
+            "riboflavin_mg": 0.117,
+            "niacin_mg": 0.639,
+            "vitamin_b6_mg": 0.175,
+            "pantothenic_mg": 0.573,
+            "copper_mg": 0.049,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Broccoli",
           "image": "assets/images/brands/produce_broccoli.jpg"
@@ -11033,7 +11338,14 @@
             "zinc_mg": 0.2,
             "vitamin_a_mcg": 35,
             "vitamin_c_mg": 12,
-            "folate_mcg": 33
+            "folate_mcg": 33,
+            "thiamin_mg": 0.082,
+            "riboflavin_mg": 0.104,
+            "niacin_mg": 0.734,
+            "vitamin_b6_mg": 0.141,
+            "pantothenic_mg": 0.225,
+            "copper_mg": 0.069,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Green Beans",
           "image": "assets/images/brands/produce_green_beans.jpg"
@@ -11057,7 +11369,14 @@
             "zinc_mg": 1.2,
             "vitamin_a_mcg": 38,
             "vitamin_c_mg": 40,
-            "folate_mcg": 65
+            "folate_mcg": 65,
+            "thiamin_mg": 0.266,
+            "riboflavin_mg": 0.132,
+            "niacin_mg": 2.09,
+            "vitamin_b6_mg": 0.169,
+            "pantothenic_mg": 0.104,
+            "copper_mg": 0.176,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Green Peas",
           "image": "assets/images/brands/produce_peas.jpg"
@@ -11081,7 +11400,14 @@
             "zinc_mg": 0.5,
             "vitamin_a_mcg": 9.0,
             "vitamin_c_mg": 6.8,
-            "folate_mcg": 42
+            "folate_mcg": 42,
+            "thiamin_mg": 0.155,
+            "riboflavin_mg": 0.055,
+            "niacin_mg": 1.77,
+            "vitamin_b6_mg": 0.093,
+            "pantothenic_mg": 0.717,
+            "copper_mg": 0.054,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Sweet Corn",
           "image": "assets/images/brands/produce_corn.jpg"
@@ -11105,7 +11431,14 @@
             "zinc_mg": 0.3,
             "vitamin_a_mcg": 0.0,
             "vitamin_c_mg": 15,
-            "folate_mcg": 25
+            "folate_mcg": 25,
+            "thiamin_mg": 0.012,
+            "riboflavin_mg": 0.039,
+            "niacin_mg": 0.254,
+            "vitamin_b6_mg": 0.071,
+            "pantothenic_mg": 0.165,
+            "copper_mg": 0.05,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Radish",
           "image": "assets/images/brands/produce_radish.jpg"
@@ -11129,7 +11462,14 @@
             "zinc_mg": 0.4,
             "vitamin_a_mcg": 2.0,
             "vitamin_c_mg": 4.9,
-            "folate_mcg": 109
+            "folate_mcg": 109,
+            "thiamin_mg": 0.031,
+            "riboflavin_mg": 0.04,
+            "niacin_mg": 0.334,
+            "vitamin_b6_mg": 0.067,
+            "pantothenic_mg": 0.155,
+            "copper_mg": 0.075,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Beetroot",
           "image": "assets/images/brands/produce_beetroot.jpg"
@@ -11153,7 +11493,14 @@
             "zinc_mg": 0.6,
             "vitamin_a_mcg": 36,
             "vitamin_c_mg": 23,
-            "folate_mcg": 60
+            "folate_mcg": 60,
+            "thiamin_mg": 0.2,
+            "riboflavin_mg": 0.06,
+            "niacin_mg": 1.0,
+            "vitamin_b6_mg": 0.215,
+            "pantothenic_mg": 0.245,
+            "copper_mg": 0.109,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Okra",
           "image": "assets/images/brands/produce_okra.jpg"
@@ -11177,7 +11524,14 @@
             "zinc_mg": 0.3,
             "vitamin_a_mcg": 426,
             "vitamin_c_mg": 9.0,
-            "folate_mcg": 16
+            "folate_mcg": 16,
+            "thiamin_mg": 0.05,
+            "riboflavin_mg": 0.11,
+            "niacin_mg": 0.6,
+            "vitamin_b6_mg": 0.061,
+            "pantothenic_mg": 0.298,
+            "copper_mg": 0.127,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Pumpkin",
           "image": "assets/images/brands/produce_pumpkin.jpg"
@@ -11201,7 +11555,14 @@
             "zinc_mg": 0.5,
             "vitamin_a_mcg": 0.0,
             "vitamin_c_mg": 2.1,
-            "folate_mcg": 17
+            "folate_mcg": 17,
+            "thiamin_mg": 0.081,
+            "riboflavin_mg": 0.402,
+            "niacin_mg": 3.607,
+            "vitamin_b6_mg": 0.104,
+            "pantothenic_mg": 1.497,
+            "copper_mg": 0.318,
+            "vitamin_d_mcg": 0.2
           },
           "name_en": "Mushroom (White)",
           "image": "assets/images/brands/produce_mushroom.jpg"
@@ -11225,7 +11586,14 @@
             "zinc_mg": 0.1,
             "vitamin_a_mcg": 22,
             "vitamin_c_mg": 3.1,
-            "folate_mcg": 36
+            "folate_mcg": 36,
+            "thiamin_mg": 0.021,
+            "riboflavin_mg": 0.057,
+            "niacin_mg": 0.32,
+            "vitamin_b6_mg": 0.074,
+            "pantothenic_mg": 0.246,
+            "copper_mg": 0.035,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Celery",
           "image": "assets/images/brands/produce_celery.jpg"
@@ -11249,7 +11617,14 @@
             "zinc_mg": 0.3,
             "vitamin_a_mcg": 0.0,
             "vitamin_c_mg": 21,
-            "folate_mcg": 15
+            "folate_mcg": 15,
+            "thiamin_mg": 0.04,
+            "riboflavin_mg": 0.03,
+            "niacin_mg": 0.4,
+            "vitamin_b6_mg": 0.09,
+            "pantothenic_mg": 0.2,
+            "copper_mg": 0.085,
+            "vitamin_d_mcg": 0
           },
           "name_en": "Turnip",
           "image": "assets/images/brands/produce_turnip.jpg"
@@ -11282,7 +11657,14 @@
             "iron_mg": 0.9,
             "zinc_mg": 0.3,
             "vitamin_c_mg": 0.0,
-            "folate_mcg": 13
+            "folate_mcg": 13,
+            "thiamin_mg": 0.05,
+            "riboflavin_mg": 0.06,
+            "niacin_mg": 1.3,
+            "vitamin_b6_mg": 0.17,
+            "pantothenic_mg": 0.6,
+            "copper_mg": 0.21,
+            "vitamin_d_mcg": 0
           }
         },
         {
@@ -11304,7 +11686,14 @@
             "iron_mg": 1.0,
             "zinc_mg": 0.4,
             "vitamin_c_mg": 0.0,
-            "folate_mcg": 17
+            "folate_mcg": 17,
+            "thiamin_mg": 0.052,
+            "riboflavin_mg": 0.063,
+            "niacin_mg": 1.45,
+            "vitamin_b6_mg": 0.21,
+            "pantothenic_mg": 0.7,
+            "copper_mg": 0.29,
+            "vitamin_d_mcg": 0
           }
         },
         {
@@ -11326,7 +11715,14 @@
             "iron_mg": 1.1,
             "zinc_mg": 0.4,
             "vitamin_c_mg": 0.0,
-            "folate_mcg": 18
+            "folate_mcg": 18,
+            "thiamin_mg": 0.052,
+            "riboflavin_mg": 0.064,
+            "niacin_mg": 1.45,
+            "vitamin_b6_mg": 0.21,
+            "pantothenic_mg": 0.7,
+            "copper_mg": 0.29,
+            "vitamin_d_mcg": 0
           }
         },
         {
@@ -11348,7 +11744,14 @@
             "iron_mg": 1.0,
             "zinc_mg": 0.4,
             "vitamin_c_mg": 0.0,
-            "folate_mcg": 15
+            "folate_mcg": 15,
+            "thiamin_mg": 0.05,
+            "riboflavin_mg": 0.062,
+            "niacin_mg": 1.35,
+            "vitamin_b6_mg": 0.18,
+            "pantothenic_mg": 0.62,
+            "copper_mg": 0.24,
+            "vitamin_d_mcg": 0
           }
         },
         {
@@ -11370,7 +11773,14 @@
             "iron_mg": 1.2,
             "zinc_mg": 0.5,
             "vitamin_c_mg": 0.0,
-            "folate_mcg": 20
+            "folate_mcg": 20,
+            "thiamin_mg": 0.05,
+            "riboflavin_mg": 0.06,
+            "niacin_mg": 1.6,
+            "vitamin_b6_mg": 0.249,
+            "pantothenic_mg": 0.805,
+            "copper_mg": 0.362,
+            "vitamin_d_mcg": 0
           }
         },
         {
@@ -11392,7 +11802,14 @@
             "iron_mg": 1.0,
             "zinc_mg": 0.4,
             "vitamin_c_mg": 0.0,
-            "folate_mcg": 18
+            "folate_mcg": 18,
+            "thiamin_mg": 0.05,
+            "riboflavin_mg": 0.06,
+            "niacin_mg": 1.55,
+            "vitamin_b6_mg": 0.24,
+            "pantothenic_mg": 0.78,
+            "copper_mg": 0.34,
+            "vitamin_d_mcg": 0
           }
         }
       ]
