@@ -109,7 +109,8 @@
           "zinc_mg": 0.2,
           "sodium_mg": 200,
           "vitamin_c_mg": 5,
-          "folate_mcg": 19
+          "folate_mcg": 19,
+          "vitamin_e_mg": 2.1
          }
         },
         {
@@ -128,7 +129,8 @@
           "iron_mg": 2.9,
           "zinc_mg": 1.5,
           "sodium_mg": 180,
-          "folate_mcg": 172
+          "folate_mcg": 172,
+          "vitamin_e_mg": 1.7
          }
         },
         {
@@ -148,7 +150,8 @@
           "zinc_mg": 0.2,
           "sodium_mg": 200,
           "vitamin_c_mg": 5,
-          "folate_mcg": 19
+          "folate_mcg": 19,
+          "vitamin_e_mg": 2.0
          }
         }
        ]
@@ -177,7 +180,8 @@
         "thiamin_mg": 0.045,
         "riboflavin_mg": 0.067,
         "niacin_mg": 1.0,
-        "vitamin_b6_mg": 0.13
+        "vitamin_b6_mg": 0.13,
+        "vitamin_e_mg": 0.7
        }
       },
       {
@@ -197,7 +201,8 @@
         "calcium_mg": 0,
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
-        "sodium_mg": 0
+        "sodium_mg": 0,
+        "vitamin_e_mg": 17.0
        }
       }
      ]
@@ -303,7 +308,8 @@
           "zinc_mg": 0.2,
           "sodium_mg": 200,
           "vitamin_c_mg": 5,
-          "folate_mcg": 19
+          "folate_mcg": 19,
+          "vitamin_e_mg": 2.1
          }
         },
         {
@@ -322,7 +328,8 @@
           "iron_mg": 2.9,
           "zinc_mg": 1.5,
           "sodium_mg": 180,
-          "folate_mcg": 172
+          "folate_mcg": 172,
+          "vitamin_e_mg": 1.7
          }
         },
         {
@@ -342,7 +349,8 @@
           "zinc_mg": 0.2,
           "sodium_mg": 200,
           "vitamin_c_mg": 5,
-          "folate_mcg": 19
+          "folate_mcg": 19,
+          "vitamin_e_mg": 2.0
          }
         }
        ]
@@ -371,7 +379,8 @@
         "thiamin_mg": 0.045,
         "riboflavin_mg": 0.067,
         "niacin_mg": 1.0,
-        "vitamin_b6_mg": 0.13
+        "vitamin_b6_mg": 0.13,
+        "vitamin_e_mg": 0.7
        }
       },
       {
@@ -391,7 +400,8 @@
         "calcium_mg": 0,
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
-        "sodium_mg": 0
+        "sodium_mg": 0,
+        "vitamin_e_mg": 17.0
        }
       }
      ]
@@ -480,7 +490,8 @@
         "thiamin_mg": 0.045,
         "riboflavin_mg": 0.067,
         "niacin_mg": 1.0,
-        "vitamin_b6_mg": 0.13
+        "vitamin_b6_mg": 0.13,
+        "vitamin_e_mg": 0.7
        }
       },
       {
@@ -526,7 +537,8 @@
           "zinc_mg": 0.2,
           "sodium_mg": 200,
           "vitamin_c_mg": 5,
-          "folate_mcg": 19
+          "folate_mcg": 19,
+          "vitamin_e_mg": 2.1
          }
         },
         {
@@ -545,7 +557,8 @@
           "iron_mg": 2.9,
           "zinc_mg": 1.5,
           "sodium_mg": 180,
-          "folate_mcg": 172
+          "folate_mcg": 172,
+          "vitamin_e_mg": 1.7
          }
         },
         {
@@ -565,7 +578,8 @@
           "zinc_mg": 0.2,
           "sodium_mg": 200,
           "vitamin_c_mg": 5,
-          "folate_mcg": 19
+          "folate_mcg": 19,
+          "vitamin_e_mg": 2.0
          }
         }
        ]
@@ -587,7 +601,8 @@
         "calcium_mg": 0,
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
-        "sodium_mg": 0
+        "sodium_mg": 0,
+        "vitamin_e_mg": 17.0
        }
       }
      ]
@@ -650,7 +665,8 @@
         "vitamin_b6_mg": 0.1,
         "saturated_fat_g": 0.2,
         "copper_mg": 0.06,
-        "pantothenic_mg": 0.2
+        "pantothenic_mg": 0.2,
+        "vitamin_e_mg": 1.0
        }
       },
       {
@@ -702,7 +718,8 @@
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
         "sodium_mg": 0,
-        "saturated_fat_g": 11.0
+        "saturated_fat_g": 11.0,
+        "vitamin_e_mg": 17.0
        }
       }
      ]
@@ -800,7 +817,8 @@
         "vitamin_b6_mg": 0.1,
         "saturated_fat_g": 0.2,
         "copper_mg": 0.06,
-        "pantothenic_mg": 0.2
+        "pantothenic_mg": 0.2,
+        "vitamin_e_mg": 0.7
        }
       },
       {
@@ -821,7 +839,8 @@
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
         "sodium_mg": 0,
-        "saturated_fat_g": 11.0
+        "saturated_fat_g": 11.0,
+        "vitamin_e_mg": 17.0
        }
       }
      ]
@@ -884,7 +903,8 @@
         "saturated_fat_g": 62.0,
         "cholesterol_mg": 256,
         "vitamin_a_mcg": 840,
-        "vitamin_d_mcg": 1.8
+        "vitamin_d_mcg": 1.8,
+        "vitamin_e_mg": 3.0
        }
       }
      ]
@@ -973,7 +993,8 @@
           "saturated_fat_g": 1.3,
           "copper_mg": 0.04,
           "vitamin_b6_mg": 0.1,
-          "pantothenic_mg": 0.1
+          "pantothenic_mg": 0.1,
+          "vitamin_e_mg": 2.1
          }
         },
         {
@@ -1000,7 +1021,8 @@
           "riboflavin_mg": 0.05,
           "niacin_mg": 0.4,
           "vitamin_b6_mg": 0.18,
-          "pantothenic_mg": 0.3
+          "pantothenic_mg": 0.3,
+          "vitamin_e_mg": 1.7
          }
         },
         {
@@ -1025,7 +1047,8 @@
           "copper_mg": 0.05,
           "vitamin_a_mcg": 40.0,
           "vitamin_b6_mg": 0.11,
-          "pantothenic_mg": 0.15
+          "pantothenic_mg": 0.15,
+          "vitamin_e_mg": 2.0
          }
         }
        ]
@@ -1092,7 +1115,8 @@
         "copper_mg": 0.16,
         "vitamin_c_mg": 1.0,
         "pantothenic_mg": 0.41,
-        "biotin_mcg": 1.7
+        "biotin_mcg": 1.7,
+        "vitamin_e_mg": 0.3
        }
       },
       {
@@ -1153,7 +1177,8 @@
         "vitamin_b6_mg": 0.1,
         "saturated_fat_g": 1.3,
         "copper_mg": 0.04,
-        "pantothenic_mg": 0.1
+        "pantothenic_mg": 0.1,
+        "vitamin_e_mg": 1.8
        }
       },
       {
@@ -1174,7 +1199,8 @@
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
         "sodium_mg": 0,
-        "saturated_fat_g": 11.0
+        "saturated_fat_g": 11.0,
+        "vitamin_e_mg": 17.0
        }
       }
      ]
@@ -1239,7 +1265,8 @@
         "copper_mg": 0.16,
         "vitamin_c_mg": 1.0,
         "pantothenic_mg": 0.41,
-        "biotin_mcg": 1.7
+        "biotin_mcg": 1.7,
+        "vitamin_e_mg": 0.15
        }
       },
       {
@@ -1300,7 +1327,8 @@
         "vitamin_b6_mg": 0.1,
         "saturated_fat_g": 1.3,
         "copper_mg": 0.04,
-        "pantothenic_mg": 0.1
+        "pantothenic_mg": 0.1,
+        "vitamin_e_mg": 2.0
        }
       },
       {
@@ -1320,7 +1348,8 @@
         "calcium_mg": 0,
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
-        "sodium_mg": 0
+        "sodium_mg": 0,
+        "vitamin_e_mg": 17.0
        }
       }
      ]
@@ -1414,7 +1443,8 @@
         "niacin_mg": 0.5,
         "vitamin_b6_mg": 0.1,
         "saturated_fat_g": 1.5,
-        "copper_mg": 0.05
+        "copper_mg": 0.05,
+        "vitamin_e_mg": 2.0
        }
       },
       {
@@ -1434,7 +1464,8 @@
         "calcium_mg": 0,
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
-        "sodium_mg": 0
+        "sodium_mg": 0,
+        "vitamin_e_mg": 17.0
        }
       }
      ]
@@ -1497,7 +1528,8 @@
         "vitamin_b6_mg": 0.067,
         "copper_mg": 0.16,
         "pantothenic_mg": 0.41,
-        "vitamin_c_mg": 1.0
+        "vitamin_c_mg": 1.0,
+        "vitamin_e_mg": 0.15
        }
       },
       {
@@ -1557,7 +1589,8 @@
         "niacin_mg": 0.5,
         "vitamin_b6_mg": 0.1,
         "saturated_fat_g": 1.5,
-        "copper_mg": 0.05
+        "copper_mg": 0.05,
+        "vitamin_e_mg": 2.0
        }
       },
       {
@@ -1577,7 +1610,8 @@
         "calcium_mg": 0,
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
-        "sodium_mg": 0
+        "sodium_mg": 0,
+        "vitamin_e_mg": 17.0
        }
       }
      ]
@@ -1641,7 +1675,8 @@
         "calcium_mg": 55.0,
         "zinc_mg": 0.4,
         "copper_mg": 0.08,
-        "folate_mcg": 45.0
+        "folate_mcg": 45.0,
+        "vitamin_e_mg": 0.6
        }
       },
       {
@@ -1741,7 +1776,8 @@
         "vitamin_a_mcg": 30.0,
         "vitamin_c_mg": 7.0,
         "folate_mcg": 12.0,
-        "pantothenic_mg": 0.7
+        "pantothenic_mg": 0.7,
+        "vitamin_e_mg": 1.0
        }
       }
      ]
@@ -1804,7 +1840,8 @@
         "copper_mg": 0.18,
         "folate_mcg": 110,
         "pantothenic_mg": 0.5,
-        "vitamin_c_mg": 2.0
+        "vitamin_c_mg": 2.0,
+        "vitamin_e_mg": 0.4
        }
       }
      ]
@@ -1841,7 +1878,8 @@
         "folate_mcg": 80.0,
         "pantothenic_mg": 0.4,
         "vitamin_a_mcg": 10.0,
-        "vitamin_c_mg": 1.0
+        "vitamin_c_mg": 1.0,
+        "vitamin_e_mg": 0.4
        }
       }
      ]
@@ -1878,12 +1916,14 @@
         "copper_mg": 0.15,
         "vitamin_a_mcg": 60.0,
         "vitamin_c_mg": 6.0,
-        "folate_mcg": 75.0
+        "folate_mcg": 75.0,
+        "vitamin_e_mg": 0.8
        }
       }
      ]
     }
-   ]
+   ],
+   "emoji": "🇰🇼"
   },
   {
    "key": "gulf",
@@ -1982,7 +2022,8 @@
         "niacin_mg": 1.0,
         "vitamin_b6_mg": 0.13,
         "copper_mg": 0.06,
-        "pantothenic_mg": 0.2
+        "pantothenic_mg": 0.2,
+        "vitamin_e_mg": 1.2
        }
       },
       {
@@ -2030,7 +2071,8 @@
           "vitamin_c_mg": 5,
           "folate_mcg": 19,
           "saturated_fat_g": 1.8,
-          "vitamin_b6_mg": 0.1
+          "vitamin_b6_mg": 0.1,
+          "vitamin_e_mg": 2.0
          }
         },
         {
@@ -2053,7 +2095,8 @@
           "saturated_fat_g": 1.3,
           "copper_mg": 0.15,
           "vitamin_c_mg": 3.0,
-          "vitamin_b6_mg": 0.12
+          "vitamin_b6_mg": 0.12,
+          "vitamin_e_mg": 2.0
          }
         },
         {
@@ -2076,7 +2119,8 @@
           "folate_mcg": 19,
           "saturated_fat_g": 1.5,
           "vitamin_a_mcg": 35.0,
-          "vitamin_b6_mg": 0.1
+          "vitamin_b6_mg": 0.1,
+          "vitamin_e_mg": 2.0
          }
         }
        ]
@@ -2098,7 +2142,8 @@
         "calcium_mg": 0,
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
-        "sodium_mg": 0
+        "sodium_mg": 0,
+        "vitamin_e_mg": 17.0
        }
       }
      ]
@@ -2191,7 +2236,8 @@
         "riboflavin_mg": 0.067,
         "niacin_mg": 1.0,
         "vitamin_b6_mg": 0.13,
-        "saturated_fat_g": 0.1
+        "saturated_fat_g": 0.1,
+        "vitamin_e_mg": 1.2
        }
       },
       {
@@ -2239,7 +2285,8 @@
           "vitamin_c_mg": 5,
           "folate_mcg": 19,
           "saturated_fat_g": 1.8,
-          "vitamin_b6_mg": 0.1
+          "vitamin_b6_mg": 0.1,
+          "vitamin_e_mg": 2.0
          }
         },
         {
@@ -2262,7 +2309,8 @@
           "saturated_fat_g": 1.3,
           "copper_mg": 0.15,
           "vitamin_c_mg": 3.0,
-          "vitamin_b6_mg": 0.12
+          "vitamin_b6_mg": 0.12,
+          "vitamin_e_mg": 2.0
          }
         },
         {
@@ -2285,7 +2333,8 @@
           "folate_mcg": 19,
           "saturated_fat_g": 1.5,
           "vitamin_a_mcg": 35.0,
-          "vitamin_b6_mg": 0.1
+          "vitamin_b6_mg": 0.1,
+          "vitamin_e_mg": 2.0
          }
         }
        ]
@@ -2307,7 +2356,8 @@
         "calcium_mg": 0,
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
-        "sodium_mg": 0
+        "sodium_mg": 0,
+        "vitamin_e_mg": 17.0
        }
       }
      ]
@@ -2401,7 +2451,8 @@
         "riboflavin_mg": 0.067,
         "niacin_mg": 1.0,
         "vitamin_b6_mg": 0.13,
-        "saturated_fat_g": 0.1
+        "saturated_fat_g": 0.1,
+        "vitamin_e_mg": 1.2
        }
       },
       {
@@ -2425,7 +2476,8 @@
         "saturated_fat_g": 62.0,
         "cholesterol_mg": 256,
         "vitamin_a_mcg": 840,
-        "vitamin_d_mcg": 1.8
+        "vitamin_d_mcg": 1.8,
+        "vitamin_e_mg": 5.0
        }
       }
      ]
@@ -2518,7 +2570,8 @@
         "riboflavin_mg": 0.067,
         "niacin_mg": 1.0,
         "vitamin_b6_mg": 0.13,
-        "saturated_fat_g": 0.1
+        "saturated_fat_g": 0.1,
+        "vitamin_e_mg": 0.7
        }
       },
       {
@@ -2542,7 +2595,8 @@
         "saturated_fat_g": 62.0,
         "cholesterol_mg": 256,
         "vitamin_a_mcg": 840,
-        "vitamin_d_mcg": 1.8
+        "vitamin_d_mcg": 1.8,
+        "vitamin_e_mg": 5.0
        }
       }
      ]
@@ -2636,7 +2690,8 @@
         "riboflavin_mg": 0.067,
         "niacin_mg": 1.0,
         "vitamin_b6_mg": 0.13,
-        "saturated_fat_g": 0.1
+        "saturated_fat_g": 0.1,
+        "vitamin_e_mg": 0.7
        }
       },
       {
@@ -2660,7 +2715,8 @@
         "saturated_fat_g": 62.0,
         "cholesterol_mg": 256,
         "vitamin_a_mcg": 840,
-        "vitamin_d_mcg": 1.5
+        "vitamin_d_mcg": 1.5,
+        "vitamin_e_mg": 5.0
        }
       }
      ]
@@ -2754,7 +2810,8 @@
         "riboflavin_mg": 0.067,
         "niacin_mg": 1.0,
         "vitamin_b6_mg": 0.13,
-        "copper_mg": 0.1
+        "copper_mg": 0.1,
+        "vitamin_e_mg": 0.7
        }
       },
       {
@@ -2778,7 +2835,8 @@
         "saturated_fat_g": 62.0,
         "cholesterol_mg": 256,
         "vitamin_a_mcg": 840,
-        "vitamin_d_mcg": 1.5
+        "vitamin_d_mcg": 1.5,
+        "vitamin_e_mg": 5.0
        }
       }
      ]
@@ -2814,7 +2872,8 @@
         "riboflavin_mg": 0.05,
         "niacin_mg": 0.5,
         "vitamin_b6_mg": 0.1,
-        "copper_mg": 0.08
+        "copper_mg": 0.08,
+        "vitamin_e_mg": 0.5
        }
       },
       {
@@ -2910,7 +2969,8 @@
         "vitamin_d_mcg": 0.01,
         "copper_mg": 0.07,
         "vitamin_a_mcg": 50.0,
-        "vitamin_c_mg": 8.0
+        "vitamin_c_mg": 8.0,
+        "vitamin_e_mg": 0.4
        }
       },
       {
@@ -3077,7 +3137,8 @@
         "saturated_fat_g": 62.0,
         "cholesterol_mg": 256,
         "vitamin_a_mcg": 840,
-        "vitamin_d_mcg": 1.5
+        "vitamin_d_mcg": 1.5,
+        "vitamin_e_mg": 2.8
        }
       }
      ]
@@ -3112,7 +3173,8 @@
         "zinc_mg": 0.5,
         "copper_mg": 0.08,
         "folate_mcg": 45.0,
-        "saturated_fat_g": 1.5
+        "saturated_fat_g": 1.5,
+        "vitamin_e_mg": 0.7
        }
       },
       {
@@ -3174,7 +3236,8 @@
         "zinc_mg": 0.5,
         "copper_mg": 0.08,
         "folate_mcg": 45.0,
-        "saturated_fat_g": 1.5
+        "saturated_fat_g": 1.5,
+        "vitamin_e_mg": 0.7
        }
       },
       {
@@ -3236,7 +3299,8 @@
         "zinc_mg": 0.5,
         "copper_mg": 0.09,
         "folate_mcg": 42.0,
-        "saturated_fat_g": 1.0
+        "saturated_fat_g": 1.0,
+        "vitamin_e_mg": 1.0
        }
       },
       {
@@ -3298,7 +3362,8 @@
         "zinc_mg": 0.5,
         "copper_mg": 0.08,
         "folate_mcg": 45.0,
-        "saturated_fat_g": 1.5
+        "saturated_fat_g": 1.5,
+        "vitamin_e_mg": 0.7
        }
       },
       {
@@ -3330,7 +3395,8 @@
       }
      ]
     }
-   ]
+   ],
+   "emoji": "🍛"
   },
   {
    "key": "lebanese",
@@ -3368,7 +3434,8 @@
         "riboflavin_mg": 0.098,
         "niacin_mg": 1.313,
         "vitamin_b6_mg": 0.09,
-        "copper_mg": 0.149
+        "copper_mg": 0.149,
+        "vitamin_e_mg": 0.75
        }
       },
       {
@@ -3422,7 +3489,8 @@
         "riboflavin_mg": 0.05,
         "niacin_mg": 0.5,
         "vitamin_b6_mg": 0.1,
-        "copper_mg": 0.059
+        "copper_mg": 0.059,
+        "vitamin_e_mg": 0.54
        }
       },
       {
@@ -3443,7 +3511,8 @@
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
         "sodium_mg": 0,
-        "saturated_fat_g": 13.8
+        "saturated_fat_g": 13.8,
+        "vitamin_e_mg": 14.3
        }
       },
       {
@@ -3471,7 +3540,8 @@
         "niacin_mg": 1.313,
         "vitamin_b6_mg": 0.09,
         "copper_mg": 0.1,
-        "vitamin_a_mcg": 130
+        "vitamin_a_mcg": 130,
+        "vitamin_e_mg": 0.5
        }
       },
       {
@@ -3535,7 +3605,8 @@
         "riboflavin_mg": 0.04,
         "niacin_mg": 0.3,
         "vitamin_b6_mg": 0.06,
-        "copper_mg": 0.05
+        "copper_mg": 0.05,
+        "vitamin_e_mg": 0.3
        }
       },
       {
@@ -3562,7 +3633,8 @@
         "niacin_mg": 4.6,
         "vitamin_b6_mg": 0.05,
         "saturated_fat_g": 2.6,
-        "copper_mg": 0.17
+        "copper_mg": 0.17,
+        "vitamin_e_mg": 4.0
        }
       },
       {
@@ -3617,7 +3689,8 @@
         "riboflavin_mg": 0.098,
         "niacin_mg": 1.313,
         "vitamin_b6_mg": 0.09,
-        "copper_mg": 0.2
+        "copper_mg": 0.2,
+        "vitamin_e_mg": 0.75
        }
       },
       {
@@ -3638,7 +3711,8 @@
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
         "sodium_mg": 0,
-        "saturated_fat_g": 13.8
+        "saturated_fat_g": 13.8,
+        "vitamin_e_mg": 14.3
        }
       }
      ]
@@ -3674,7 +3748,8 @@
         "vitamin_b6_mg": 0.139,
         "saturated_fat_g": 0.27,
         "copper_mg": 0.352,
-        "pantothenic_mg": 0.286
+        "pantothenic_mg": 0.286,
+        "vitamin_e_mg": 0.35
        }
       },
       {
@@ -3723,7 +3798,8 @@
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
         "sodium_mg": 0,
-        "saturated_fat_g": 13.8
+        "saturated_fat_g": 13.8,
+        "vitamin_e_mg": 14.3
        }
       },
       {
@@ -3786,7 +3862,8 @@
         "vitamin_b6_mg": 0.1,
         "copper_mg": 0.059,
         "folate_mcg": 14.0,
-        "pantothenic_mg": 0.075
+        "pantothenic_mg": 0.075,
+        "vitamin_e_mg": 0.3
        }
       },
       {
@@ -3835,7 +3912,8 @@
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
         "sodium_mg": 0,
-        "saturated_fat_g": 13.8
+        "saturated_fat_g": 13.8,
+        "vitamin_e_mg": 14.3
        }
       },
       {
@@ -3934,7 +4012,8 @@
         "vitamin_d_mcg": 0.1,
         "saturated_fat_g": 2.5,
         "cholesterol_mg": 8.0,
-        "pantothenic_mg": 0.3
+        "pantothenic_mg": 0.3,
+        "vitamin_e_mg": 1.4
        }
       }
      ]
@@ -4025,7 +4104,8 @@
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
         "sodium_mg": 0,
-        "saturated_fat_g": 14.0
+        "saturated_fat_g": 14.0,
+        "vitamin_e_mg": 8.2
        }
       }
      ]
@@ -4061,7 +4141,8 @@
         "vitamin_b6_mg": 0.093,
         "saturated_fat_g": 0.4,
         "copper_mg": 0.08,
-        "vitamin_c_mg": 2.0
+        "vitamin_c_mg": 2.0,
+        "vitamin_e_mg": 0.36
        }
       },
       {
@@ -4090,7 +4171,8 @@
         "niacin_mg": 1.39,
         "vitamin_b6_mg": 0.4,
         "saturated_fat_g": 0.3,
-        "copper_mg": 0.32
+        "copper_mg": 0.32,
+        "vitamin_e_mg": 2.0
        }
       },
       {
@@ -4118,7 +4200,8 @@
         "riboflavin_mg": 0.098,
         "niacin_mg": 1.313,
         "vitamin_b6_mg": 0.09,
-        "copper_mg": 0.08
+        "copper_mg": 0.08,
+        "vitamin_e_mg": 0.5
        }
       },
       {
@@ -4139,7 +4222,8 @@
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
         "sodium_mg": 0,
-        "saturated_fat_g": 13.8
+        "saturated_fat_g": 13.8,
+        "vitamin_e_mg": 14.3
        }
       }
      ]
@@ -4175,7 +4259,8 @@
         "vitamin_b6_mg": 0.139,
         "saturated_fat_g": 0.27,
         "copper_mg": 0.35,
-        "pantothenic_mg": 0.29
+        "pantothenic_mg": 0.29,
+        "vitamin_e_mg": 0.35
        }
       },
       {
@@ -4207,7 +4292,8 @@
         "saturated_fat_g": 2.0,
         "cholesterol_mg": 8.0,
         "copper_mg": 0.18,
-        "pantothenic_mg": 0.4
+        "pantothenic_mg": 0.4,
+        "vitamin_e_mg": 0.1
        }
       },
       {
@@ -4234,7 +4320,8 @@
         "niacin_mg": 4.6,
         "vitamin_b6_mg": 0.05,
         "saturated_fat_g": 2.2,
-        "copper_mg": 0.18
+        "copper_mg": 0.18,
+        "vitamin_e_mg": 1.2
        }
       },
       {
@@ -4265,7 +4352,8 @@
         "copper_mg": 1.2,
         "vitamin_a_mcg": 60.0,
         "pantothenic_mg": 0.3,
-        "biotin_mcg": 5.0
+        "biotin_mcg": 5.0,
+        "vitamin_e_mg": 5.0
        }
       }
      ]
@@ -4302,7 +4390,8 @@
         "saturated_fat_g": 0.05,
         "copper_mg": 0.25,
         "pantothenic_mg": 0.64,
-        "biotin_mcg": 1.4
+        "biotin_mcg": 1.4,
+        "vitamin_e_mg": 0.11
        }
       },
       {
@@ -4357,7 +4446,8 @@
         "niacin_mg": 0.5,
         "vitamin_b6_mg": 0.1,
         "saturated_fat_g": 1.2,
-        "copper_mg": 0.05
+        "copper_mg": 0.05,
+        "vitamin_e_mg": 0.65
        }
       },
       {
@@ -4378,7 +4468,8 @@
         "iron_mg": 0.0,
         "zinc_mg": 0.0,
         "sodium_mg": 0,
-        "saturated_fat_g": 13.8
+        "saturated_fat_g": 13.8,
+        "vitamin_e_mg": 14.3
        }
       }
      ]
@@ -4439,7 +4530,8 @@
         "zinc_mg": 0.5,
         "sodium_mg": 280,
         "vitamin_a_mcg": 40,
-        "saturated_fat_g": 11.0
+        "saturated_fat_g": 11.0,
+        "vitamin_e_mg": 9.0
        }
       }
      ]
@@ -4533,13 +4625,15 @@
         "riboflavin_mg": 0.05,
         "niacin_mg": 0.5,
         "vitamin_b6_mg": 0.1,
-        "copper_mg": 0.07
+        "copper_mg": 0.07,
+        "vitamin_e_mg": 0.4
        }
       }
      ],
      "unit_name_ar": "حبة"
     }
-   ]
+   ],
+   "emoji": "🥙"
   },
   {
    "key": "daily",
@@ -4792,7 +4886,8 @@
         "zinc_mg": 1.5,
         "copper_mg": 0.35,
         "folate_mcg": 172,
-        "biotin_mcg": 6.0
+        "biotin_mcg": 6.0,
+        "vitamin_e_mg": 0.35
        }
       }
      ]
@@ -4868,7 +4963,8 @@
         "vitamin_a_mcg": 149,
         "folate_mcg": 44.0,
         "pantothenic_mg": 1.4,
-        "biotin_mcg": 22.0
+        "biotin_mcg": 22.0,
+        "vitamin_e_mg": 1.03
        }
       }
      ]
@@ -4901,7 +4997,8 @@
         "vitamin_c_mg": 8.7,
         "folate_mcg": 20.0,
         "pantothenic_mg": 0.33,
-        "biotin_mcg": 2.0
+        "biotin_mcg": 2.0,
+        "vitamin_e_mg": 0.1
        }
       }
      ]
@@ -4932,7 +5029,8 @@
         "magnesium_mg": 5.0,
         "calcium_mg": 6.0,
         "vitamin_c_mg": 4.6,
-        "vitamin_a_mcg": 3.0
+        "vitamin_a_mcg": 3.0,
+        "vitamin_e_mg": 0.18
        }
       }
      ]
@@ -5002,7 +5100,8 @@
       }
      ]
     }
-   ]
+   ],
+   "emoji": "☕"
   },
   {
    "key": "healthy",
@@ -5195,7 +5294,8 @@
         "cholesterol_mg": 373,
         "copper_mg": 0.07,
         "pantothenic_mg": 1.4,
-        "biotin_mcg": 22.0
+        "biotin_mcg": 22.0,
+        "vitamin_e_mg": 1.03
        }
       }
      ],
@@ -5270,7 +5370,8 @@
         "vitamin_b6_mg": 0.286,
         "copper_mg": 0.16,
         "pantothenic_mg": 0.88,
-        "biotin_mcg": 4.0
+        "biotin_mcg": 4.0,
+        "vitamin_e_mg": 0.71
        }
       }
      ]
@@ -5305,7 +5406,8 @@
         "niacin_mg": 2.561,
         "vitamin_b6_mg": 0.123,
         "copper_mg": 0.1,
-        "pantothenic_mg": 0.38
+        "pantothenic_mg": 0.38,
+        "vitamin_e_mg": 0.06
        }
       }
      ]
@@ -5342,7 +5444,8 @@
         "vitamin_b6_mg": 0.1,
         "copper_mg": 0.1,
         "folate_mcg": 30.0,
-        "pantothenic_mg": 0.21
+        "pantothenic_mg": 0.21,
+        "vitamin_e_mg": 0.12
        }
       },
       {
@@ -5371,7 +5474,8 @@
         "niacin_mg": 0.5,
         "vitamin_b6_mg": 0.1,
         "copper_mg": 0.1,
-        "pantothenic_mg": 0.32
+        "pantothenic_mg": 0.32,
+        "vitamin_e_mg": 1.58
        }
       },
       {
@@ -5399,12 +5503,14 @@
         "vitamin_b6_mg": 0.1,
         "copper_mg": 0.06,
         "folate_mcg": 14.0,
-        "pantothenic_mg": 0.075
+        "pantothenic_mg": 0.075,
+        "vitamin_e_mg": 0.3
        }
       }
      ]
     }
-   ]
+   ],
+   "emoji": "🥗"
   },
   {
    "key": "nuts_seeds",
@@ -5444,7 +5550,8 @@
         "niacin_mg": 3.62,
         "vitamin_b6_mg": 0.137,
         "folate_mcg": 44,
-        "pantothenic_mg": 0.471
+        "pantothenic_mg": 0.471,
+        "vitamin_e_mg": 25.6
        }
       }
      ]
@@ -5481,7 +5588,8 @@
         "niacin_mg": 1.12,
         "vitamin_b6_mg": 0.537,
         "folate_mcg": 98,
-        "pantothenic_mg": 0.57
+        "pantothenic_mg": 0.57,
+        "vitamin_e_mg": 0.7
        }
       }
      ]
@@ -5519,7 +5627,8 @@
         "niacin_mg": 1.3,
         "vitamin_b6_mg": 1.7,
         "folate_mcg": 51,
-        "pantothenic_mg": 0.52
+        "pantothenic_mg": 0.52,
+        "vitamin_e_mg": 2.86
        }
       }
      ]
@@ -5556,7 +5665,8 @@
         "niacin_mg": 1.06,
         "vitamin_b6_mg": 0.417,
         "folate_mcg": 25,
-        "pantothenic_mg": 0.864
+        "pantothenic_mg": 0.864,
+        "vitamin_e_mg": 0.92
        }
       }
      ]
@@ -5593,7 +5703,8 @@
         "niacin_mg": 1.8,
         "vitamin_b6_mg": 0.563,
         "folate_mcg": 113,
-        "pantothenic_mg": 0.918
+        "pantothenic_mg": 0.918,
+        "vitamin_e_mg": 15.0
        }
       }
      ]
@@ -5630,7 +5741,8 @@
         "niacin_mg": 2.47,
         "vitamin_b6_mg": 0.275,
         "folate_mcg": 11,
-        "pantothenic_mg": 0.758
+        "pantothenic_mg": 0.758,
+        "vitamin_e_mg": 0.54
        }
       }
      ]
@@ -5667,7 +5779,8 @@
         "vitamin_b6_mg": 0.348,
         "folate_mcg": 240,
         "pantothenic_mg": 1.77,
-        "biotin_mcg": 17.5
+        "biotin_mcg": 17.5,
+        "vitamin_e_mg": 8.33
        }
       }
      ]
@@ -5705,7 +5818,8 @@
         "vitamin_b6_mg": 1.34,
         "folate_mcg": 227,
         "pantothenic_mg": 1.13,
-        "biotin_mcg": 7.8
+        "biotin_mcg": 7.8,
+        "vitamin_e_mg": 35.2
        }
       }
      ]
@@ -5742,7 +5856,8 @@
         "niacin_mg": 4.99,
         "vitamin_b6_mg": 0.143,
         "folate_mcg": 58,
-        "pantothenic_mg": 0.75
+        "pantothenic_mg": 0.75,
+        "vitamin_e_mg": 2.18
        }
       }
      ]
@@ -5778,7 +5893,8 @@
         "niacin_mg": 4.51,
         "vitamin_b6_mg": 0.79,
         "folate_mcg": 97,
-        "pantothenic_mg": 0.05
+        "pantothenic_mg": 0.05,
+        "vitamin_e_mg": 0.25
        }
       }
      ]
@@ -5813,7 +5929,8 @@
         "thiamin_mg": 0.62,
         "riboflavin_mg": 0.17,
         "niacin_mg": 8.83,
-        "folate_mcg": 49
+        "folate_mcg": 49,
+        "vitamin_e_mg": 0.5
        }
       }
      ]
@@ -5858,7 +5975,8 @@
         "niacin_mg": 1.06,
         "vitamin_b6_mg": 0.178,
         "folate_mcg": 181,
-        "pantothenic_mg": 0.638
+        "pantothenic_mg": 0.638,
+        "vitamin_e_mg": 0.11
        }
       }
      ]
@@ -5894,7 +6012,8 @@
         "riboflavin_mg": 0.059,
         "niacin_mg": 0.505,
         "vitamin_b6_mg": 0.069,
-        "pantothenic_mg": 0.242
+        "pantothenic_mg": 0.242,
+        "vitamin_e_mg": 0.87
        }
       }
      ]
@@ -5930,7 +6049,8 @@
         "riboflavin_mg": 0.058,
         "niacin_mg": 0.244,
         "vitamin_b6_mg": 0.123,
-        "pantothenic_mg": 0.232
+        "pantothenic_mg": 0.232,
+        "vitamin_e_mg": 0.85
        }
       }
      ]
@@ -6003,7 +6123,8 @@
         "riboflavin_mg": 0.285,
         "niacin_mg": 0.399,
         "vitamin_b6_mg": 0.234,
-        "pantothenic_mg": 0.179
+        "pantothenic_mg": 0.179,
+        "vitamin_e_mg": 0.35
        }
       }
      ]
@@ -6049,7 +6170,8 @@
         "riboflavin_mg": 0.487,
         "niacin_mg": 9.72,
         "vitamin_b6_mg": 0.94,
-        "pantothenic_mg": 1.92
+        "pantothenic_mg": 1.92,
+        "vitamin_e_mg": 1.1
        }
       }
      ]
@@ -6087,7 +6209,8 @@
         "riboflavin_mg": 0.227,
         "niacin_mg": 5.24,
         "vitamin_b6_mg": 0.167,
-        "pantothenic_mg": 0.642
+        "pantothenic_mg": 0.642,
+        "vitamin_e_mg": 2.04
        }
       }
      ]
@@ -6125,7 +6248,8 @@
         "riboflavin_mg": 0.078,
         "niacin_mg": 13.3,
         "vitamin_b6_mg": 0.333,
-        "pantothenic_mg": 0.22
+        "pantothenic_mg": 0.22,
+        "vitamin_e_mg": 0.33
        }
       }
      ]
@@ -6163,7 +6287,8 @@
         "riboflavin_mg": 0.412,
         "niacin_mg": 6.85,
         "vitamin_b6_mg": 0.46,
-        "pantothenic_mg": 0.99
+        "pantothenic_mg": 0.99,
+        "vitamin_e_mg": 1.52
        }
       }
      ]
@@ -6300,7 +6425,8 @@
         "saturated_fat_g": 22.6,
         "cholesterol_mg": 570,
         "vitamin_a_mcg": 30000,
-        "vitamin_d_mcg": 250
+        "vitamin_d_mcg": 250,
+        "vitamin_e_mg": 20.0
        }
       }
      ],
@@ -6348,7 +6474,8 @@
         "niacin_mg": 17.5,
         "vitamin_b6_mg": 1.02,
         "pantothenic_mg": 7.1,
-        "biotin_mcg": 42
+        "biotin_mcg": 42,
+        "vitamin_e_mg": 0.51
        }
       }
      ]
@@ -6387,7 +6514,8 @@
         "niacin_mg": 11.8,
         "vitamin_b6_mg": 0.853,
         "pantothenic_mg": 6.7,
-        "biotin_mcg": 130
+        "biotin_mcg": 130,
+        "vitamin_e_mg": 0.7
        }
       }
      ]
@@ -6426,7 +6554,8 @@
         "niacin_mg": 19.5,
         "vitamin_b6_mg": 0.9,
         "pantothenic_mg": 7.6,
-        "biotin_mcg": 42
+        "biotin_mcg": 42,
+        "vitamin_e_mg": 0.4
        }
       }
      ]
@@ -6542,7 +6671,8 @@
         "niacin_mg": 0.08,
         "vitamin_b6_mg": 0.066,
         "pantothenic_mg": 0.41,
-        "biotin_mcg": 2.4
+        "biotin_mcg": 2.4,
+        "vitamin_e_mg": 0.71
        }
       }
      ]
@@ -6579,7 +6709,8 @@
         "riboflavin_mg": 0.28,
         "vitamin_b6_mg": 0.078,
         "pantothenic_mg": 0.43,
-        "biotin_mcg": 1.8
+        "biotin_mcg": 1.8,
+        "vitamin_e_mg": 0.44
        }
       }
      ]
@@ -6617,7 +6748,8 @@
         "niacin_mg": 0.27,
         "vitamin_b6_mg": 0.091,
         "pantothenic_mg": 0.45,
-        "biotin_mcg": 2
+        "biotin_mcg": 2,
+        "vitamin_e_mg": 0.22
        }
       }
      ]
@@ -6655,7 +6787,8 @@
         "niacin_mg": 0.082,
         "vitamin_b6_mg": 0.076,
         "pantothenic_mg": 0.281,
-        "biotin_mcg": 2
+        "biotin_mcg": 2,
+        "vitamin_e_mg": 0.48
        }
       }
      ]
@@ -6687,7 +6820,8 @@
         "vitamin_a_mcg": 230,
         "vitamin_b12_mcg": 1.4,
         "riboflavin_mg": 0.35,
-        "biotin_mcg": 2
+        "biotin_mcg": 2,
+        "vitamin_e_mg": 0.3
        }
       }
      ]
@@ -6808,7 +6942,8 @@
         "niacin_mg": 0.024,
         "vitamin_b6_mg": 0.35,
         "pantothenic_mg": 2.99,
-        "biotin_mcg": 55
+        "biotin_mcg": 55,
+        "vitamin_e_mg": 2.58
        }
       }
      ],
@@ -6854,7 +6989,8 @@
         "riboflavin_mg": 0.13,
         "niacin_mg": 1,
         "vitamin_b6_mg": 0.27,
-        "pantothenic_mg": 0.09
+        "pantothenic_mg": 0.09,
+        "vitamin_e_mg": 0.85
        }
       }
      ]
@@ -6891,7 +7027,8 @@
         "riboflavin_mg": 0.236,
         "niacin_mg": 0.49,
         "vitamin_b6_mg": 0.242,
-        "pantothenic_mg": 0.145
+        "pantothenic_mg": 0.145,
+        "vitamin_e_mg": 2.08
        }
       }
      ]
@@ -6928,7 +7065,8 @@
         "riboflavin_mg": 0.123,
         "niacin_mg": 0.553,
         "vitamin_b6_mg": 0.2,
-        "pantothenic_mg": 0.616
+        "pantothenic_mg": 0.616,
+        "vitamin_e_mg": 1.45
        }
       }
      ]
@@ -6965,7 +7103,8 @@
         "riboflavin_mg": 0.085,
         "niacin_mg": 0.979,
         "vitamin_b6_mg": 0.291,
-        "pantothenic_mg": 0.317
+        "pantothenic_mg": 0.317,
+        "vitamin_e_mg": 1.58
        }
       }
      ]
@@ -7002,7 +7141,8 @@
         "riboflavin_mg": 0.028,
         "niacin_mg": 0.48,
         "vitamin_b6_mg": 0.224,
-        "pantothenic_mg": 0.099
+        "pantothenic_mg": 0.099,
+        "vitamin_e_mg": 0.37
        }
       }
      ]
@@ -7150,7 +7290,8 @@
         "riboflavin_mg": 0.139,
         "niacin_mg": 1.08,
         "vitamin_b6_mg": 0.079,
-        "pantothenic_mg": 0.225
+        "pantothenic_mg": 0.225,
+        "vitamin_e_mg": 1.5
        }
       }
      ]
@@ -7187,7 +7328,8 @@
         "riboflavin_mg": 0.055,
         "niacin_mg": 0.871,
         "vitamin_b6_mg": 0.155,
-        "pantothenic_mg": 0.213
+        "pantothenic_mg": 0.213,
+        "vitamin_e_mg": 0.27
        }
       }
      ]
@@ -7232,7 +7374,8 @@
         "niacin_mg": 13.6,
         "vitamin_b6_mg": 1.3,
         "pantothenic_mg": 2.18,
-        "biotin_mcg": 6
+        "biotin_mcg": 6,
+        "vitamin_e_mg": 1.49
        }
       }
      ]
@@ -7271,7 +7414,8 @@
         "riboflavin_mg": 1.6,
         "niacin_mg": 19,
         "vitamin_b6_mg": 1.9,
-        "pantothenic_mg": 1.5
+        "pantothenic_mg": 1.5,
+        "vitamin_e_mg": 13.5
        }
       }
      ]
@@ -7390,7 +7534,8 @@
         "thiamin_mg": 0.015,
         "riboflavin_mg": 0.074,
         "niacin_mg": 2.59,
-        "pantothenic_mg": 0.516
+        "pantothenic_mg": 0.516,
+        "vitamin_e_mg": 4.33
        }
       }
      ]
@@ -7429,7 +7574,8 @@
         "niacin_mg": 1.05,
         "vitamin_b6_mg": 0.038,
         "pantothenic_mg": 0.418,
-        "caffeine_mg": 80
+        "caffeine_mg": 80,
+        "vitamin_e_mg": 0.59
        }
       }
      ]
