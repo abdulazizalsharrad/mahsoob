@@ -5405,6 +5405,2074 @@
      ]
     }
    ]
+  },
+  {
+   "key": "nuts_seeds",
+   "label": "مكسرات وبذور",
+   "label_en": "Nuts & Seeds",
+   "emoji": "🥜",
+   "dishes": [
+    {
+     "id": "almonds",
+     "name_ar": "لوز",
+     "name_en": "Almonds",
+     "default_portion_g": 30,
+     "components": [
+      {
+       "name_ar": "لوز",
+       "name_en": "Almonds",
+       "role": "fat",
+       "grams": 30,
+       "per100g": {
+        "calories": 579,
+        "protein_g": 21.1,
+        "carbs_g": 21.6,
+        "fat_g": 49.9,
+        "fiber_g": 12.5,
+        "sugar_g": 4.35,
+        "saturated_fat_g": 3.8,
+        "sodium_mg": 1,
+        "potassium_mg": 733,
+        "magnesium_mg": 270,
+        "calcium_mg": 269,
+        "iron_mg": 3.71,
+        "zinc_mg": 3.12,
+        "copper_mg": 1.03,
+        "vitamin_c_mg": 0,
+        "thiamin_mg": 0.205,
+        "riboflavin_mg": 1.14,
+        "niacin_mg": 3.62,
+        "vitamin_b6_mg": 0.137,
+        "folate_mcg": 44,
+        "pantothenic_mg": 0.471
+       }
+      }
+     ]
+    },
+    {
+     "id": "walnuts",
+     "name_ar": "جوز (عين الجمل)",
+     "name_en": "Walnuts",
+     "default_portion_g": 30,
+     "components": [
+      {
+       "name_ar": "جوز (عين الجمل)",
+       "name_en": "Walnuts",
+       "role": "fat",
+       "grams": 30,
+       "per100g": {
+        "calories": 654,
+        "protein_g": 15.2,
+        "carbs_g": 13.7,
+        "fat_g": 65.2,
+        "fiber_g": 6.7,
+        "sugar_g": 2.61,
+        "saturated_fat_g": 6.13,
+        "sodium_mg": 2,
+        "potassium_mg": 441,
+        "magnesium_mg": 158,
+        "calcium_mg": 98,
+        "iron_mg": 2.91,
+        "zinc_mg": 3.09,
+        "copper_mg": 1.59,
+        "vitamin_c_mg": 1.3,
+        "thiamin_mg": 0.341,
+        "riboflavin_mg": 0.15,
+        "niacin_mg": 1.12,
+        "vitamin_b6_mg": 0.537,
+        "folate_mcg": 98,
+        "pantothenic_mg": 0.57
+       }
+      }
+     ]
+    },
+    {
+     "id": "pistachios",
+     "name_ar": "فستق حلبي",
+     "name_en": "Pistachios",
+     "default_portion_g": 30,
+     "components": [
+      {
+       "name_ar": "فستق حلبي",
+       "name_en": "Pistachios",
+       "role": "fat",
+       "grams": 30,
+       "per100g": {
+        "calories": 560,
+        "protein_g": 20.2,
+        "carbs_g": 27.2,
+        "fat_g": 45.3,
+        "fiber_g": 10.6,
+        "sugar_g": 7.66,
+        "saturated_fat_g": 5.91,
+        "sodium_mg": 1,
+        "potassium_mg": 1025,
+        "magnesium_mg": 121,
+        "calcium_mg": 105,
+        "iron_mg": 3.92,
+        "zinc_mg": 2.2,
+        "copper_mg": 1.3,
+        "vitamin_a_mcg": 26,
+        "vitamin_c_mg": 5.6,
+        "thiamin_mg": 0.87,
+        "riboflavin_mg": 0.16,
+        "niacin_mg": 1.3,
+        "vitamin_b6_mg": 1.7,
+        "folate_mcg": 51,
+        "pantothenic_mg": 0.52
+       }
+      }
+     ]
+    },
+    {
+     "id": "cashews",
+     "name_ar": "كاجو",
+     "name_en": "Cashews",
+     "default_portion_g": 30,
+     "components": [
+      {
+       "name_ar": "كاجو",
+       "name_en": "Cashews",
+       "role": "fat",
+       "grams": 30,
+       "per100g": {
+        "calories": 553,
+        "protein_g": 18.2,
+        "carbs_g": 30.2,
+        "fat_g": 43.9,
+        "fiber_g": 3.3,
+        "sugar_g": 5.91,
+        "saturated_fat_g": 7.78,
+        "sodium_mg": 12,
+        "potassium_mg": 660,
+        "magnesium_mg": 292,
+        "calcium_mg": 37,
+        "iron_mg": 6.68,
+        "zinc_mg": 5.78,
+        "copper_mg": 2.19,
+        "vitamin_c_mg": 0.5,
+        "thiamin_mg": 0.423,
+        "riboflavin_mg": 0.058,
+        "niacin_mg": 1.06,
+        "vitamin_b6_mg": 0.417,
+        "folate_mcg": 25,
+        "pantothenic_mg": 0.864
+       }
+      }
+     ]
+    },
+    {
+     "id": "hazelnuts",
+     "name_ar": "بندق",
+     "name_en": "Hazelnuts",
+     "default_portion_g": 30,
+     "components": [
+      {
+       "name_ar": "بندق",
+       "name_en": "Hazelnuts",
+       "role": "fat",
+       "grams": 30,
+       "per100g": {
+        "calories": 628,
+        "protein_g": 14.9,
+        "carbs_g": 16.7,
+        "fat_g": 60.8,
+        "fiber_g": 9.7,
+        "sugar_g": 4.34,
+        "saturated_fat_g": 4.46,
+        "sodium_mg": 0,
+        "potassium_mg": 680,
+        "magnesium_mg": 163,
+        "calcium_mg": 114,
+        "iron_mg": 4.7,
+        "zinc_mg": 2.45,
+        "copper_mg": 1.73,
+        "vitamin_c_mg": 6.3,
+        "thiamin_mg": 0.643,
+        "riboflavin_mg": 0.113,
+        "niacin_mg": 1.8,
+        "vitamin_b6_mg": 0.563,
+        "folate_mcg": 113,
+        "pantothenic_mg": 0.918
+       }
+      }
+     ]
+    },
+    {
+     "id": "macadamia_nuts",
+     "name_ar": "مكاديميا",
+     "name_en": "Macadamia Nuts",
+     "default_portion_g": 30,
+     "components": [
+      {
+       "name_ar": "مكاديميا",
+       "name_en": "Macadamia Nuts",
+       "role": "fat",
+       "grams": 30,
+       "per100g": {
+        "calories": 718,
+        "protein_g": 7.91,
+        "carbs_g": 13.8,
+        "fat_g": 75.8,
+        "fiber_g": 8.6,
+        "sugar_g": 4.57,
+        "saturated_fat_g": 12.1,
+        "sodium_mg": 5,
+        "potassium_mg": 368,
+        "magnesium_mg": 130,
+        "calcium_mg": 85,
+        "iron_mg": 3.69,
+        "zinc_mg": 1.3,
+        "copper_mg": 0.756,
+        "vitamin_c_mg": 1.2,
+        "thiamin_mg": 1.2,
+        "riboflavin_mg": 0.162,
+        "niacin_mg": 2.47,
+        "vitamin_b6_mg": 0.275,
+        "folate_mcg": 11,
+        "pantothenic_mg": 0.758
+       }
+      }
+     ]
+    },
+    {
+     "id": "peanuts",
+     "name_ar": "فول سوداني",
+     "name_en": "Peanuts",
+     "default_portion_g": 30,
+     "components": [
+      {
+       "name_ar": "فول سوداني",
+       "name_en": "Peanuts",
+       "role": "fat",
+       "grams": 30,
+       "per100g": {
+        "calories": 567,
+        "protein_g": 25.8,
+        "carbs_g": 16.1,
+        "fat_g": 49.2,
+        "fiber_g": 8.5,
+        "sugar_g": 4.72,
+        "saturated_fat_g": 6.28,
+        "sodium_mg": 18,
+        "potassium_mg": 705,
+        "magnesium_mg": 168,
+        "calcium_mg": 92,
+        "iron_mg": 4.58,
+        "zinc_mg": 3.27,
+        "copper_mg": 1.14,
+        "thiamin_mg": 0.64,
+        "riboflavin_mg": 0.135,
+        "niacin_mg": 12.1,
+        "vitamin_b6_mg": 0.348,
+        "folate_mcg": 240,
+        "pantothenic_mg": 1.77,
+        "biotin_mcg": 17.5
+       }
+      }
+     ]
+    },
+    {
+     "id": "sunflower_seeds",
+     "name_ar": "بذور دوار الشمس",
+     "name_en": "Sunflower Seeds",
+     "default_portion_g": 30,
+     "components": [
+      {
+       "name_ar": "بذور دوار الشمس",
+       "name_en": "Sunflower Seeds",
+       "role": "fat",
+       "grams": 30,
+       "per100g": {
+        "calories": 584,
+        "protein_g": 20.8,
+        "carbs_g": 20,
+        "fat_g": 51.5,
+        "fiber_g": 8.6,
+        "sugar_g": 2.62,
+        "saturated_fat_g": 4.46,
+        "sodium_mg": 9,
+        "potassium_mg": 645,
+        "magnesium_mg": 325,
+        "calcium_mg": 78,
+        "iron_mg": 5.25,
+        "zinc_mg": 5,
+        "copper_mg": 1.8,
+        "vitamin_c_mg": 1.4,
+        "thiamin_mg": 1.48,
+        "riboflavin_mg": 0.355,
+        "niacin_mg": 8.34,
+        "vitamin_b6_mg": 1.34,
+        "folate_mcg": 227,
+        "pantothenic_mg": 1.13,
+        "biotin_mcg": 7.8
+       }
+      }
+     ]
+    },
+    {
+     "id": "pumpkin_seeds",
+     "name_ar": "بذور اليقطين",
+     "name_en": "Pumpkin Seeds",
+     "default_portion_g": 30,
+     "components": [
+      {
+       "name_ar": "بذور اليقطين",
+       "name_en": "Pumpkin Seeds",
+       "role": "fat",
+       "grams": 30,
+       "per100g": {
+        "calories": 559,
+        "protein_g": 30.2,
+        "carbs_g": 10.7,
+        "fat_g": 49.0,
+        "fiber_g": 6,
+        "sugar_g": 1.4,
+        "saturated_fat_g": 8.66,
+        "sodium_mg": 7,
+        "potassium_mg": 809,
+        "magnesium_mg": 592,
+        "calcium_mg": 46,
+        "iron_mg": 8.82,
+        "zinc_mg": 7.81,
+        "copper_mg": 1.34,
+        "vitamin_c_mg": 1.9,
+        "thiamin_mg": 0.273,
+        "riboflavin_mg": 0.153,
+        "niacin_mg": 4.99,
+        "vitamin_b6_mg": 0.143,
+        "folate_mcg": 58,
+        "pantothenic_mg": 0.75
+       }
+      }
+     ]
+    },
+    {
+     "id": "sesame_seeds",
+     "name_ar": "بذور السمسم",
+     "name_en": "Sesame Seeds",
+     "default_portion_g": 15,
+     "components": [
+      {
+       "name_ar": "بذور السمسم",
+       "name_en": "Sesame Seeds",
+       "role": "fat",
+       "grams": 15,
+       "per100g": {
+        "calories": 573,
+        "protein_g": 17.7,
+        "carbs_g": 23.4,
+        "fat_g": 49.7,
+        "fiber_g": 11.8,
+        "sugar_g": 0.3,
+        "saturated_fat_g": 6.96,
+        "sodium_mg": 11,
+        "potassium_mg": 468,
+        "magnesium_mg": 351,
+        "calcium_mg": 975,
+        "iron_mg": 14.6,
+        "zinc_mg": 7.75,
+        "copper_mg": 4.08,
+        "thiamin_mg": 0.791,
+        "riboflavin_mg": 0.247,
+        "niacin_mg": 4.51,
+        "vitamin_b6_mg": 0.79,
+        "folate_mcg": 97,
+        "pantothenic_mg": 0.05
+       }
+      }
+     ]
+    },
+    {
+     "id": "chia_seeds",
+     "name_ar": "بذور الشيا",
+     "name_en": "Chia Seeds",
+     "default_portion_g": 15,
+     "components": [
+      {
+       "name_ar": "بذور الشيا",
+       "name_en": "Chia Seeds",
+       "role": "fat",
+       "grams": 15,
+       "per100g": {
+        "calories": 486,
+        "protein_g": 16.5,
+        "carbs_g": 42.1,
+        "fat_g": 30.7,
+        "fiber_g": 34.4,
+        "sugar_g": 0,
+        "saturated_fat_g": 3.33,
+        "sodium_mg": 16,
+        "potassium_mg": 407,
+        "magnesium_mg": 335,
+        "calcium_mg": 631,
+        "iron_mg": 7.72,
+        "zinc_mg": 4.58,
+        "copper_mg": 0.924,
+        "vitamin_c_mg": 1.6,
+        "thiamin_mg": 0.62,
+        "riboflavin_mg": 0.17,
+        "niacin_mg": 8.83,
+        "folate_mcg": 49
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "legumes",
+   "label": "بقوليات",
+   "label_en": "Legumes",
+   "emoji": "🫘",
+   "dishes": [
+    {
+     "id": "lentils_cooked",
+     "name_ar": "عدس مطبوخ",
+     "name_en": "Lentils (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "عدس مطبوخ",
+       "name_en": "Lentils (cooked)",
+       "role": "protein",
+       "grams": 100,
+       "per100g": {
+        "calories": 116,
+        "protein_g": 9.02,
+        "carbs_g": 20.1,
+        "fat_g": 0.38,
+        "fiber_g": 7.9,
+        "sugar_g": 1.8,
+        "saturated_fat_g": 0.053,
+        "sodium_mg": 2,
+        "potassium_mg": 369,
+        "magnesium_mg": 36,
+        "calcium_mg": 19,
+        "iron_mg": 3.33,
+        "zinc_mg": 1.27,
+        "copper_mg": 0.251,
+        "vitamin_c_mg": 1.5,
+        "thiamin_mg": 0.169,
+        "riboflavin_mg": 0.073,
+        "niacin_mg": 1.06,
+        "vitamin_b6_mg": 0.178,
+        "folate_mcg": 181,
+        "pantothenic_mg": 0.638
+       }
+      }
+     ]
+    },
+    {
+     "id": "black_beans_cooked",
+     "name_ar": "فاصوليا سوداء مطبوخة",
+     "name_en": "Black Beans (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "فاصوليا سوداء مطبوخة",
+       "name_en": "Black Beans (cooked)",
+       "role": "protein",
+       "grams": 100,
+       "per100g": {
+        "calories": 132,
+        "protein_g": 8.86,
+        "carbs_g": 23.7,
+        "fat_g": 0.54,
+        "fiber_g": 8.7,
+        "sugar_g": 0.32,
+        "saturated_fat_g": 0.139,
+        "sodium_mg": 1,
+        "potassium_mg": 355,
+        "magnesium_mg": 70,
+        "calcium_mg": 27,
+        "iron_mg": 2.1,
+        "zinc_mg": 1.12,
+        "copper_mg": 0.209,
+        "folate_mcg": 149,
+        "thiamin_mg": 0.244,
+        "riboflavin_mg": 0.059,
+        "niacin_mg": 0.505,
+        "vitamin_b6_mg": 0.069,
+        "pantothenic_mg": 0.242
+       }
+      }
+     ]
+    },
+    {
+     "id": "white_beans_cooked",
+     "name_ar": "فاصوليا بيضاء مطبوخة",
+     "name_en": "White Beans (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "فاصوليا بيضاء مطبوخة",
+       "name_en": "White Beans (cooked)",
+       "role": "protein",
+       "grams": 100,
+       "per100g": {
+        "calories": 139,
+        "protein_g": 9.73,
+        "carbs_g": 25.1,
+        "fat_g": 0.35,
+        "fiber_g": 6.3,
+        "sugar_g": 0.35,
+        "saturated_fat_g": 0.09,
+        "sodium_mg": 6,
+        "potassium_mg": 561,
+        "magnesium_mg": 63,
+        "calcium_mg": 90,
+        "iron_mg": 3.7,
+        "zinc_mg": 1.38,
+        "copper_mg": 0.254,
+        "folate_mcg": 81,
+        "thiamin_mg": 0.156,
+        "riboflavin_mg": 0.058,
+        "niacin_mg": 0.244,
+        "vitamin_b6_mg": 0.123,
+        "pantothenic_mg": 0.232
+       }
+      }
+     ]
+    },
+    {
+     "id": "kidney_beans_cooked",
+     "name_ar": "فاصوليا حمراء مطبوخة",
+     "name_en": "Kidney Beans (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "فاصوليا حمراء مطبوخة",
+       "name_en": "Kidney Beans (cooked)",
+       "role": "protein",
+       "grams": 100,
+       "per100g": {
+        "calories": 127,
+        "protein_g": 8.67,
+        "carbs_g": 22.8,
+        "fat_g": 0.5,
+        "fiber_g": 6.4,
+        "sugar_g": 0.32,
+        "saturated_fat_g": 0.072,
+        "sodium_mg": 1,
+        "potassium_mg": 405,
+        "magnesium_mg": 45,
+        "calcium_mg": 28,
+        "iron_mg": 2.94,
+        "zinc_mg": 1.07,
+        "copper_mg": 0.242,
+        "folate_mcg": 130,
+        "thiamin_mg": 0.16,
+        "riboflavin_mg": 0.058,
+        "niacin_mg": 0.578,
+        "vitamin_b6_mg": 0.12,
+        "pantothenic_mg": 0.22
+       }
+      }
+     ]
+    },
+    {
+     "id": "soybeans_cooked",
+     "name_ar": "فول الصويا المطبوخ",
+     "name_en": "Soybeans (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "فول الصويا المطبوخ",
+       "name_en": "Soybeans (cooked)",
+       "role": "protein",
+       "grams": 100,
+       "per100g": {
+        "calories": 172,
+        "protein_g": 18.2,
+        "carbs_g": 8.36,
+        "fat_g": 8.97,
+        "fiber_g": 6,
+        "sugar_g": 3,
+        "saturated_fat_g": 1.3,
+        "sodium_mg": 1,
+        "potassium_mg": 515,
+        "magnesium_mg": 86,
+        "calcium_mg": 102,
+        "iron_mg": 5.14,
+        "zinc_mg": 1.15,
+        "copper_mg": 0.407,
+        "vitamin_c_mg": 1.7,
+        "folate_mcg": 54,
+        "thiamin_mg": 0.155,
+        "riboflavin_mg": 0.285,
+        "niacin_mg": 0.399,
+        "vitamin_b6_mg": 0.234,
+        "pantothenic_mg": 0.179
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "fish_seafood",
+   "label": "أسماك ومأكولات بحرية",
+   "label_en": "Fish & Seafood",
+   "emoji": "🐟",
+   "dishes": [
+    {
+     "id": "salmon_cooked",
+     "name_ar": "سلمون مطبوخ",
+     "name_en": "Salmon (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "سلمون مطبوخ",
+       "name_en": "Salmon (cooked)",
+       "role": "protein",
+       "grams": 100,
+       "per100g": {
+        "calories": 182,
+        "protein_g": 25.4,
+        "carbs_g": 0,
+        "fat_g": 8.13,
+        "saturated_fat_g": 1.26,
+        "cholesterol_mg": 71,
+        "sodium_mg": 56,
+        "potassium_mg": 628,
+        "magnesium_mg": 37,
+        "calcium_mg": 15,
+        "iron_mg": 1.03,
+        "zinc_mg": 0.82,
+        "copper_mg": 0.328,
+        "vitamin_a_mcg": 12,
+        "vitamin_d_mcg": 13.1,
+        "vitamin_b12_mcg": 3.18,
+        "folate_mcg": 35,
+        "thiamin_mg": 0.288,
+        "riboflavin_mg": 0.487,
+        "niacin_mg": 9.72,
+        "vitamin_b6_mg": 0.94,
+        "pantothenic_mg": 1.92
+       }
+      }
+     ]
+    },
+    {
+     "id": "canned_sardines_with_bones",
+     "name_ar": "سردين معلّب بالعظم",
+     "name_en": "Canned Sardines (with bones)",
+     "default_portion_g": 90,
+     "components": [
+      {
+       "name_ar": "سردين معلّب بالعظم",
+       "name_en": "Canned Sardines (with bones)",
+       "role": "protein",
+       "grams": 90,
+       "per100g": {
+        "calories": 208,
+        "protein_g": 24.6,
+        "carbs_g": 0,
+        "fat_g": 11.4,
+        "saturated_fat_g": 1.53,
+        "cholesterol_mg": 142,
+        "sodium_mg": 307,
+        "potassium_mg": 397,
+        "magnesium_mg": 39,
+        "calcium_mg": 382,
+        "iron_mg": 2.92,
+        "zinc_mg": 1.31,
+        "copper_mg": 0.186,
+        "vitamin_a_mcg": 32,
+        "vitamin_d_mcg": 4.8,
+        "vitamin_b12_mcg": 8.94,
+        "folate_mcg": 10,
+        "thiamin_mg": 0.08,
+        "riboflavin_mg": 0.227,
+        "niacin_mg": 5.24,
+        "vitamin_b6_mg": 0.167,
+        "pantothenic_mg": 0.642
+       }
+      }
+     ]
+    },
+    {
+     "id": "canned_tuna_in_water",
+     "name_ar": "تونة معلّبة بالماء",
+     "name_en": "Canned Tuna (in water)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "تونة معلّبة بالماء",
+       "name_en": "Canned Tuna (in water)",
+       "role": "protein",
+       "grams": 100,
+       "per100g": {
+        "calories": 116,
+        "protein_g": 25.5,
+        "carbs_g": 0,
+        "fat_g": 0.82,
+        "saturated_fat_g": 0.233,
+        "cholesterol_mg": 36,
+        "sodium_mg": 247,
+        "potassium_mg": 237,
+        "magnesium_mg": 27,
+        "calcium_mg": 11,
+        "iron_mg": 1.4,
+        "zinc_mg": 0.69,
+        "copper_mg": 0.07,
+        "vitamin_a_mcg": 5,
+        "vitamin_d_mcg": 1.7,
+        "vitamin_b12_mcg": 2.55,
+        "folate_mcg": 4,
+        "thiamin_mg": 0.032,
+        "riboflavin_mg": 0.078,
+        "niacin_mg": 13.3,
+        "vitamin_b6_mg": 0.333,
+        "pantothenic_mg": 0.22
+       }
+      }
+     ]
+    },
+    {
+     "id": "mackerel_cooked",
+     "name_ar": "ماكريل مطبوخ",
+     "name_en": "Mackerel (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "ماكريل مطبوخ",
+       "name_en": "Mackerel (cooked)",
+       "role": "protein",
+       "grams": 100,
+       "per100g": {
+        "calories": 262,
+        "protein_g": 23.9,
+        "carbs_g": 0,
+        "fat_g": 17.8,
+        "saturated_fat_g": 4.18,
+        "cholesterol_mg": 75,
+        "sodium_mg": 83,
+        "potassium_mg": 401,
+        "magnesium_mg": 97,
+        "calcium_mg": 15,
+        "iron_mg": 1.57,
+        "zinc_mg": 0.9,
+        "copper_mg": 0.094,
+        "vitamin_a_mcg": 54,
+        "vitamin_d_mcg": 16.1,
+        "vitamin_b12_mcg": 19,
+        "folate_mcg": 2,
+        "thiamin_mg": 0.162,
+        "riboflavin_mg": 0.412,
+        "niacin_mg": 6.85,
+        "vitamin_b6_mg": 0.46,
+        "pantothenic_mg": 0.99
+       }
+      }
+     ]
+    },
+    {
+     "id": "clams_cooked",
+     "name_ar": "محار (كلامز) مطبوخ",
+     "name_en": "Clams (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "محار (كلامز) مطبوخ",
+       "name_en": "Clams (cooked)",
+       "role": "protein",
+       "grams": 100,
+       "per100g": {
+        "calories": 148,
+        "protein_g": 25.6,
+        "carbs_g": 5.13,
+        "fat_g": 1.95,
+        "saturated_fat_g": 0.188,
+        "cholesterol_mg": 67,
+        "sodium_mg": 1202,
+        "potassium_mg": 628,
+        "magnesium_mg": 18,
+        "calcium_mg": 92,
+        "iron_mg": 2.81,
+        "zinc_mg": 2.73,
+        "copper_mg": 0.682,
+        "vitamin_a_mcg": 171,
+        "vitamin_c_mg": 22.1,
+        "vitamin_b12_mcg": 98.9,
+        "folate_mcg": 29,
+        "thiamin_mg": 0.15,
+        "riboflavin_mg": 0.426,
+        "niacin_mg": 3.36,
+        "vitamin_b6_mg": 0.11,
+        "pantothenic_mg": 0.68
+       }
+      }
+     ]
+    },
+    {
+     "id": "oysters_cooked",
+     "name_ar": "محار (أويستر) مطبوخ",
+     "name_en": "Oysters (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "محار (أويستر) مطبوخ",
+       "name_en": "Oysters (cooked)",
+       "role": "protein",
+       "grams": 100,
+       "per100g": {
+        "calories": 102,
+        "protein_g": 11.4,
+        "carbs_g": 5.43,
+        "fat_g": 3.42,
+        "saturated_fat_g": 0.875,
+        "cholesterol_mg": 79,
+        "sodium_mg": 166,
+        "potassium_mg": 139,
+        "magnesium_mg": 35,
+        "calcium_mg": 116,
+        "iron_mg": 9.21,
+        "zinc_mg": 78.6,
+        "copper_mg": 5.71,
+        "vitamin_a_mcg": 26,
+        "vitamin_b12_mcg": 17.5,
+        "folate_mcg": 14,
+        "thiamin_mg": 0.044,
+        "riboflavin_mg": 0.177,
+        "niacin_mg": 1.79,
+        "vitamin_b6_mg": 0.06,
+        "pantothenic_mg": 0.45
+       }
+      }
+     ]
+    },
+    {
+     "id": "mussels_cooked",
+     "name_ar": "بلح البحر مطبوخ",
+     "name_en": "Mussels (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "بلح البحر مطبوخ",
+       "name_en": "Mussels (cooked)",
+       "role": "protein",
+       "grams": 100,
+       "per100g": {
+        "calories": 172,
+        "protein_g": 23.8,
+        "carbs_g": 7.39,
+        "fat_g": 4.48,
+        "saturated_fat_g": 0.85,
+        "cholesterol_mg": 56,
+        "sodium_mg": 369,
+        "potassium_mg": 268,
+        "magnesium_mg": 37,
+        "calcium_mg": 33,
+        "iron_mg": 6.72,
+        "zinc_mg": 2.67,
+        "copper_mg": 0.146,
+        "vitamin_a_mcg": 91,
+        "vitamin_c_mg": 13.6,
+        "vitamin_b12_mcg": 24,
+        "folate_mcg": 76,
+        "thiamin_mg": 0.3,
+        "riboflavin_mg": 0.42,
+        "niacin_mg": 3,
+        "vitamin_b6_mg": 0.1,
+        "pantothenic_mg": 0.95
+       }
+      }
+     ]
+    },
+    {
+     "id": "cod_liver_oil",
+     "name_ar": "زيت كبد الحوت",
+     "name_en": "Cod Liver Oil",
+     "default_portion_g": 5,
+     "components": [
+      {
+       "name_ar": "زيت كبد الحوت",
+       "name_en": "Cod Liver Oil",
+       "role": "protein",
+       "grams": 5,
+       "per100g": {
+        "calories": 902,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 100,
+        "saturated_fat_g": 22.6,
+        "cholesterol_mg": 570,
+        "vitamin_a_mcg": 30000,
+        "vitamin_d_mcg": 250
+       }
+      }
+     ],
+     "unit_name_ar": "ملعقة صغيرة"
+    }
+   ]
+  },
+  {
+   "key": "meat_liver",
+   "label": "لحوم وكبد",
+   "label_en": "Meats & Liver",
+   "emoji": "🥩",
+   "dishes": [
+    {
+     "id": "beef_liver_cooked",
+     "name_ar": "كبد بقري مطبوخ",
+     "name_en": "Beef Liver (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "كبد بقري مطبوخ",
+       "name_en": "Beef Liver (cooked)",
+       "role": "protein",
+       "grams": 100,
+       "per100g": {
+        "calories": 191,
+        "protein_g": 29.1,
+        "carbs_g": 5.1,
+        "fat_g": 5.3,
+        "saturated_fat_g": 1.9,
+        "cholesterol_mg": 396,
+        "sodium_mg": 76,
+        "potassium_mg": 352,
+        "magnesium_mg": 21,
+        "calcium_mg": 6,
+        "iron_mg": 6.5,
+        "zinc_mg": 5.3,
+        "copper_mg": 14.6,
+        "vitamin_a_mcg": 9442,
+        "vitamin_c_mg": 1.9,
+        "vitamin_b12_mcg": 70.6,
+        "folate_mcg": 253,
+        "thiamin_mg": 0.194,
+        "riboflavin_mg": 3.42,
+        "niacin_mg": 17.5,
+        "vitamin_b6_mg": 1.02,
+        "pantothenic_mg": 7.1,
+        "biotin_mcg": 42
+       }
+      }
+     ]
+    },
+    {
+     "id": "chicken_liver_cooked",
+     "name_ar": "كبد دجاج مطبوخ",
+     "name_en": "Chicken Liver (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "كبد دجاج مطبوخ",
+       "name_en": "Chicken Liver (cooked)",
+       "role": "protein",
+       "grams": 100,
+       "per100g": {
+        "calories": 167,
+        "protein_g": 24.5,
+        "carbs_g": 0.9,
+        "fat_g": 6.5,
+        "saturated_fat_g": 2.1,
+        "cholesterol_mg": 564,
+        "sodium_mg": 76,
+        "potassium_mg": 263,
+        "magnesium_mg": 21,
+        "calcium_mg": 11,
+        "iron_mg": 11.6,
+        "zinc_mg": 3.98,
+        "copper_mg": 0.49,
+        "vitamin_a_mcg": 4296,
+        "vitamin_c_mg": 27.9,
+        "vitamin_b12_mcg": 16.9,
+        "folate_mcg": 578,
+        "thiamin_mg": 0.305,
+        "riboflavin_mg": 2.3,
+        "niacin_mg": 11.8,
+        "vitamin_b6_mg": 0.853,
+        "pantothenic_mg": 6.7,
+        "biotin_mcg": 130
+       }
+      }
+     ]
+    },
+    {
+     "id": "lamb_liver_cooked",
+     "name_ar": "كبد خروف مطبوخ",
+     "name_en": "Lamb Liver (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "كبد خروف مطبوخ",
+       "name_en": "Lamb Liver (cooked)",
+       "role": "protein",
+       "grams": 100,
+       "per100g": {
+        "calories": 238,
+        "protein_g": 30.6,
+        "carbs_g": 3.8,
+        "fat_g": 10.5,
+        "saturated_fat_g": 3.5,
+        "cholesterol_mg": 501,
+        "sodium_mg": 105,
+        "potassium_mg": 352,
+        "magnesium_mg": 23,
+        "calcium_mg": 9,
+        "iron_mg": 10.2,
+        "zinc_mg": 6.8,
+        "copper_mg": 9.8,
+        "vitamin_a_mcg": 7491,
+        "vitamin_c_mg": 4,
+        "vitamin_b12_mcg": 85.6,
+        "folate_mcg": 400,
+        "thiamin_mg": 0.36,
+        "riboflavin_mg": 4.42,
+        "niacin_mg": 19.5,
+        "vitamin_b6_mg": 0.9,
+        "pantothenic_mg": 7.6,
+        "biotin_mcg": 42
+       }
+      }
+     ]
+    },
+    {
+     "id": "lean_beef_cooked",
+     "name_ar": "لحم بقري قليل الدهن مطبوخ",
+     "name_en": "Lean Beef (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "لحم بقري قليل الدهن مطبوخ",
+       "name_en": "Lean Beef (cooked)",
+       "role": "protein",
+       "grams": 100,
+       "per100g": {
+        "calories": 212,
+        "protein_g": 30.9,
+        "carbs_g": 0,
+        "fat_g": 8.9,
+        "saturated_fat_g": 3.4,
+        "cholesterol_mg": 89,
+        "sodium_mg": 56,
+        "potassium_mg": 357,
+        "magnesium_mg": 27,
+        "calcium_mg": 19,
+        "iron_mg": 1.9,
+        "zinc_mg": 5.6,
+        "copper_mg": 0.1,
+        "vitamin_b12_mcg": 1.5,
+        "thiamin_mg": 0.09,
+        "riboflavin_mg": 0.22,
+        "niacin_mg": 7.8,
+        "vitamin_b6_mg": 0.59,
+        "pantothenic_mg": 0.7
+       }
+      }
+     ]
+    },
+    {
+     "id": "turkey_cooked",
+     "name_ar": "ديك رومي مطبوخ",
+     "name_en": "Turkey (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "ديك رومي مطبوخ",
+       "name_en": "Turkey (cooked)",
+       "role": "protein",
+       "grams": 100,
+       "per100g": {
+        "calories": 170,
+        "protein_g": 29.3,
+        "carbs_g": 0,
+        "fat_g": 4.97,
+        "saturated_fat_g": 1.64,
+        "cholesterol_mg": 76,
+        "sodium_mg": 70,
+        "potassium_mg": 298,
+        "magnesium_mg": 27,
+        "calcium_mg": 21,
+        "iron_mg": 1.47,
+        "zinc_mg": 2.79,
+        "copper_mg": 0.09,
+        "vitamin_b12_mcg": 1.46,
+        "thiamin_mg": 0.052,
+        "riboflavin_mg": 0.213,
+        "niacin_mg": 6.18,
+        "vitamin_b6_mg": 0.46,
+        "pantothenic_mg": 0.93
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "cheese_eggs",
+   "label": "أجبان وبيض",
+   "label_en": "Cheese & Eggs",
+   "emoji": "🧀",
+   "dishes": [
+    {
+     "id": "cheddar_cheese",
+     "name_ar": "جبن شيدر",
+     "name_en": "Cheddar Cheese",
+     "default_portion_g": 30,
+     "components": [
+      {
+       "name_ar": "جبن شيدر",
+       "name_en": "Cheddar Cheese",
+       "role": "dairy",
+       "grams": 30,
+       "per100g": {
+        "calories": 403,
+        "protein_g": 24.9,
+        "carbs_g": 1.3,
+        "fat_g": 33.1,
+        "saturated_fat_g": 21,
+        "sugar_g": 0.5,
+        "cholesterol_mg": 105,
+        "sodium_mg": 621,
+        "potassium_mg": 98,
+        "magnesium_mg": 28,
+        "calcium_mg": 721,
+        "iron_mg": 0.68,
+        "zinc_mg": 3.11,
+        "copper_mg": 0.03,
+        "vitamin_a_mcg": 265,
+        "vitamin_b12_mcg": 1.1,
+        "folate_mcg": 27,
+        "riboflavin_mg": 0.428,
+        "niacin_mg": 0.08,
+        "vitamin_b6_mg": 0.066,
+        "pantothenic_mg": 0.41,
+        "biotin_mcg": 2.4
+       }
+      }
+     ]
+    },
+    {
+     "id": "swiss_cheese",
+     "name_ar": "جبن سويسري",
+     "name_en": "Swiss Cheese",
+     "default_portion_g": 30,
+     "components": [
+      {
+       "name_ar": "جبن سويسري",
+       "name_en": "Swiss Cheese",
+       "role": "dairy",
+       "grams": 30,
+       "per100g": {
+        "calories": 393,
+        "protein_g": 26.9,
+        "carbs_g": 1.4,
+        "fat_g": 31.0,
+        "saturated_fat_g": 18.5,
+        "sugar_g": 1.3,
+        "cholesterol_mg": 93,
+        "sodium_mg": 187,
+        "potassium_mg": 77,
+        "magnesium_mg": 38,
+        "calcium_mg": 890,
+        "iron_mg": 0.2,
+        "zinc_mg": 4.37,
+        "copper_mg": 0.04,
+        "vitamin_a_mcg": 235,
+        "vitamin_b12_mcg": 1.7,
+        "folate_mcg": 6,
+        "riboflavin_mg": 0.28,
+        "vitamin_b6_mg": 0.078,
+        "pantothenic_mg": 0.43,
+        "biotin_mcg": 1.8
+       }
+      }
+     ]
+    },
+    {
+     "id": "parmesan_cheese",
+     "name_ar": "جبن بارميزان",
+     "name_en": "Parmesan Cheese",
+     "default_portion_g": 15,
+     "components": [
+      {
+       "name_ar": "جبن بارميزان",
+       "name_en": "Parmesan Cheese",
+       "role": "dairy",
+       "grams": 15,
+       "per100g": {
+        "calories": 392,
+        "protein_g": 35.8,
+        "carbs_g": 3.2,
+        "fat_g": 25.8,
+        "saturated_fat_g": 16.4,
+        "sugar_g": 0.8,
+        "cholesterol_mg": 68,
+        "sodium_mg": 1529,
+        "potassium_mg": 92,
+        "magnesium_mg": 44,
+        "calcium_mg": 1184,
+        "iron_mg": 0.82,
+        "zinc_mg": 2.75,
+        "copper_mg": 0.03,
+        "vitamin_a_mcg": 207,
+        "vitamin_b12_mcg": 1.2,
+        "folate_mcg": 7,
+        "riboflavin_mg": 0.332,
+        "niacin_mg": 0.27,
+        "vitamin_b6_mg": 0.091,
+        "pantothenic_mg": 0.45,
+        "biotin_mcg": 2
+       }
+      }
+     ]
+    },
+    {
+     "id": "edam_cheese",
+     "name_ar": "جبن إيدام",
+     "name_en": "Edam Cheese",
+     "default_portion_g": 30,
+     "components": [
+      {
+       "name_ar": "جبن إيدام",
+       "name_en": "Edam Cheese",
+       "role": "dairy",
+       "grams": 30,
+       "per100g": {
+        "calories": 357,
+        "protein_g": 25.0,
+        "carbs_g": 1.43,
+        "fat_g": 27.8,
+        "saturated_fat_g": 17.6,
+        "sugar_g": 1.43,
+        "cholesterol_mg": 89,
+        "sodium_mg": 965,
+        "potassium_mg": 188,
+        "magnesium_mg": 30,
+        "calcium_mg": 731,
+        "iron_mg": 0.44,
+        "zinc_mg": 3.75,
+        "copper_mg": 0.04,
+        "vitamin_a_mcg": 224,
+        "vitamin_b12_mcg": 1.54,
+        "folate_mcg": 16,
+        "riboflavin_mg": 0.389,
+        "niacin_mg": 0.082,
+        "vitamin_b6_mg": 0.076,
+        "pantothenic_mg": 0.281,
+        "biotin_mcg": 2
+       }
+      }
+     ]
+    },
+    {
+     "id": "halloumi_cheese",
+     "name_ar": "جبن حلوم",
+     "name_en": "Halloumi Cheese",
+     "default_portion_g": 30,
+     "components": [
+      {
+       "name_ar": "جبن حلوم",
+       "name_en": "Halloumi Cheese",
+       "role": "dairy",
+       "grams": 30,
+       "per100g": {
+        "calories": 321,
+        "protein_g": 21.5,
+        "carbs_g": 2.2,
+        "fat_g": 25,
+        "saturated_fat_g": 16,
+        "sugar_g": 1.5,
+        "cholesterol_mg": 89,
+        "sodium_mg": 1350,
+        "calcium_mg": 700,
+        "potassium_mg": 90,
+        "magnesium_mg": 30,
+        "zinc_mg": 2.8,
+        "vitamin_a_mcg": 230,
+        "vitamin_b12_mcg": 1.4,
+        "riboflavin_mg": 0.35,
+        "biotin_mcg": 2
+       }
+      }
+     ]
+    },
+    {
+     "id": "plain_yogurt",
+     "name_ar": "لبن زبادي سادة",
+     "name_en": "Plain Yogurt",
+     "default_portion_g": 170,
+     "components": [
+      {
+       "name_ar": "لبن زبادي سادة",
+       "name_en": "Plain Yogurt",
+       "role": "dairy",
+       "grams": 170,
+       "per100g": {
+        "calories": 61,
+        "protein_g": 3.47,
+        "carbs_g": 4.66,
+        "fat_g": 3.25,
+        "saturated_fat_g": 2.1,
+        "sugar_g": 4.66,
+        "cholesterol_mg": 13,
+        "sodium_mg": 46,
+        "potassium_mg": 155,
+        "magnesium_mg": 12,
+        "calcium_mg": 121,
+        "iron_mg": 0.05,
+        "zinc_mg": 0.59,
+        "copper_mg": 0.01,
+        "vitamin_a_mcg": 27,
+        "vitamin_c_mg": 0.5,
+        "vitamin_b12_mcg": 0.37,
+        "folate_mcg": 7,
+        "thiamin_mg": 0.029,
+        "riboflavin_mg": 0.142,
+        "niacin_mg": 0.075,
+        "vitamin_b6_mg": 0.032,
+        "pantothenic_mg": 0.389,
+        "biotin_mcg": 2.6
+       }
+      }
+     ]
+    },
+    {
+     "id": "dry_milk_powder",
+     "name_ar": "حليب مجفف (بودرة)",
+     "name_en": "Dry Milk Powder",
+     "default_portion_g": 20,
+     "components": [
+      {
+       "name_ar": "حليب مجفف (بودرة)",
+       "name_en": "Dry Milk Powder",
+       "role": "dairy",
+       "grams": 20,
+       "per100g": {
+        "calories": 496,
+        "protein_g": 26.3,
+        "carbs_g": 38.4,
+        "fat_g": 26.7,
+        "saturated_fat_g": 16.7,
+        "sugar_g": 38.4,
+        "cholesterol_mg": 97,
+        "sodium_mg": 371,
+        "potassium_mg": 1330,
+        "magnesium_mg": 85,
+        "calcium_mg": 912,
+        "iron_mg": 0.47,
+        "zinc_mg": 3.34,
+        "copper_mg": 0.08,
+        "vitamin_a_mcg": 270,
+        "vitamin_c_mg": 8.6,
+        "vitamin_d_mcg": 0.5,
+        "vitamin_b12_mcg": 3.25,
+        "folate_mcg": 37,
+        "thiamin_mg": 0.283,
+        "riboflavin_mg": 1.21,
+        "niacin_mg": 0.646,
+        "vitamin_b6_mg": 0.302,
+        "pantothenic_mg": 2.27,
+        "biotin_mcg": 9
+       }
+      }
+     ]
+    },
+    {
+     "id": "egg_yolk",
+     "name_ar": "صفار البيض",
+     "name_en": "Egg Yolk",
+     "default_portion_g": 17,
+     "components": [
+      {
+       "name_ar": "صفار البيض",
+       "name_en": "Egg Yolk",
+       "role": "protein",
+       "grams": 17,
+       "per100g": {
+        "calories": 322,
+        "protein_g": 15.9,
+        "carbs_g": 3.6,
+        "fat_g": 26.5,
+        "saturated_fat_g": 9.55,
+        "sugar_g": 0.56,
+        "cholesterol_mg": 1085,
+        "sodium_mg": 48,
+        "potassium_mg": 109,
+        "magnesium_mg": 5,
+        "calcium_mg": 129,
+        "iron_mg": 2.73,
+        "zinc_mg": 2.3,
+        "copper_mg": 0.077,
+        "vitamin_a_mcg": 381,
+        "vitamin_d_mcg": 5.4,
+        "vitamin_b12_mcg": 1.95,
+        "folate_mcg": 146,
+        "thiamin_mg": 0.176,
+        "riboflavin_mg": 0.528,
+        "niacin_mg": 0.024,
+        "vitamin_b6_mg": 0.35,
+        "pantothenic_mg": 2.99,
+        "biotin_mcg": 55
+       }
+      }
+     ],
+     "unit_name_ar": "صفار"
+    }
+   ]
+  },
+  {
+   "key": "veg_rich",
+   "label": "خضار غنية بالمغذيات",
+   "label_en": "Nutrient-Rich Vegetables",
+   "emoji": "🥦",
+   "dishes": [
+    {
+     "id": "kale",
+     "name_ar": "كرنب أخضر (كيل)",
+     "name_en": "Kale",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "كرنب أخضر (كيل)",
+       "name_en": "Kale",
+       "role": "veg",
+       "grams": 100,
+       "per100g": {
+        "calories": 49,
+        "protein_g": 4.3,
+        "carbs_g": 8.8,
+        "fat_g": 0.9,
+        "fiber_g": 3.6,
+        "sugar_g": 2.3,
+        "sodium_mg": 38,
+        "potassium_mg": 491,
+        "magnesium_mg": 47,
+        "calcium_mg": 150,
+        "iron_mg": 1.5,
+        "zinc_mg": 0.56,
+        "copper_mg": 0.15,
+        "vitamin_a_mcg": 500,
+        "vitamin_c_mg": 120,
+        "folate_mcg": 141,
+        "thiamin_mg": 0.11,
+        "riboflavin_mg": 0.13,
+        "niacin_mg": 1,
+        "vitamin_b6_mg": 0.27,
+        "pantothenic_mg": 0.09
+       }
+      }
+     ]
+    },
+    {
+     "id": "spinach_cooked",
+     "name_ar": "سبانخ مطبوخة",
+     "name_en": "Spinach (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "سبانخ مطبوخة",
+       "name_en": "Spinach (cooked)",
+       "role": "veg",
+       "grams": 100,
+       "per100g": {
+        "calories": 23,
+        "protein_g": 3,
+        "carbs_g": 3.8,
+        "fat_g": 0.26,
+        "fiber_g": 2.4,
+        "sugar_g": 0.43,
+        "sodium_mg": 70,
+        "potassium_mg": 466,
+        "magnesium_mg": 87,
+        "calcium_mg": 136,
+        "iron_mg": 3.57,
+        "zinc_mg": 0.76,
+        "copper_mg": 0.174,
+        "vitamin_a_mcg": 524,
+        "vitamin_c_mg": 9.8,
+        "folate_mcg": 146,
+        "thiamin_mg": 0.095,
+        "riboflavin_mg": 0.236,
+        "niacin_mg": 0.49,
+        "vitamin_b6_mg": 0.242,
+        "pantothenic_mg": 0.145
+       }
+      }
+     ]
+    },
+    {
+     "id": "broccoli_cooked",
+     "name_ar": "بروكلي مطبوخ",
+     "name_en": "Broccoli (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "بروكلي مطبوخ",
+       "name_en": "Broccoli (cooked)",
+       "role": "veg",
+       "grams": 100,
+       "per100g": {
+        "calories": 35,
+        "protein_g": 2.38,
+        "carbs_g": 7.18,
+        "fat_g": 0.41,
+        "fiber_g": 3.3,
+        "sugar_g": 1.39,
+        "sodium_mg": 41,
+        "potassium_mg": 293,
+        "magnesium_mg": 21,
+        "calcium_mg": 40,
+        "iron_mg": 0.67,
+        "zinc_mg": 0.45,
+        "copper_mg": 0.061,
+        "vitamin_a_mcg": 77,
+        "vitamin_c_mg": 64.9,
+        "folate_mcg": 108,
+        "thiamin_mg": 0.063,
+        "riboflavin_mg": 0.123,
+        "niacin_mg": 0.553,
+        "vitamin_b6_mg": 0.2,
+        "pantothenic_mg": 0.616
+       }
+      }
+     ]
+    },
+    {
+     "id": "red_bell_pepper",
+     "name_ar": "فلفل أحمر حلو",
+     "name_en": "Red Bell Pepper",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "فلفل أحمر حلو",
+       "name_en": "Red Bell Pepper",
+       "role": "veg",
+       "grams": 100,
+       "per100g": {
+        "calories": 31,
+        "protein_g": 0.99,
+        "carbs_g": 6.03,
+        "fat_g": 0.3,
+        "fiber_g": 2.1,
+        "sugar_g": 4.2,
+        "sodium_mg": 4,
+        "potassium_mg": 211,
+        "magnesium_mg": 12,
+        "calcium_mg": 7,
+        "iron_mg": 0.43,
+        "zinc_mg": 0.25,
+        "copper_mg": 0.017,
+        "vitamin_a_mcg": 157,
+        "vitamin_c_mg": 128,
+        "folate_mcg": 46,
+        "thiamin_mg": 0.054,
+        "riboflavin_mg": 0.085,
+        "niacin_mg": 0.979,
+        "vitamin_b6_mg": 0.291,
+        "pantothenic_mg": 0.317
+       }
+      }
+     ]
+    },
+    {
+     "id": "green_bell_pepper",
+     "name_ar": "فلفل أخضر حلو",
+     "name_en": "Green Bell Pepper",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "فلفل أخضر حلو",
+       "name_en": "Green Bell Pepper",
+       "role": "veg",
+       "grams": 100,
+       "per100g": {
+        "calories": 20,
+        "protein_g": 0.86,
+        "carbs_g": 4.64,
+        "fat_g": 0.17,
+        "fiber_g": 1.7,
+        "sugar_g": 2.4,
+        "sodium_mg": 3,
+        "potassium_mg": 175,
+        "magnesium_mg": 10,
+        "calcium_mg": 10,
+        "iron_mg": 0.34,
+        "zinc_mg": 0.13,
+        "copper_mg": 0.066,
+        "vitamin_a_mcg": 18,
+        "vitamin_c_mg": 80.4,
+        "folate_mcg": 10,
+        "thiamin_mg": 0.057,
+        "riboflavin_mg": 0.028,
+        "niacin_mg": 0.48,
+        "vitamin_b6_mg": 0.224,
+        "pantothenic_mg": 0.099
+       }
+      }
+     ]
+    },
+    {
+     "id": "mushrooms",
+     "name_ar": "فطر (مشروم)",
+     "name_en": "Mushrooms",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "فطر (مشروم)",
+       "name_en": "Mushrooms",
+       "role": "veg",
+       "grams": 100,
+       "per100g": {
+        "calories": 22,
+        "protein_g": 3.09,
+        "carbs_g": 3.26,
+        "fat_g": 0.34,
+        "fiber_g": 1,
+        "sugar_g": 1.98,
+        "sodium_mg": 5,
+        "potassium_mg": 318,
+        "magnesium_mg": 9,
+        "calcium_mg": 3,
+        "iron_mg": 0.5,
+        "zinc_mg": 0.52,
+        "copper_mg": 0.318,
+        "vitamin_d_mcg": 0.2,
+        "folate_mcg": 17,
+        "thiamin_mg": 0.081,
+        "riboflavin_mg": 0.402,
+        "niacin_mg": 3.61,
+        "vitamin_b6_mg": 0.104,
+        "pantothenic_mg": 1.5,
+        "biotin_mcg": 16
+       }
+      }
+     ]
+    },
+    {
+     "id": "dried_shiitake_mushrooms",
+     "name_ar": "فطر شيتاكي مجفف",
+     "name_en": "Dried Shiitake Mushrooms",
+     "default_portion_g": 10,
+     "components": [
+      {
+       "name_ar": "فطر شيتاكي مجفف",
+       "name_en": "Dried Shiitake Mushrooms",
+       "role": "veg",
+       "grams": 10,
+       "per100g": {
+        "calories": 296,
+        "protein_g": 9.58,
+        "carbs_g": 75.4,
+        "fat_g": 0.99,
+        "saturated_fat_g": 0.21,
+        "fiber_g": 11.5,
+        "sugar_g": 2.21,
+        "sodium_mg": 13,
+        "potassium_mg": 1534,
+        "magnesium_mg": 132,
+        "calcium_mg": 11,
+        "iron_mg": 1.72,
+        "zinc_mg": 7.66,
+        "copper_mg": 5.17,
+        "vitamin_d_mcg": 3.9,
+        "folate_mcg": 163,
+        "thiamin_mg": 0.3,
+        "riboflavin_mg": 1.27,
+        "niacin_mg": 14.1,
+        "vitamin_b6_mg": 0.965,
+        "pantothenic_mg": 21.9,
+        "biotin_mcg": 20
+       }
+      }
+     ]
+    },
+    {
+     "id": "beets_cooked",
+     "name_ar": "بنجر (شمندر) مطبوخ",
+     "name_en": "Beets (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "بنجر (شمندر) مطبوخ",
+       "name_en": "Beets (cooked)",
+       "role": "veg",
+       "grams": 100,
+       "per100g": {
+        "calories": 44,
+        "protein_g": 1.68,
+        "carbs_g": 9.96,
+        "fat_g": 0.18,
+        "fiber_g": 2,
+        "sugar_g": 7.96,
+        "sodium_mg": 77,
+        "potassium_mg": 305,
+        "magnesium_mg": 23,
+        "calcium_mg": 16,
+        "iron_mg": 0.79,
+        "zinc_mg": 0.35,
+        "copper_mg": 0.074,
+        "vitamin_c_mg": 3.6,
+        "folate_mcg": 80,
+        "thiamin_mg": 0.027,
+        "riboflavin_mg": 0.04,
+        "niacin_mg": 0.331,
+        "vitamin_b6_mg": 0.067,
+        "pantothenic_mg": 0.145
+       }
+      }
+     ]
+    },
+    {
+     "id": "asparagus_cooked",
+     "name_ar": "هليون مطبوخ",
+     "name_en": "Asparagus (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "هليون مطبوخ",
+       "name_en": "Asparagus (cooked)",
+       "role": "veg",
+       "grams": 100,
+       "per100g": {
+        "calories": 22,
+        "protein_g": 2.4,
+        "carbs_g": 4.11,
+        "fat_g": 0.22,
+        "fiber_g": 2,
+        "sugar_g": 1.3,
+        "sodium_mg": 14,
+        "potassium_mg": 224,
+        "magnesium_mg": 14,
+        "calcium_mg": 23,
+        "iron_mg": 0.91,
+        "zinc_mg": 0.6,
+        "copper_mg": 0.165,
+        "vitamin_a_mcg": 50,
+        "vitamin_c_mg": 7.7,
+        "folate_mcg": 149,
+        "thiamin_mg": 0.162,
+        "riboflavin_mg": 0.139,
+        "niacin_mg": 1.08,
+        "vitamin_b6_mg": 0.079,
+        "pantothenic_mg": 0.225
+       }
+      }
+     ]
+    },
+    {
+     "id": "okra_cooked",
+     "name_ar": "بامية مطبوخة",
+     "name_en": "Okra (cooked)",
+     "default_portion_g": 100,
+     "components": [
+      {
+       "name_ar": "بامية مطبوخة",
+       "name_en": "Okra (cooked)",
+       "role": "veg",
+       "grams": 100,
+       "per100g": {
+        "calories": 22,
+        "protein_g": 1.87,
+        "carbs_g": 4.51,
+        "fat_g": 0.21,
+        "fiber_g": 3.2,
+        "sugar_g": 2.4,
+        "sodium_mg": 6,
+        "potassium_mg": 135,
+        "magnesium_mg": 36,
+        "calcium_mg": 77,
+        "iron_mg": 0.28,
+        "zinc_mg": 0.43,
+        "copper_mg": 0.068,
+        "vitamin_a_mcg": 14,
+        "vitamin_c_mg": 16.3,
+        "folate_mcg": 46,
+        "thiamin_mg": 0.131,
+        "riboflavin_mg": 0.055,
+        "niacin_mg": 0.871,
+        "vitamin_b6_mg": 0.155,
+        "pantothenic_mg": 0.213
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "grains_fortified",
+   "label": "حبوب وأطعمة مدعّمة",
+   "label_en": "Grains & Fortified",
+   "emoji": "🌾",
+   "dishes": [
+    {
+     "id": "wheat_bran",
+     "name_ar": "نخالة القمح",
+     "name_en": "Wheat Bran",
+     "default_portion_g": 15,
+     "components": [
+      {
+       "name_ar": "نخالة القمح",
+       "name_en": "Wheat Bran",
+       "role": "carb",
+       "grams": 15,
+       "per100g": {
+        "calories": 216,
+        "protein_g": 15.6,
+        "carbs_g": 64.5,
+        "fat_g": 4.25,
+        "saturated_fat_g": 0.63,
+        "fiber_g": 42.8,
+        "sugar_g": 0.41,
+        "sodium_mg": 2,
+        "potassium_mg": 1182,
+        "magnesium_mg": 611,
+        "calcium_mg": 73,
+        "iron_mg": 10.6,
+        "zinc_mg": 7.27,
+        "copper_mg": 0.998,
+        "folate_mcg": 79,
+        "thiamin_mg": 0.523,
+        "riboflavin_mg": 0.577,
+        "niacin_mg": 13.6,
+        "vitamin_b6_mg": 1.3,
+        "pantothenic_mg": 2.18,
+        "biotin_mcg": 6
+       }
+      }
+     ]
+    },
+    {
+     "id": "fortified_breakfast_cereal",
+     "name_ar": "حبوب إفطار مدعّمة",
+     "name_en": "Fortified Breakfast Cereal",
+     "default_portion_g": 40,
+     "components": [
+      {
+       "name_ar": "حبوب إفطار مدعّمة",
+       "name_en": "Fortified Breakfast Cereal",
+       "role": "carb",
+       "grams": 40,
+       "per100g": {
+        "calories": 379,
+        "protein_g": 7.5,
+        "carbs_g": 84,
+        "fat_g": 1.5,
+        "fiber_g": 9,
+        "sugar_g": 22,
+        "sodium_mg": 580,
+        "potassium_mg": 230,
+        "magnesium_mg": 60,
+        "calcium_mg": 33,
+        "iron_mg": 28,
+        "zinc_mg": 19,
+        "copper_mg": 0.3,
+        "vitamin_a_mcg": 470,
+        "vitamin_c_mg": 56,
+        "vitamin_d_mcg": 5,
+        "vitamin_b12_mcg": 5.5,
+        "folate_mcg": 670,
+        "thiamin_mg": 1.4,
+        "riboflavin_mg": 1.6,
+        "niacin_mg": 19,
+        "vitamin_b6_mg": 1.9,
+        "pantothenic_mg": 1.5
+       }
+      }
+     ]
+    },
+    {
+     "id": "nutritional_yeast",
+     "name_ar": "خميرة غذائية",
+     "name_en": "Nutritional Yeast",
+     "default_portion_g": 16,
+     "components": [
+      {
+       "name_ar": "خميرة غذائية",
+       "name_en": "Nutritional Yeast",
+       "role": "carb",
+       "grams": 16,
+       "per100g": {
+        "calories": 325,
+        "protein_g": 45,
+        "carbs_g": 36,
+        "fat_g": 5.5,
+        "fiber_g": 25,
+        "sugar_g": 0,
+        "saturated_fat_g": 0.7,
+        "sodium_mg": 30,
+        "potassium_mg": 2100,
+        "magnesium_mg": 230,
+        "calcium_mg": 75,
+        "iron_mg": 5,
+        "zinc_mg": 8,
+        "copper_mg": 0.8,
+        "thiamin_mg": 11,
+        "riboflavin_mg": 4,
+        "niacin_mg": 40,
+        "vitamin_b6_mg": 1.5,
+        "folate_mcg": 1100,
+        "pantothenic_mg": 13,
+        "biotin_mcg": 100
+       }
+      }
+     ]
+    },
+    {
+     "id": "brewer_s_yeast",
+     "name_ar": "خميرة البيرة",
+     "name_en": "Brewer's Yeast",
+     "default_portion_g": 15,
+     "components": [
+      {
+       "name_ar": "خميرة البيرة",
+       "name_en": "Brewer's Yeast",
+       "role": "carb",
+       "grams": 15,
+       "per100g": {
+        "calories": 380,
+        "protein_g": 48,
+        "carbs_g": 38,
+        "fat_g": 5,
+        "fiber_g": 23,
+        "sugar_g": 0,
+        "saturated_fat_g": 0.7,
+        "sodium_mg": 33,
+        "potassium_mg": 1900,
+        "magnesium_mg": 230,
+        "calcium_mg": 100,
+        "iron_mg": 4.7,
+        "zinc_mg": 8,
+        "copper_mg": 0.7,
+        "thiamin_mg": 11,
+        "riboflavin_mg": 4,
+        "niacin_mg": 38,
+        "vitamin_b6_mg": 1.5,
+        "folate_mcg": 1250,
+        "pantothenic_mg": 11,
+        "biotin_mcg": 100
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "other_rich",
+   "label": "أطعمة غنية متنوعة",
+   "label_en": "Other Nutrient-Rich",
+   "emoji": "✨",
+   "dishes": [
+    {
+     "id": "dried_apricots",
+     "name_ar": "مشمش مجفف",
+     "name_en": "Dried Apricots",
+     "default_portion_g": 40,
+     "components": [
+      {
+       "name_ar": "مشمش مجفف",
+       "name_en": "Dried Apricots",
+       "role": "fruit",
+       "grams": 40,
+       "per100g": {
+        "calories": 241,
+        "protein_g": 3.39,
+        "carbs_g": 62.6,
+        "fat_g": 0.51,
+        "fiber_g": 7.3,
+        "sugar_g": 53.4,
+        "sodium_mg": 10,
+        "potassium_mg": 1162,
+        "magnesium_mg": 32,
+        "calcium_mg": 55,
+        "iron_mg": 2.66,
+        "zinc_mg": 0.39,
+        "copper_mg": 0.343,
+        "vitamin_a_mcg": 180,
+        "vitamin_c_mg": 1,
+        "vitamin_b6_mg": 0.143,
+        "folate_mcg": 10,
+        "thiamin_mg": 0.015,
+        "riboflavin_mg": 0.074,
+        "niacin_mg": 2.59,
+        "pantothenic_mg": 0.516
+       }
+      }
+     ]
+    },
+    {
+     "id": "dark_chocolate",
+     "name_ar": "شوكولاتة داكنة",
+     "name_en": "Dark Chocolate",
+     "default_portion_g": 30,
+     "components": [
+      {
+       "name_ar": "شوكولاتة داكنة",
+       "name_en": "Dark Chocolate",
+       "role": "other",
+       "grams": 30,
+       "per100g": {
+        "calories": 598,
+        "protein_g": 7.79,
+        "carbs_g": 45.9,
+        "fat_g": 42.6,
+        "fiber_g": 10.9,
+        "sugar_g": 24,
+        "saturated_fat_g": 24.5,
+        "sodium_mg": 20,
+        "potassium_mg": 715,
+        "magnesium_mg": 228,
+        "calcium_mg": 73,
+        "iron_mg": 11.9,
+        "zinc_mg": 3.31,
+        "copper_mg": 1.77,
+        "vitamin_a_mcg": 2,
+        "vitamin_b12_mcg": 0.28,
+        "folate_mcg": 15,
+        "thiamin_mg": 0.034,
+        "riboflavin_mg": 0.078,
+        "niacin_mg": 1.05,
+        "vitamin_b6_mg": 0.038,
+        "pantothenic_mg": 0.418,
+        "caffeine_mg": 80
+       }
+      }
+     ]
+    },
+    {
+     "id": "sun_dried_tomatoes",
+     "name_ar": "طماطم مجففة بالشمس",
+     "name_en": "Sun-Dried Tomatoes",
+     "default_portion_g": 10,
+     "components": [
+      {
+       "name_ar": "طماطم مجففة بالشمس",
+       "name_en": "Sun-Dried Tomatoes",
+       "role": "veg",
+       "grams": 10,
+       "per100g": {
+        "calories": 258,
+        "protein_g": 14.1,
+        "carbs_g": 55.8,
+        "fat_g": 2.97,
+        "fiber_g": 12.3,
+        "sugar_g": 37.6,
+        "saturated_fat_g": 0.43,
+        "sodium_mg": 2095,
+        "potassium_mg": 3427,
+        "magnesium_mg": 194,
+        "calcium_mg": 110,
+        "iron_mg": 9.09,
+        "zinc_mg": 1.99,
+        "copper_mg": 1.42,
+        "vitamin_a_mcg": 42,
+        "vitamin_c_mg": 39.2,
+        "folate_mcg": 68,
+        "thiamin_mg": 0.528,
+        "riboflavin_mg": 0.489,
+        "niacin_mg": 9.05,
+        "vitamin_b6_mg": 0.332,
+        "pantothenic_mg": 1.13
+       }
+      }
+     ]
+    }
+   ]
   }
  ]
 }
