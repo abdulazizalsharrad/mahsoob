@@ -8110,6 +8110,83 @@
      ]
     }
    ]
+  },
+  {
+   "key": "sweeteners",
+   "label": "مُحلّيات طبيعية",
+   "label_en": "Natural Sweeteners",
+   "dishes": [
+    {
+     "id": "blackstrap_molasses",
+     "name_ar": "دبس القصب الأسود (العسل الأسود)",
+     "name_en": "Blackstrap Molasses",
+     "default_portion_g": 20,
+     "components": [
+      {
+       "name_ar": "دبس القصب الأسود (العسل الأسود)",
+       "name_en": "Blackstrap Molasses",
+       "role": "carb",
+       "grams": 20,
+       "per100g": {
+        "calories": 290,
+        "protein_g": 0,
+        "carbs_g": 74.7,
+        "fat_g": 0.1,
+        "fiber_g": 0,
+        "sugar_g": 74.7,
+        "saturated_fat_g": 0.034,
+        "sodium_mg": 37,
+        "potassium_mg": 1464,
+        "magnesium_mg": 242,
+        "calcium_mg": 205,
+        "iron_mg": 4.72,
+        "zinc_mg": 0.29,
+        "copper_mg": 0.49,
+        "vitamin_c_mg": 0,
+        "thiamin_mg": 0.041,
+        "riboflavin_mg": 0.002,
+        "niacin_mg": 0.93,
+        "vitamin_b6_mg": 0.67,
+        "pantothenic_mg": 0.804,
+        "phosphorus_mg": 31,
+        "selenium_mcg": 17.8,
+        "manganese_mg": 1.53
+       }
+      }
+     ]
+    },
+    {
+     "id": "date_syrup",
+     "name_ar": "دبس التمر",
+     "name_en": "Date Syrup",
+     "default_portion_g": 20,
+     "components": [
+      {
+       "name_ar": "دبس التمر",
+       "name_en": "Date Syrup",
+       "role": "carb",
+       "grams": 20,
+       "per100g": {
+        "calories": 310,
+        "protein_g": 1.5,
+        "carbs_g": 75,
+        "fat_g": 0.1,
+        "fiber_g": 1,
+        "sugar_g": 66,
+        "saturated_fat_g": 0,
+        "sodium_mg": 50,
+        "potassium_mg": 700,
+        "magnesium_mg": 40,
+        "calcium_mg": 50,
+        "iron_mg": 0.9,
+        "zinc_mg": 0.75,
+        "vitamin_c_mg": 3,
+        "phosphorus_mg": 50
+       }
+      }
+     ]
+    }
+   ]
   }
  ]
 }
